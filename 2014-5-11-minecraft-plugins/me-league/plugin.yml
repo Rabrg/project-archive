@@ -1,0 +1,9 @@
+name: League
+version: 0.0.1
+description: This is plugin a
+load: STARTUP
+author: Rabrg
+authors: [Ryan Greene]
+website: http://forums.bukkit.org/members/rabrg.90565009/
+main: me.rabrg.league.League
+database: false

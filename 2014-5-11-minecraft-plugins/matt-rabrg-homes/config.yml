@@ -1,0 +1,18 @@
+home.support:
+  limit: 2
+home.vip:
+  limit: 3
+home.hero:
+  limit: 4
+home.elite:
+  limit: 5
+home.platinum:
+  limit: 6
+home.legendary:
+  limit: 7
+home.titan:
+  limit: 8
+home.god:
+  limit: 9
+home.mythical:
+  limit: 10

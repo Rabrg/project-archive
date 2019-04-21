@@ -1,0 +1,96 @@
+name: boosCooldowns
+main: cz.boosik.boosCooldown.BoosCoolDown
+version: 3.7.2
+authors: [LordBoos (ingame name boosik)]
+softdepend: [Vault]
+description: >
+             Shortcuts
+commands:
+  booscooldowns:
+    description: Reload command.
+    usage: Use /booscooldowns reload, clearcooldowns <player>, clearwarmups <player> or clearuses <player>
+    aliases: bcd
+permissions:
+    booscooldowns.exception:
+        description: Player wont be affected by plugin at all (no warmups, no cooldowns, no prices, no limits, no aliases).
+        default: false
+    booscooldowns.norestriction:
+        description: Player wont be affected by restrictions but will be affected by aliases(no warmups, no cooldowns, no prices, no limits).
+        default: false
+        children:
+            booscooldowns.noprice: true
+            booscooldowns.nocooldown: true
+            booscooldowns.nowarmup: true
+            booscooldowns.nolimit: true
+    booscooldowns.nocancel.move:
+        description: Players warmups will not be canceled by moving, even if it's turned on.
+        default: false
+    booscooldowns.nocancel.damage:
+        description: Players warmups will not be canceled by damage, even if it's turned on.
+        default: false
+    booscooldowns.nocancel.sneak:
+        description: Players warmups will not be canceled by sneaking, even if it's turned on.
+        default: false
+    booscooldowns.nocancel.sprint:
+        description: Players warmups will not be canceled by sprinting, even if it's turned on.
+        default: false
+    booscooldowns.nocancel.gamemodechange:
+        description: Players warmups will not be canceled by changing gamemode, even if it's turned on.
+        default: false
+    booscooldowns.dontblock.interact:
+        description: Players interaction will not be blocked during warmup, even if it's turned on.
+        default: false
+    booscooldowns.noprice:
+        description: Players commands will always be free of charge.
+        default: false
+    booscooldowns.noprice./command:
+        description: Command "/command" will not be affected by price for users with this permission.
+        default: false
+    booscooldowns.nocooldown:
+        description: Player wont be affected by cooldowns.
+        default: false
+    booscooldowns.nocooldown./command:
+        description: Command "/command" will not be affected by cooldown for users with this permission.
+        default: false
+    booscooldowns.nowarmup:
+        description: Player wont be affected by warmups.
+        default: false
+    booscooldowns.nowarmup./command:
+        description: Command "/command" will not be affected by warmup for users with this permission.
+        default: false
+    booscooldowns.nolimit:
+        description: Player wont be affected by limiting.
+        default: false
+    booscooldowns.start.cooldowns.death.exception:
+        description: Player's cooldowns wont be started on death.
+        default: false
+    booscooldowns.nolimit./command:
+        description: Command "/command" will not be affected by limits for users with this permission.
+        default: false
+    booscooldowns.reload:
+        description: Player can use "/booscooldowns reload" to reload config file.
+        default: op
+    booscooldowns.clear.uses.death:
+        description: Players uses (limit-uses=how many times playr can still use command) are cleared on death (must be enabled in config file too!).
+        default: false
+    booscooldowns.clear.cooldowns.death:
+        description: Players cooldowns are cleared on death (must be enabled in config file too!).
+        default: false
+    booscooldowns.list.limits:
+        description: Player can use "/booscooldowns limits" to see limits and how many times he can still use commands.
+        default: true
+    booscooldowns.set:
+        description: Users with this can use "/booscooldowns set" command.
+        default: op
+    booscooldowns.signs.player.use:
+        description: Player can use boosCooldowns signs (marked as player on second line).
+        default: false
+    booscooldowns.signs.server.use:
+        description: Player can use boosCooldowns signs (marked as server on second line).
+        default: false
+    booscooldowns.signs.player.place:
+        description: Player can place/create boosCooldowns signs (marked as player on second line).
+        default: false
+    booscooldowns.signs.server.place:
+        description: Player can place/create boosCooldowns signs (marked as server on second line). !!WARNING!! With this permission, player can create sign with commands that are run as if used from console!
+        default: false

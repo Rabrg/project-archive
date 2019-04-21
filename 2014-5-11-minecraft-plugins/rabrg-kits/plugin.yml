@@ -1,0 +1,23 @@
+name: RabrgKits
+version: 0.0.1
+description: This plugin allows for kits to be created and used.
+author: Rabrg
+website: http://bukkit.org/members/rabrg.90565009/
+main: me.rabrg.kits.RabrgKitsPlugin
+depend: [RabrgProtection]
+commands:
+  savekit:
+    description: Saves your current kit as a kit with the specified name and description.
+    permission: rabrg.kits.save-kit
+    usage: Syntax error! Simply type /savekit <name> <description>
+  kit:
+    description: Gives you the specified kit.
+    permission: rabrg.kits.kit
+    usage: Syntax error! Simply type /kit <name>
+
+permissions:
+  rabrg.kits.save-kit:
+    description: Gives you access to the savekit command.
+  rabrg.kits.kit:
+    description: Gives you access to the kit command.
+    default: true

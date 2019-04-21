@@ -1,0 +1,234 @@
+/*
+ * AntiCheat for Bukkit.
+ * Copyright (C) 2012-2014 AntiCheat Team | http://gravitydevelopment.net
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+
+package net.gravitydevelopment.anticheat.util;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.OutputStream;
+import java.lang.reflect.Field;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import java.net.URLEncoder;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.List;
+
+import net.gravitydevelopment.anticheat.AntiCheat;
+import net.gravitydevelopment.anticheat.config.Configuration;
+import net.gravitydevelopment.anticheat.config.files.Magic;
+
+import org.bukkit.Bukkit;
+import org.bukkit.command.CommandSender;
+import org.bukkit.configuration.file.FileConfiguration;
+import org.bukkit.entity.Player;
+
+public class PastebinReport {
+	private static final String DATE = new SimpleDateFormat("yyyy-MM-dd kk:mm Z").format(new Date());
+	private static final String API_KEY = "6eeace09c2742f8463b9db9b0c467605";
+
+	private final StringBuilder report = new StringBuilder();
+	private String url = "";
+
+	public PastebinReport(final CommandSender cs) {
+		Player player = null;
+		if (cs instanceof Player) {
+			player = (Player) cs;
+		}
+		createReport(player);
+		try {
+			writeReport();
+		} catch (final IOException e) {
+		}
+		postReport();
+	}
+
+	public PastebinReport(final CommandSender cs, final Player tp) {
+		createReport(tp);
+		try {
+			writeReport();
+		} catch (final IOException e) {
+		}
+		postReport();
+	}
+
+	public String getURL() {
+		return url;
+	}
+
+	private void appendPermissionsTester(final Player player) {
+		if (player == null) {
+			append("No player defined.");
+			return;
+		}
+
+		for (final Permission node : Permission.values()) {
+			report.append(player.getName() + ": " + node.toString() + " " + node.get(player));
+			if (node.get(player) && !node.whichPermission(player).equals(node.toString())) {
+				report.append(" (Applied by " + node.whichPermission(player) + ")");
+			}
+			report.append('\n');
+		}
+	}
+
+	private void createReport(final Player player) {
+		if (Bukkit.getPluginManager().getPlugin("NoCheatPlus") != null) {
+			append("------------ WARNING! ------------");
+			append("This report was run with NoCheatPlus enabled. Results may be inaccurate." + '\n');
+		}
+		append("------------ AntiCheat Report - " + DATE + " ------------");
+		appendSystemInfo();
+		append("------------Last 30 logs------------");
+		appendLogs();
+		append("------------Permission Tester------------");
+		appendPermissionsTester(player);
+		append("------------Event Chains------------");
+		appendEventHandlers();
+		append("------------Magic Diff------------");
+		appendMagicDiff();
+		append("-----------End Of Report------------");
+	}
+
+	private void appendLogs() {
+		final List<String> logs = AntiCheat.getManager().getLoggingManager().getLastLogs();
+		if (logs.size() == 0) {
+			append("No recent logs.");
+			return;
+		}
+		for (final String log : logs) {
+			append(log);
+		}
+	}
+
+	private void appendSystemInfo() {
+		final Runtime runtime = Runtime.getRuntime();
+		final Configuration config = AntiCheat.getManager().getConfiguration();
+		append("AntiCheat Version: " + AntiCheat.getVersion() + (AntiCheat.isUpdated() ? "" : " (OUTDATED)"));
+		append("Server Version: " + Bukkit.getVersion());
+		append("Server Implementation: " + Bukkit.getName());
+		append("Server ID: " + Bukkit.getServerId());
+		append("Java Version: " + System.getProperty("java.vendor") + " " + System.getProperty("java.version"));
+		append("OS: " + System.getProperty("os.name") + " " + System.getProperty("os.version"));
+		append("Free Memory: " + runtime.freeMemory() / 1024 / 1024 + "MB");
+		append("Max Memory: " + runtime.maxMemory() / 1024 / 1024 + "MB");
+		append("Total Memory: " + runtime.totalMemory() / 1024 / 1024 + "MB");
+		append("Online Mode: " + Bukkit.getOnlineMode());
+		append("Players: " + Bukkit.getOnlinePlayers().length + "/" + Bukkit.getMaxPlayers());
+		append("Plugin Count: " + Bukkit.getPluginManager().getPlugins().length);
+		append("Plugin Uptime: " + (System.currentTimeMillis() - AntiCheat.getPlugin().getLoadTime()) / 1000 / 60 + " minutes");
+		append("Enterprise: " + config.getConfig().enterprise.getValue());
+		if (config.getConfig().enterprise.getValue()) {
+			append("- Server name: " + config.getEnterprise().serverName.getValue());
+			append("- Database type: " + config.getEnterprise().database.getType());
+			append("- Groups source: " + (config.getEnterprise().configGroups.getValue() ? "Database" : "Flatfile"));
+			append("- Rules source: " + (config.getEnterprise().configRules.getValue() ? "Database" : "Flatfile"));
+			append("- Levels source: " + (config.getEnterprise().syncLevels.getValue() ? "Database" : "Flatfile"));
+		}
+	}
+
+	private void appendMagicDiff() {
+		// This is hacky, and I like it
+		final Magic magic = AntiCheat.getManager().getConfiguration().getMagic();
+		final FileConfiguration file = magic.getDefaultConfigFile();
+		append("Version: " + magic.getVersion());
+		boolean changed = false;
+		for (final Field field : Magic.class.getFields()) {
+			final Object defaultValue = file.get(field.getName());
+			try {
+				final Field value = magic.getClass().getDeclaredField(field.getName());
+				final String s1 = value.get(magic).toString();
+				final String s2 = defaultValue.toString();
+				if (!s1.equals(s2) && !s1.equals(s2 + ".0")) {
+					changed = true;
+					append(field.getName() + ": " + s1 + " (Default: " + s2 + ")");
+				} else {
+				}
+			} catch (final NoSuchFieldException ex) {
+
+			} catch (final IllegalAccessException ex) {
+
+			}
+		}
+		if (!changed) {
+			append("No changes from default.");
+		}
+	}
+
+	private void appendEventHandlers() {
+		report.append(AntiCheat.getManager().getEventChainReport());
+	}
+
+	private void writeReport() throws IOException {
+		final File f = new File(AntiCheat.getPlugin().getDataFolder() + "/report.txt");
+		final FileWriter r = new FileWriter(f);
+		final BufferedWriter writer = new BufferedWriter(r);
+		writer.write(report.toString());
+		writer.close();
+	}
+
+	private void postReport() {
+		try {
+			final URL urls = new URL("http://pastebin.com/api/api_post.php");
+			final HttpURLConnection conn = (HttpURLConnection) urls.openConnection();
+			conn.setConnectTimeout(5000);
+			conn.setReadTimeout(5000);
+			conn.setRequestMethod("POST");
+			conn.addRequestProperty("Content-type", "application/x-www-form-urlencoded");
+			conn.setInstanceFollowRedirects(false);
+			conn.setDoOutput(true);
+			final OutputStream out = conn.getOutputStream();
+
+			out.write(("api_option=paste" + "&api_dev_key=" + URLEncoder.encode(API_KEY, "utf-8") + "&api_paste_code=" + URLEncoder.encode(report.toString(), "utf-8") + "&api_paste_private=" + URLEncoder.encode("1", "utf-8") + "&api_paste_name=" + URLEncoder.encode("", "utf-8") + "&api_paste_expire_date=" + URLEncoder.encode("1M", "utf-8") + "&api_paste_format=" + URLEncoder.encode("text", "utf-8") + "&api_user_key=" + URLEncoder.encode("", "utf-8")).getBytes());
+			out.flush();
+			out.close();
+
+			if (conn.getResponseCode() == 200) {
+				final InputStream receive = conn.getInputStream();
+				final BufferedReader reader = new BufferedReader(new InputStreamReader(receive));
+				String line;
+				final StringBuffer response = new StringBuffer();
+				while ((line = reader.readLine()) != null) {
+					response.append(line);
+					response.append("\r\n");
+				}
+				reader.close();
+
+				final String result = response.toString().trim();
+
+				if (!result.contains("http://")) {
+					url = "Failed to post.  Check report.txt";
+				} else {
+					url = result.trim();
+				}
+			} else {
+				url = "Failed to post.  Check report.txt";
+			}
+		} catch (final Exception e) {
+			url = "Failed to post.  Check report.txt";
+		}
+	}
+
+	private void append(final String s) {
+		report.append(s + '\n');
+	}
+}

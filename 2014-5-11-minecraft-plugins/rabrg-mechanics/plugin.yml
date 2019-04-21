@@ -1,0 +1,7 @@
+name: RabrgMechanics
+version: 0.0.1
+description: This plugin alters the activity of several Minecraft mechanics.
+load: POSTWORLD
+author: Rabrg
+website: http://bukkit.org/members/rabrg.90565009/
+main: me.rabrg.mechanics.RabrgMechanicsPlugin

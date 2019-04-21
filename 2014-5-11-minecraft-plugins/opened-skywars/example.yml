@@ -1,0 +1,21 @@
+icon:
+  # The material this kit should have in the inventory menu
+  material: 'DIAMOND_SWORD'
+  # The data this material should have (optional)
+  data: 0
+# Gives the player the permission to purchase this kit through score (optional)
+points: 15000000
+# Additional text added to the lores of the item in the inventory menu (optional)
+details:
+- '&aHello'
+- '&eHello'
+- '&dHello'
+- ' '
+# The items in this kit
+items:
+- 'diamondsword 1 sharpess:5'
+- 'diamondhelmet 1 protection:4'
+- 'diamondchestplate 1 protection:4'
+- 'diamondleggings 1 protection:4'
+- 'diamondboots 1 protection:4'
+- '373:8258'

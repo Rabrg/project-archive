@@ -1,0 +1,45 @@
+prefix: '&7[&cSkyWars&7]: '
+game:
+  join: '&6{player} &ehas joined the game ({amount}/{slots})'
+  required: '&e{amount} &6more players are needed before the game starts'
+  quit:
+    playing: '&6{player} &ehas left the game {score}'
+    other: '&6{player} &ehas left the game ({total}/{slots})'
+  remaining: '&b{remaining}&6 player(s) remain!'
+  death: '&9{player}&6 has been killed {score}&6.'
+  kill: '&9{player} {player_score}&6 has been killed by &9{killer} {killer_score}&6.'
+  countdown: '&eGame starting in &c{timer}&e seconds!'
+  win: '&6{player}&e has won SkyWars on map &9{map} &a(+{score} score)&e!'
+  start: '&5The battle has begun!'
+  eliminated:
+    self: '&5You have been eliminated. Better &cluck&5 next time!'
+    others: '&6Player &9{player}&6 has been eliminated!'
+chat:
+  local: '&e[L] {score} {prefix}&8{player} &e&l> &r&7{message}'
+  global: '&c[G] {score} {prefix}&8{player} &c&l> &r&7{message}'
+error:
+  cmd-disabled: 'This command is disabled during the game!'
+  no-schematics: '&cThere are no schematics available.'
+  not-in-game: '&cYou are not in a SkyWars game'
+  already-started: '&cGame is already started'
+  not-enough-players: '&cNot enough players'
+  arena-under-construction: '&cArena is still under construction'
+  insufficient-permissions: '&cInsufficient permissions!'
+  player-only: '&aThis command may only be exeucted as a player'
+  already-has-kit: '&cYou have already chosen a kit!'
+  can-not-pick-kit: '&cYou can not pick a kit at this time!'
+  no-such-kit: '&cNo such kit!'
+  not-enough-score: '&cNot enough score to purchase this kit!'
+  no-permission-kit: '&cNo permission to use this kit!'
+success:
+  lobby-set: '&aLobby spawn has been set.'
+  reload: '&aChests, kits and plugin.yml has been reloaded'
+  enjoy-kit: '&aEnjoy your kit!'
+cmd:
+  available-commands: '&eAvailable commands:'
+kit:
+  window-title: '&dKit Menu'
+  lores:
+    no-permission: '&r&cNo permission'
+score:
+  naming: ' score'

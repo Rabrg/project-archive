@@ -1,0 +1,15 @@
+protected-region-center:
+  ==: Vector
+  x: 0.5
+  y: 7.0
+  z: -0.5
+protected-region-minimum:
+  ==: Vector
+  x: -17.0
+  y: 0.0
+  z: -18.0
+protected-region-maximum:
+  ==: Vector
+  x: 18.0
+  y: 32.0
+  z: 17.0

@@ -1,0 +1,15 @@
+OrderPizzaIntent order a pizza
+
+PizzaPlace pizza hut
+PizzaPlace domino
+PizzaPlace dominos
+PizzaPlace papa john
+PizzaPlace papa johns
+PizzaPlace little caesar
+PizzaPlace little caesars
+PizzaPlace papa murphy
+PizzaPlace papa murphys
+PizzaPlace cici
+PizzaPlace cicis
+
+SetupNameWhoIntent {SetupName} who

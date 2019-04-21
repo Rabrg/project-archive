@@ -1,0 +1,9 @@
+name: RabrgNear
+version: 0.0.1
+description: The plugin adds a command for locating nearby permissions with a changing radius and cooldown dependant on the player's donator rank.
+author: Rabrg
+main: me.rabrg.near.RabrgNearPlugin
+commands:
+  near:
+    description: Locates nearby players
+    usage: Syntax error! Simply type /near

@@ -1,0 +1,227 @@
+name: Clans
+version: 1.6.9.5
+main: com.massivecraft.factions.P
+authors: [Olof Larsson, Brett Flannigan, Ryan Greene]
+softdepend: [PermissionsEx, Permissions, Essentials, EssentialsChat, HeroChat, iChat, LocalAreaChat, LWC, nChat, ChatManager, CAPI, AuthMe, Vault, Spout, WorldEdit, WorldGuard, AuthDB, CaptureThePoints, CombatTag]
+commands:
+  clans:
+    description: Reference command for Clans.
+    aliases: [c]
+permissions:
+  factions.kit.admin:
+    description: All clan permissions.
+    children:
+      factions.kit.mod: true
+      factions.config: true
+      factions.lock: true
+      factions.reload: true
+      factions.save: true
+  factions.*:
+    description: This is just an alias for factions.kit.admin
+    children:
+      factions.kit.admin: true
+  factions.kit.mod:
+    description: All clan permissions but configuration and persistance.
+    children:
+      factions.kit.halfmod: true
+      factions.disband.any: true
+      factions.setpeaceful: true
+      factions.setpermanent: true
+      factions.setpermanentpower: true
+      factions.powerboost: true
+      factions.sethome.any: true
+      factions.money.*: true
+      factions.join.any: true
+      factions.join.others: true
+      factions.admin.any: true
+      factions.mod.any: true
+  factions.kit.halfmod:
+    description: Zones, bypassing, kicking, and chatspy
+    children:
+      factions.kit.fullplayer: true
+      factions.managesafezone: true
+      factions.managewarzone: true
+      factions.bypass: true
+      factions.kick.any: true
+      factions.ownershipbypass: true
+      factions.chatspy: true
+  factions.kit.fullplayer:
+    default: true
+    description: Can also create new clan.
+    children:
+      factions.kit.halfplayer: true
+      factions.create: true
+  factions.kit.halfplayer:
+    description: Can do all but create clan.
+    children:
+      factions.admin: true
+      factions.autoclaim: true
+      factions.chat: true
+      factions.claim: true
+      factions.claim.radius: true
+      factions.deinvite: true
+      factions.description: true
+      factions.disband: true
+      factions.help: true
+      factions.home: true
+      factions.invite: true
+      factions.join: true
+      factions.kick: true
+      factions.leave: true
+      factions.list: true
+      factions.map: true
+      factions.mod: true
+      factions.money.kit.standard: true
+      factions.noboom: true
+      factions.open: true
+      factions.owner: true
+      factions.ownerlist: true
+      factions.power: true
+      factions.power.any: true
+      factions.relation: true
+      factions.sethome: true
+      factions.show: true
+      factions.tag: true
+      factions.title: true
+      factions.version: true
+      factions.unclaim: true
+      factions.unclaimall: true
+  factions.admin:
+    description: hand over your admin rights
+  factions.admin.any:
+    description: give or revoke admin status for any player in any clan
+  factions.autoclaim:
+    description: auto-claim land as you walk around
+  factions.bypass:
+    description: enable admin bypass mode
+  factions.chat:
+    description: change chat mode
+  factions.chatspy:
+    description: enable admin chat spy mode
+  factions.claim:
+    description: claim land where you are standing
+  factions.claim.radius:
+    description: claim land in a large radius
+  factions.config:
+    description: change a conf.json setting
+  factions.create:
+    description: create a new clan
+  factions.deinvite:
+    description: remove a pending invitation
+  factions.description:
+    description: change the clan description
+  factions.disband:
+    description: disband a clan
+  factions.disband.any:
+    description: disband another clan
+  factions.help:
+    description: display a help page
+  factions.home:
+    description: teleport to the clan home
+  factions.invite:
+    description: invite a player to your clan
+  factions.join:
+    description: join a clan
+  factions.join.any:
+    description: join any clan, bypassing invitation process for closed clan
+  factions.join.others:
+    description: specify another player in the join command, to move them to the specified clan
+  factions.kick:
+    description: kick a player from the clan
+  factions.kick.any:
+    description: kick anyone from any clan
+  factions.leave:
+    description: leave your clan
+  factions.list:
+    description: see a list of the clan
+  factions.lock:
+    description: lock all write stuff
+  factions.managesafezone:
+    description: claim land as a safe zone and build/destroy within safe zones
+  factions.managewarzone:
+    description: claim land as a war zone and build/destroy within war zones
+  factions.map:
+    description: show the territory map, and set optional auto update
+  factions.mod:
+    description: give or revoke moderator rights
+  factions.mod.any:
+    description: give or revoke moderator rights for any player in any clan
+  factions.money.balance:
+    description: show your clans current money balance
+  factions.money.balance.any:
+    description: show money balance for clans other than your own
+  factions.money.deposit:
+    description: deposit money into a clan bank
+  factions.money.withdraw:
+    description: withdraw money from your clan bank
+  factions.money.withdraw.any:
+    description: withdraw money from your clans other than your own
+  factions.money.f2f:
+    description: transfer money from clan to clan
+  factions.money.f2p:
+    description: transfer money from clan to player
+  factions.money.p2f:
+    description: transfer money from player to clan
+  factions.money.kit.standard:
+    children:
+      factions.money.balance: true
+      factions.money.balance.any: true
+      factions.money.deposit: true
+      factions.money.withdraw: true
+      factions.money.f2f: true
+      factions.money.f2p: true
+      factions.money.p2f: true
+  factions.money.*:
+    children:
+      factions.money.kit.standard: true
+      factions.money.balance.any: true
+      factions.money.deposit: true
+      factions.money.withdraw: true
+      factions.money.withdraw.any: true
+      factions.money.f2f: true
+      factions.money.f2p: true
+      factions.money.p2f: true
+  factions.noboom:
+    description: toggle explosions (peaceful clan only)
+  factions.open:
+    description: switch if invitation is required to join
+  factions.owner:
+    description: set ownership of claimed land
+  factions.ownerlist:
+    description: list owner(s) of this claimed land
+  factions.ownershipbypass:
+    description: bypass ownership restrictions within own clan's territory
+  factions.setpeaceful:
+    description: designate a clan as peaceful
+  factions.setpermanent:
+    description: designate a clan as permanent
+  factions.setpermanentpower:
+    description: set permanent power for a clan
+  factions.power:
+    description: show player power info
+  factions.power.any:
+    description: view an other players power level
+  factions.powerboost:
+    description: apply permanent power bonus/penalty to specified player or clan
+  factions.relation:
+    description: set relation wish to another clan
+  factions.reload:
+    description: reload data file(s) from disk
+  factions.save:
+    description: save all data to disk
+  factions.sethome:
+    description: set the clan home
+  factions.sethome.any:
+    description: set clan home for another clan
+  factions.show:
+    description: show clan information
+  factions.tag:
+    description: change the clan tag
+  factions.title:
+    description: set or remove a players title
+  factions.version:
+    description: see the version of the plugin
+  factions.unclaim:
+    description: unclaim the land where you are standing
+  factions.unclaimall:
+    description: unclaim all of your clans land

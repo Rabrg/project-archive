@@ -1,0 +1,9 @@
+name: Border
+version: 0.0.1
+description: this plugin implements a border
+load: STARTUP
+author: Rabrg
+authors: [Ryan Greene]
+website: http://forums.bukkit.org/members/rabrg.90565009/
+main: me.rabrg.border.Border
+database: false

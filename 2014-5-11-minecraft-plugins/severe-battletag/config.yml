@@ -1,0 +1,15 @@
+Factions:
+SimpleClans:
+  ally: b
+  member: '3'
+  rival: c
+  warring: '4'
+SimpleClans2:
+  ally: b
+  member: '3'
+  rival: c
+  warring: '4'
+Towny:
+  ally: b
+  enemy: c
+War:

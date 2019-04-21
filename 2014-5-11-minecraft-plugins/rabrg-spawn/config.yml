@@ -1,0 +1,8 @@
+# The spawn location for the entire server
+spawn-location:
+  world: world
+  x: 0.5
+  y: 20.0
+  z: -0.5
+  pitch: 0.0
+  yaw: 0.0

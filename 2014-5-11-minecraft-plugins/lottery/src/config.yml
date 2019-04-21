@@ -1,0 +1,110 @@
+config:
+  # Set this option to true if your using ANY supported economy system
+    useiConomy: false
+  # Cost per ticket     
+    cost: 5
+  # If you aren't using an economy system, which item is used for currency
+    material: 266
+    
+  # How long between draws  
+    hours: 2   
+  # Should we publicly broadcast when someone buys a ticket?
+    broadcastBuying: true  
+  # At how many seconds remaining should we append time till draw.
+    broadcastBuyingTime: 120
+  # Should we show lottery status on player join?  
+    welcomeMessage: true
+    
+  # Should we clear 'extra' amount each draw
+    clearExtraInPot: true    
+  # What percentage of ticket sales is the winner awarded
+    netPayout: 100
+  # If the net payout is between 0-100 where should the remaining payout go?
+    taxTarget: ""
+  # How many tickets can each player buy? 
+    maxTicketsEachUser: 1
+  # Use this option to enable fixed ticket mode.  Setting this will cause rollovers.  
+    numberOfTicketsAvailable: 0
+      
+    buyingExtend:
+      # Should the next draw timer be extended if someone buys a ticket close to the draw?
+        enabled: true
+      # How many seconds remaining count as close to the draw
+        secondsRemaining: 30
+      # The minimum amount to extend by
+        extendBase: 15
+      # What multiplier should be used when extending by tickets.
+      # Set to 0 to just use base. Extend by: base + (multiplier * sqrt(ticketNumber))
+        extendMultiplier: 1.5
+    
+    nextexec: 0
+    extraInPot: 0
+    jackpot: 0
+    debug: false
+message:
+    prefix: '&6[LOTTERY]&r'
+
+    Welcome: '%prefix% &fDraw in: &c%drawLong%'
+    ErrorPlugin: '%prefix% Sorry, we haven''t found a money plugin yet..'
+    ErrorAccess: '%prefix% You don''t have access to that command.'
+    ErrorCommand: '%prefix% Hey, I don''t recognize that command!'
+    ErrorConsole: '%prefix% You''re the console, I can''t sell you tickets.'
+    ErrorConsole2: '%prefix% You''re the console, you don''t have an inventory.'
+    ErrorConsole3: '%prefix% You''re the console, you can''t change that.'
+    ErrorNoAvailable: '%prefix% There are no more tickets available'
+    ErrorAtMax: '%prefix% You already have the maximum of %0% %1% already.'
+    ErrorNotAfford: '%prefix% You can''t afford a ticket'
+    ErrorNumber: '%prefix% Provide a number greater than zero (decimals accepted)'
+    ErrorClaim: '%prefix% You did not have anything unclaimed.'
+
+    TicketCommand: '%prefix% Buy a ticket for &c%cost% &rwith &c/lottery buy'
+    PotAmount: '%prefix% There is currently &a%pot% &rin the pot.'
+    YourTickets: '%prefix% You have &c%0% &r%1%'
+    TicketRemaining: '%prefix% There is &c%0% &r%1% left.'
+    CommandHelp: '%prefix% &c/lottery help&r for other commands'
+    LastWinner: '%prefix% Last winner: %0% %1%'
+    CheckClaim: '%prefix% Check if you have won with &c/lottery claim'
+    BoughtTicket: '%prefix% You got &c%0% &r%1% for &c%2%'
+    BoughtTickets: '%prefix% You now have &c%0% &r%1%'
+    BoughtAnnounceDraw: '%prefix% &r%0% &rjust bought %1% %2%! Draw in %3%'
+    BoughtAnnounce: '%prefix% &r%0% &rjust bought %1% %2%!'
+    DrawIn: '%prefix% Draw in: &c%0%'
+    DrawNow: '%prefix% Lottery will be drawn at once.'
+    DrawSoon: 'Soon'
+    DrawSoonLong: 'Draw will occur soon!'
+    PlayerClaim: '%prefix% You just claimed %0%'
+    MessagesEnabled: '%prefix% You will now receive Lottery broadcast messages.'
+    MessagesDisabled: '%prefix% You will no longer receive Lottery broadcast messages.'
+
+    NoWinnerTickets: '%prefix% No tickets sold this round. That''s a shame.'
+    NoWinnerRollover: '%prefix% No winner, we have a rollover! &a%0% &rwent to jackpot!'
+    WinnerCongrat: '%prefix% Congratulations go to %0% &rfor winning &c%1%&r with &c%2%&r %3%'
+    WinnerCongratClaim: '%prefix% Use &c/lottery claim &rto claim the winnings.'
+    WinnerSummary: '%prefix% There was a total of %0% %1% buying %2% %3%'
+
+    AddToPot: '%prefix% Added &a%0% &rto pot. Extra total is &a%1%'
+    ConfigCost: '%prefix% Cost changed to &c%0%'
+    ConfigHours: '%prefix% Hours changed to &c%0%'
+    ConfigMax: '%prefix% Max amount of tickets changed to &c%0%'
+    ConfigReload: '%prefix% Config reloaded'
+
+    HelpPot: '%prefix% /lottery addtopot <number>'
+    Help: "%prefix% Help commands%newline%%prefix% &c/lottery&r : Basic lottery info.%newline%%prefix% &c/lottery buy <n>&r : Buy ticket(s).
+    %newline%%prefix% &c/lottery claim&r : Claim outstanding wins.%newline%%prefix% &c/lottery winners&r : Check last winners."
+    HelpAdmin: "%prefix% &1/lottery draw&r : Draw lottery.%newline%%prefix% &1/lottery addtopot&r : Add number to pot.
+    %newline%%prefix% &1/lottery config&r : Edit the config."
+    HelpConfig: "%prefix% Edit config commands%newline%%prefix% &c/lottery config cost <i>%newline%%prefix% &c/lottery config hours <i>
+    %newline%%prefix% &c/lottery config maxTicketsEachUser <i>%newline%%prefix% &c/lottery config reload"
+
+    ticket: 'ticket'
+    tickets: 'tickets'
+    player: 'player'
+    players: 'players'
+    day: 'day'
+    day: 'days'
+    hour: 'hour'
+    hours: 'hours'
+    minute: 'minute'
+    minutes: 'minutes'
+    second: 'second'
+    seconds: 'seconds'

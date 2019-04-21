@@ -1,0 +1,9 @@
+name: EnderPearl
+version: 0.0.1
+description: This plugin prevents players from enderpearling into doors and blocks closer than 5 blocks away
+load: STARTUP
+author: Rabrg
+authors: [Ryan Greene]
+website: http://forums.bukkit.org/members/rabrg.90565009/
+main: me.rabrg.enderpearl.Plugin
+database: false

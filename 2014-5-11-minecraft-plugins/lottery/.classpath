@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/BOSEconomy.jar"/>
+	<classpathentry kind="lib" path="lib/Essentials.jar"/>
+	<classpathentry kind="lib" path="lib/iConomy v4.jar"/>
+	<classpathentry kind="lib" path="lib/iConomy v5.jar"/>
+	<classpathentry kind="lib" path="lib/iConomy v6.jar"/>
+	<classpathentry kind="lib" path="lib/MultiCurrency.jar"/>
+	<classpathentry kind="lib" path="lib/craftbukkit-1.7.2-R0.1-20131207.033645-22.jar"/>
+	<classpathentry kind="lib" path="lib/Vault.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,13 @@
+name: CapsBlock
+version: 0.0.1
+description: This plugin uncapitilizing messsages with an excess amount of capital letters
+load: STARTUP
+author: Rabrg
+authors: [Ryan Greene]
+website: http://forums.bukkit.org/members/rabrg.90565009/
+main: me.rabrg.capsblock.Plugin
+database: false
+
+permisions:
+  rabrg.capsblock.bypass:
+    description: Allows you to bypass

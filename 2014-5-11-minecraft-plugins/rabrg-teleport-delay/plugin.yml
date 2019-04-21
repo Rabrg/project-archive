@@ -1,0 +1,10 @@
+name: RabrgTeleportDelay
+version: 0.0.1
+description: This plugin delays player teleportation by commands.
+author: Rabrg
+website: http://bukkit.org/members/rabrg.90565009/
+main: me.rabrg.teleport.RabrgTeleportDelayPlugin
+
+permissions:
+  rabrg.teleport-delay-bypass:
+    description: Allows you to bypass the teleportation delay on teleporting commands.

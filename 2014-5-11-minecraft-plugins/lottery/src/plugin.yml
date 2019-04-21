@@ -1,0 +1,33 @@
+name: Lottery
+main: net.erbros.lottery.Lottery
+version: 0.9.4
+authors:
+  - Erbros
+  - KHobbits
+website: www.erbros.net
+commands:
+  lottery:
+    description: Provides access to Permissions commands and information.
+    permission: lottery.buy
+    usage: /<command> [winners|claim|help|messages|buy [amount]]
+    aliases: [lot,lotto]
+permissions:
+  lottery.*:
+      description: Full access to Lottery plugin.
+      children:
+          lottery.buy: true
+          lottery.admin.draw: true
+          lottery.admin.addtopot: true
+          lottery.admin.editconfig: true
+  lottery.buy:
+      description: Basic lottery rights. Can buy, check lottery info and claim winnings.
+      default: true
+  lottery.admin.draw:
+      description: Access to /lottery draw command.
+      default: op
+  lottery.admin.addtopot:
+      description: Access to /lottery addtopot command.
+      default: op
+  lottery.admin.editconfig:
+      description: Access to ingame config editing and reloading.
+      default: op

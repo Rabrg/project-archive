@@ -1,0 +1,4 @@
+# The amount of durability removed from flint and steel after igniting an entity
+durablity: 3
+# The amount of ticks the ignited entity is ignited for
+fireticks: 60

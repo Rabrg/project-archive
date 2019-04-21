@@ -1,0 +1,12 @@
+name: AntiHack
+version: 0.0.1
+description: This plugin punishes players who hack
+load: STARTUP
+author: Rabrg
+authors: [Ryan Greene]
+website: http://forums.bukkit.org/members/rabrg.90565009/
+main: me.rabrg.antihack.Plugin
+database: false
+permisions:
+  rabrg.antihack.bypass:
+    description: Allows you to bypass the antihack

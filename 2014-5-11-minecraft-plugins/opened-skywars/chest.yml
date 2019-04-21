@@ -1,0 +1,4 @@
+# The first value is the chance of the item appearing in a chest
+# The second value is the item, this should be an Essentials item string
+items:
+- 100 apple 1

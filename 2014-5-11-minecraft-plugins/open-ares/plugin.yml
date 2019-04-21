@@ -1,0 +1,15 @@
+name: Ares
+version: 0.0.1
+description: This plugin allows players to pick kits
+load: STARTUP
+author: Rabrg
+authors: [Ryan Greene]
+website: http://forums.bukkit.org/members/rabrg.90565009/
+main: me.rabrg.ares.Plugin
+database: false
+
+permisions:
+  rabrg.ares.melee:
+    description: Allows you to use the Melee kit
+  rabrg.ares.fisherman:
+    description: Allows you to use the Fisherman kit

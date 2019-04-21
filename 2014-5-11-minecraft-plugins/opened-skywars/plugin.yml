@@ -1,0 +1,14 @@
+name: ${project.name}
+version: ${project.version}
+description: ${project.description}
+author: Wietje
+main: ${project.groupId}.${project.artifactId}.${project.name}
+depend: [WorldEdit, Essentials, Vault, WhatIsIt]
+
+commands:
+  skywars:
+    aliases: [sw]
+    description: Main command of the SkyWars plugin
+  global:
+    aliases: [g]
+    description: Allows you to send a message to all players

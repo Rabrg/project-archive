@@ -1,0 +1,6 @@
+name: cc
+version: 0.0.1
+description: 'cc'
+author: Rabrg
+
+main: me.rabrg.cc.ChatLib

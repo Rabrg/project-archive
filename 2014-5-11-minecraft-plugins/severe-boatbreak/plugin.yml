@@ -1,0 +1,9 @@
+name: Boat
+version: 0.0.1
+description: This plugin prevents players from breaking a boat they are inside and can't place boats on land
+load: STARTUP
+author: Rabrg
+authors: [Ryan Greene]
+website: http://forums.bukkit.org/members/rabrg.90565009/
+main: me.rabrg.boat.Plugin
+database: false

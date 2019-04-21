@@ -1,0 +1,9 @@
+name: Fence
+version: 0.0.2
+description: This plugin allows fences to be exploded
+load: STARTUP
+author: Rabrg
+authors: [Ryan Greene]
+website: http://forums.bukkit.org/members/rabrg.90565009/
+main: me.rabrg.fence.Plugin
+database: false

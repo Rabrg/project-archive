@@ -1,0 +1,14 @@
+# Disables the thunder conditions from changing
+disable-thunder: true
+# Disables the weather from changing
+disable-weather: true
+# Disables blocks from forming like snow in a snowstorm and ice in a tundra
+disable-block-form: true
+# Disables blocks from spreading like fire
+disable-block-spread: true
+# Disables blocks from burning like wool on fire
+disable-block-burn: true
+# Disables the food level from changing
+disable-food-level-change: true
+# Disables entities from regaining health from a full food level or peaceful mode
+disable-entity-regain-health-regen: true

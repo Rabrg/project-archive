@@ -1,0 +1,9 @@
+name: SlabWater
+version: 0.0.1
+description: This plugin explodes slabs around a TNT explosion even if it's in water
+load: STARTUP
+author: Rabrg
+authors: [Ryan Greene]
+website: http://forums.bukkit.org/members/rabrg.90565009/
+main: me.rabrg.slabwater.Plugin
+database: false

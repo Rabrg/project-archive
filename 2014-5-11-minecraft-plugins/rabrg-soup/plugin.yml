@@ -1,0 +1,7 @@
+name: Soup
+main: me.rabrg.soup.Soup
+version: 1.0.0
+website: http://www.bukkit.org
+author: Rabrg
+description: >
+             Enables instant eating soup and disables hunger

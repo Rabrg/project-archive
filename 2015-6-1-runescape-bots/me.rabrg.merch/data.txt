@@ -1,0 +1,3006 @@
+Cannonball_3.0_194
+Cannon base_112500.0_0
+Mithril platelegs (t)_1560.0_0
+Cannon stand_112500.0_0
+Cannon barrels_112500.0_0
+Cannon furnace_112500.0_190477
+Mithril kiteshield (t)_1326.0_13996
+Insect repellent_1.7999999999999998_0
+Bucket of wax_3.5999999999999996_3350
+Mithril full helm (t)_858.0_0
+Candle_1.7999999999999998_1000
+Bronze arrowtips_0.6_5
+Iron arrowtips_1.2_6
+Steel arrowtips_3.5999999999999996_25
+Mithril arrowtips_9.6_34
+Mithril plateskirt (t)_1560.0_0
+Rune arrowtips_120.0_0
+Opal bolt tips_4.2_0
+Pearl bolt tips_7.199999999999999_0
+Barb bolttips_57.0_32
+Longbow (u)_36.0_4
+Shortbow (u)_13.799999999999999_0
+Arrow shaft_0.6_4
+Headless arrow_0.6_11
+Oak shortbow (u)_30.0_0
+Black pickaxe_87.0_7820
+Oak longbow (u)_48.0_0
+Willow longbow (u)_96.0_14
+Bronze battleaxe_31.2_0
+Willow shortbow (u)_60.0_0
+Maple longbow (u)_192.0_105
+Maple shortbow (u)_120.0_36
+Yew longbow (u)_384.0_493
+White headband_24.0_32795
+Yew shortbow (u)_240.0_299
+Magic longbow (u)_768.0_1176
+Magic shortbow (u)_480.0_643
+Blue headband_24.0_0
+Nail beast nails_180.0_0
+Mystic robe top (light)_72000.0_89556
+Marrentill potion (unf)_3.0_12
+Tarromin potion (unf)_6.6_98
+Harralander potion (unf)_12.0_609
+Ranarr potion (unf)_15.0_6394
+Irit potion (unf)_24.0_1006
+Avantoe potion (unf)_28.799999999999997_1621
+Kwuarm potion (unf)_32.4_2812
+Cadantine potion (unf)_39.0_2119
+Dwarf weed potion (unf)_42.0_1948
+Torstol potion (unf)_15.0_0
+Strength potion(4)_8.4_551
+Mystic gloves (light)_6000.0_8141
+Strength potion(2)_7.8_601
+Strength potion(1)_6.6_136
+Attack potion(3)_7.199999999999999_5
+Attack potion(2)_5.3999999999999995_13
+Attack potion(1)_3.5999999999999996_0
+Pink boater_135.0_5560
+Restore potion(2)_39.6_0
+Restore potion(1)_26.4_0
+Defence potion(3)_72.0_0
+Defence potion(2)_54.0_0
+Defence potion(1)_36.0_0
+Prayer potion(3)_91.2_6283
+Prayer potion(2)_68.39999999999999_3901
+Prayer potion(1)_45.6_2352
+Super attack(3)_108.0_602
+Super attack(2)_81.0_561
+Super attack(1)_54.0_346
+Fishing potion(3)_120.0_0
+Fishing potion(2)_90.0_0
+Fishing potion(1)_60.0_0
+Super strength(3)_132.0_4273
+Super strength(2)_99.0_3222
+Super strength(1)_66.0_1650
+Pink elegant shirt_1200.0_0
+Super defence(2)_118.8_0
+Super defence(1)_79.2_0
+Ranging potion(3)_172.79999999999998_2270
+Ranging potion(2)_129.6_1950
+Ranging potion(1)_86.39999999999999_1193
+Pink elegant legs_1200.0_0
+Antipoison(2)_129.6_0
+Antipoison(1)_86.39999999999999_0
+Superantipoison(3)_172.79999999999998_1754
+Superantipoison(2)_129.6_0
+Superantipoison(1)_86.39999999999999_0
+Crier hat_3000.0_0
+Zamorak brew(3)_105.0_3705
+Zamorak brew(2)_90.0_0
+Zamorak brew(1)_75.0_0
+Poison chalice_12.0_0
+White cavalier_120.0_50687
+Grimy marrentill_0.6_11
+Grimy tarromin_0.6_36
+Grimy harralander_0.6_401
+Grimy ranarr weed_0.6_6007
+Grimy irit leaf_0.6_905
+Red cavalier_120.0_49000
+Grimy kwuarm_0.6_2544
+Grimy cadantine_0.6_1808
+Grimy dwarf weed_0.6_1674
+Grimy torstol_0.6_7271
+Eye of newt_1.7999999999999998_4
+Red spiders' eggs_4.2_55
+Bagged dead tree_600.0_0
+Bagged nice tree_1200.0_500
+Vial_1.2_2
+Bagged willow tree_6000.0_50000
+Pestle and mortar_2.4_149
+Unicorn horn dust_12.0_890
+Unicorn horn_12.0_652
+White berries_6.0_1101
+Dragon scale dust_31.2_90
+Blue dragon scale_30.0_360
+Wine of zamorak_0.6_1131
+Jangerberries_0.6_369
+Guam leaf_1.7999999999999998_22
+Topiary hedge_12000.0_0
+Tarromin_6.6_40
+Harralander_12.0_414
+Ranarr weed_15.0_6028
+Irit leaf_24.0_920
+Avantoe_28.799999999999997_1615
+Bagged bluebells_9000.0_0
+Cadantine_39.0_2060
+Dwarf weed_42.0_1778
+Bagged roses_9000.0_0
+Fish food_0.6_0
+Poison_0.6_500
+Goblin mail_24.0_225
+Mithril seeds_120.0_97
+Lobster pot_12.0_245
+Small fishing net_3.0_275
+Crude chair_6.0_43
+Big fishing net_12.0_700
+Wooden chair_6.0_0
+Fishing rod_3.0_809
+Rocking chair_6.0_0
+Fly fishing rod_3.0_175
+Oak chair_6.0_0
+Harpoon_3.0_140
+Oak armchair_6.0_0
+Fishing bait_1.7999999999999998_5
+Feather_1.2_2
+Shrimps_3.0_15
+Mahogany armchair_6.0_0
+Raw shrimps_3.0_7
+Bookcase_6.0_0
+Anchovies_9.0_119
+Oak bookcase_6.0_0
+Raw anchovies_9.0_57
+Mahogany bookcase_6.0_0
+Beer barrel_6.0_0
+Sardine_6.0_15
+Cider barrel_6.0_0
+Raw sardine_6.0_10
+Asgarnian ale_6.0_0
+Salmon_30.0_83
+Greenman's ale_6.0_0
+Raw salmon_30.0_73
+Dragon bitter_6.0_0
+Trout_12.0_44
+Chef's delight_6.0_0
+Raw trout_12.0_22
+Kitchen table_6.0_0
+Oak kitchen table_6.0_0
+Cod_15.0_0
+Teak kitchen table_6.0_0
+Raw cod_15.0_89
+Oak lectern_6.0_0
+Gold elegant skirt_1200.0_0
+Eagle lectern_6.0_0
+Raw herring_9.0_38
+Demon lectern_6.0_0
+Herring_9.0_15
+Teak eagle lectern_6.0_0
+Raw pike_15.0_0
+Teak demon lectern_6.0_0
+Pike_15.0_0
+Mahogany eagle_6.0_0
+Raw mackerel_10.2_74
+Mahogany demon_6.0_0
+Mackerel_10.2_10
+Wood dining table_6.0_0
+Oak dining table_6.0_0
+Raw tuna_60.0_63
+Carved oak table_6.0_0
+Tuna_60.0_78
+Teak table_6.0_0
+Raw bass_72.0_0
+Carved teak table_6.0_0
+Bass_72.0_225
+Mahogany table_6.0_0
+Kebbit spike_54.0_0
+Opulent table_6.0_0
+Wooden bench_6.0_0
+Raw swordfish_120.0_292
+Oak bench_6.0_0
+Swordfish_120.0_309
+Carved oak bench_6.0_0
+Teak dining bench_6.0_0
+Raw lobster_90.0_182
+Carved teak bench_6.0_0
+Lobster_90.0_183
+Mahogany bench_6.0_0
+Gilded bench_6.0_0
+Raw shark_180.0_618
+Wooden bed_6.0_0
+Shark_180.0_784
+Oak bed_6.0_0
+Large oak bed_6.0_0
+Raw manta ray_300.0_7662
+Teak bed_6.0_0
+Bag of salt_6.0_28
+Large teak bed_6.0_0
+Four-poster bed_6.0_0
+Raw sea turtle_300.0_0
+Gilded four-poster_6.0_0
+Sea turtle_300.0_0
+Oak clock_6.0_0
+Teak clock_6.0_0
+Seaweed_1.2_41
+Gilded clock_6.0_0
+Edible seaweed_1.2_39
+Casket_30.0_2999
+Oak shaving stand_6.0_0
+Oyster_120.0_104
+Oak dresser_6.0_0
+Teak dresser_6.0_0
+Oyster pearl_67.2_0
+Fancy teak dresser_6.0_0
+Oyster pearls_840.0_620
+Mahogany dresser_6.0_0
+Gilded dresser_6.0_0
+Shoe box_6.0_0
+Oak drawers_6.0_0
+Oak wardrobe_6.0_0
+Teak drawers_6.0_0
+Priest gown_3.0_248
+Priest gown_3.0_145
+Gilded wardrobe_6.0_0
+Crystal ball_6.0_0
+Clay_0.6_132
+Copper ore_1.7999999999999998_25
+Tin ore_1.7999999999999998_37
+Iron ore_10.2_63
+Silver ore_45.0_121
+Gold ore_90.0_249
+Armillary sphere_6.0_0
+Mithril ore_97.2_330
+Small orrery_6.0_0
+Adamantite ore_240.0_1197
+Large orrery_6.0_0
+Runite ore_1920.0_12401
+Wooden telescope_6.0_0
+Coal_27.0_186
+Teak telescope_6.0_0
+Mahogany telescope_6.0_0
+Fire talisman_2.4_2920
+Strange fruit_0.6_526
+Water talisman_2.4_488
+Dwarven helmet_36000.0_65359
+Body talisman_2.4_596
+Mind talisman_2.4_0
+Chaos talisman_2.4_500
+Bones_0.6_55
+Burnt bones_0.6_0
+Bat bones_0.6_282
+Big bones_0.6_239
+Babydragon bones_0.6_512
+Dragon bones_0.6_2417
+Druid's robe_18.0_4105
+Druid's robe top_24.0_2762
+Monk's robe_18.0_4342
+Monk's robe top_24.0_223
+Shade robe top_24.0_2515
+Guam potion (unf)_1.7999999999999998_66
+Shade robe_18.0_1400
+Fire rune_2.4_4
+Water rune_2.4_4
+Air rune_2.4_4
+Earth rune_2.4_4
+Mind rune_1.7999999999999998_3
+Body rune_1.7999999999999998_11
+Death rune_108.0_224
+Nature rune_108.0_251
+Chaos rune_54.0_102
+Law rune_144.0_217
+Cosmic rune_30.0_129
+Blood rune_240.0_363
+Soul rune_180.0_216
+Unpowered orb_60.0_39
+Fire orb_180.0_1533
+Water orb_180.0_1514
+Air orb_180.0_1187
+Earth orb_180.0_1262
+Blue wizard robe_9.0_4298
+Blue wizard hat_1.2_299
+Black robe_7.8_3358
+Oak plank_150.0_409
+Teak plank_300.0_658
+Tinderbox_0.6_19
+Ashes_1.2_62
+Marble block_150000.0_0
+Magic stone_450000.0_0
+Bolt of cloth_300.0_1147
+Clockwork_300.0_100
+Saw_6.0_842
+Ship ticket_3.0_0
+Pink boots_120.0_4432
+Green boots_120.0_1674
+Blue boots_120.0_500
+Cream boots_120.0_2500
+Turquoise boots_120.0_1498
+Pink robe top_108.0_0
+Green robe top_108.0_984
+Blue robe top_108.0_1000
+Cream robe top_108.0_1750
+Turquoise robe top_108.0_0
+Timber beam_0.6_0
+Pink robe bottoms_108.0_0
+Green robe bottoms_108.0_0
+Blue robe bottoms_108.0_0
+Cream robe bottoms_108.0_0
+Proselyte harness m_15000.0_29999
+Turquoise robe bottoms_108.0_1400
+Pink hat_96.0_150
+Green hat_96.0_831
+Blue hat_96.0_0
+Cream hat_96.0_970
+Turquoise hat_96.0_1000
+White bead_2.4_2480
+Partyhat & specs_1080.0_2098420
+Proselyte harness f_15000.0_0
+Bone dagger_1200.0_2909
+Bone dagger (p)_1200.0_0
+Bone dagger (p+)_1200.0_0
+Bone dagger (p++)_1200.0_8655
+Dorgeshuun crossbow_1200.0_2633
+Bone bolts_1.7999999999999998_5
+Strength potion(3)_7.8_384
+Feldip hills teleport_6.0_2917
+Black mask (10)_1800.0_590714
+Black mask_1800.0_606612
+Bandana eyepatch_60.0_0
+Bandana eyepatch_60.0_0
+Bandana eyepatch_60.0_0
+Bandana eyepatch_60.0_0
+Hat eyepatch_60.0_31500
+Gnomeball_0.6_9500
+Cadava berries_0.6_87
+Restore potion(3)_52.8_0
+Bronze thrownaxe_1.7999999999999998_0
+Iron thrownaxe_4.2_0
+Steel thrownaxe_15.6_0
+Mithril thrownaxe_42.0_0
+Adamant thrownaxe_105.6_0
+Rune thrownaxe_264.0_170
+Bronze dart_0.6_38
+Iron dart_1.2_32
+Steel dart_6.0_51
+Mithril dart_15.0_73
+Adamant dart_39.0_173
+Rune dart_210.0_884
+Bronze dart(p)_0.6_0
+Iron dart(p)_1.2_0
+Steel dart(p)_6.0_0
+Mithril dart(p)_15.0_0
+Adamant dart(p)_39.0_159
+Rune dart(p)_210.0_879
+Bronze dart tip_0.6_0
+Iron dart tip_1.7999999999999998_39
+Steel dart tip_3.0_64
+Mithril dart tip_7.199999999999999_119
+Adamant dart tip_21.599999999999998_218
+Rune dart tip_105.0_0
+Bronze javelin_2.4_0
+Iron javelin_3.5999999999999996_0
+Steel javelin_14.399999999999999_0
+Mithril javelin_38.4_0
+Adamant javelin_96.0_30
+Rune javelin_240.0_183
+Bronze javelin(p)_2.4_0
+Iron javelin(p)_3.5999999999999996_0
+Ivory comb_6.0_0
+Adamant javelin(p)_96.0_0
+Golden scarab_18.0_1400
+Crossbow_42.0_0
+Stone scarab_12.0_151
+Longbow_48.0_15
+Pottery scarab_6.0_0
+Shortbow_30.0_541
+Golden statuette_18.0_0
+Oak shortbow_60.0_20
+Pottery statuette_6.0_0
+Oak longbow_96.0_42
+Stone statuette_12.0_0
+Willow longbow_192.0_128
+Gold seal_18.0_984
+Willow shortbow_120.0_49
+Stone seal_12.0_0
+Maple longbow_384.0_291
+Pharaoh's sceptre (3)_50000.4_2860271
+Maple shortbow_240.0_163
+Yew longbow_768.0_690
+Yew shortbow_480.0_396
+Pharaoh's sceptre_50000.4_2816000
+Magic longbow_1536.0_1413
+Locust meat_0.6_0
+Magic shortbow_960.0_1135
+Iron knife_1.7999999999999998_59
+Bronze knife_0.6_41
+Steel knife_6.6_85
+Mithril knife_16.2_178
+Adamant knife_39.6_397
+Rune knife_100.2_1638
+Black knife_11.4_101
+Bronze knife(p)_0.6_0
+Iron knife(p)_1.7999999999999998_0
+Steel knife(p)_6.0_0
+Mithril knife(p)_16.2_0
+Black knife(p)_10.799999999999999_0
+Adamant knife(p)_39.6_0
+Rune knife(p)_99.6_0
+Bronze bolts_0.0_6
+Bronze bolts(p)_0.0_0
+Opal bolts_4.2_4
+Pearl bolts_7.8_0
+Barbed bolts_120.0_49
+Bronze arrow_0.6_6
+Bronze arrow(p)_0.6_0
+Iron arrow_1.7999999999999998_10
+Iron arrow(p)_1.7999999999999998_0
+Steel arrow_7.199999999999999_35
+Steel arrow(p)_7.199999999999999_0
+Mithril arrow_19.2_45
+Mithril arrow(p)_19.2_0
+Adamant arrow_48.0_69
+Adamant arrow(p)_48.0_0
+Rune arrow_240.0_189
+Rune arrow(p)_240.0_0
+Pink headband_24.0_0
+Graahk fur_72.0_0
+Knife_3.5999999999999996_34
+Bear fur_6.0_38
+Steel bolts_4.8_56
+Mithril bolts_12.0_97
+Adamant bolts_34.8_192
+Runite bolts_180.0_224
+Silver bolts_3.0_0
+Rope_10.799999999999999_121
+Pirate bandana_60.0_0
+Grey wolf fur_30.0_0
+Plank_0.6_157
+Christmas cracker_0.6_84790
+Papyrus_6.0_153
+Charcoal_27.0_360
+Machete_24.0_30
+Super defence(3)_158.4_2948
+Disk of returning_7.199999999999999_14498
+Bronze crossbow_43.8_0
+Brass key_0.6_732
+Tooth half of key_60.0_22729
+Loop half of key_60.0_6774
+Crystal key_90.0_30536
+Muddy key_48.0_4130
+Rune crossbow_9720.0_11284
+Jade bolt tips_6.0_0
+Topaz bolt tips_7.8_0
+Sapphire bolt tips_10.2_0
+Emerald bolt tips_19.8_0
+Ruby bolt tips_40.199999999999996_128
+Diamond bolt tips_79.8_0
+Dragon bolt tips_400.2_1829
+Onyx bolt tips_600.0_8344
+White apron_1.2_171
+Red cape_1.2_400
+Brass necklace_18.0_0
+Blue skirt_1.2_257
+Pink skirt_1.2_99
+Black skirt_1.2_188
+Wizard hat_1.2_95
+Black cape_4.2_1033
+Blue cape_19.2_0
+Yellow cape_19.2_650
+Eye patch_1.2_500
+Green cape_19.2_2000
+Purple cape_19.2_0
+Orange cape_19.2_1500
+Zamorak robe_18.0_1156
+Zamorak robe_24.0_1683
+Red partyhat_0.6_35641
+Yellow partyhat_0.6_28036
+Blue partyhat_0.6_125999
+Mind shield_1800.0_22676
+Opal bolts (e)_4.2_6
+Purple partyhat_0.6_28310
+Topaz bolts (e)_14.399999999999999_0
+Sapphire bolts (e)_24.0_0
+Emerald bolts (e)_35.4_291
+Santa hat_96.0_19805
+Antipoison(3)_172.79999999999998_650
+Dragon bolts (e)_637.8_2214
+Green halloween mask_9.0_24659
+Blue halloween mask_9.0_25831
+Red halloween mask_9.0_35988
+Leather gloves_3.5999999999999996_4
+Leather boots_3.5999999999999996_61
+Leather vambraces_10.799999999999999_4
+Green d'hide vamb_1500.0_1311
+Iron platelegs_168.0_361
+Agility potion(2)_60.0_0
+Steel platelegs_600.0_1483
+Mithril platelegs_1560.0_1921
+Adamant platelegs_3840.0_4435
+Bronze platelegs_48.0_1278
+Black platelegs_1152.0_3834
+Rune platelegs_38400.0_40729
+Purple boater_135.0_0
+Iron plateskirt_168.0_146
+Steel plateskirt_600.0_628
+Mithril plateskirt_1560.0_0
+Bronze plateskirt_48.0_0
+Black plateskirt_1152.0_0
+Adamant plateskirt_3840.0_9366
+Rune plateskirt_38400.0_41398
+Leather chaps_12.0_1
+Steel bolts (p)_4.8_0
+Mithril bolts (p)_12.0_0
+Adamant bolts (p)_34.8_0
+Runite bolts (p)_180.0_0
+Silver bolts (p)_3.0_0
+Iron chainbody_126.0_379
+Iron bolts(p+)_1.2_0
+Bronze chainbody_36.0_60
+Mithril bolts(p+)_12.0_0
+Steel chainbody_450.0_221
+Runite bolts(p+)_180.0_0
+Black chainbody_864.0_1000
+Iron bolts(p++)_1.2_0
+Steel bolts(p++)_4.8_0
+Adamant chainbody_2880.0_0
+Adamant bolts(p++)_34.8_0
+Rune chainbody_30000.0_33399
+Silver bolts(p++)_3.0_0
+Iron platebody_336.0_211
+Bronze platebody_96.0_0
+Steel platebody_1200.0_1019
+Mithril platebody_3120.0_2922
+Adamant platebody_9984.0_9738
+Black platebody_2304.0_5265
+Rune platebody_39000.0_44014
+Agility potion(1)_30.0_0
+Leather body_12.6_72
+Hardleather body_102.0_1
+Studded body_510.0_531
+Green d'hide body_4680.0_4426
+Iron med helm_50.4_22
+Bronze med helm_14.399999999999999_14
+White boater_135.0_4719
+Steel med helm_180.0_34
+Mithril med helm_468.0_428
+Topaz bolts_13.2_0
+Adamant med helm_1152.0_973
+Emerald bolts_31.799999999999997_305
+Rune med helm_11520.0_11605
+Diamond bolts_115.19999999999999_424
+Dragon med helm_60000.0_62645
+Onyx bolts_8179.799999999999_9000
+Black med helm_345.59999999999997_300
+Iron full helm_92.39999999999999_246
+Bronze full helm_26.4_55
+Steel full helm_330.0_121
+Mithril full helm_858.0_1499
+Adamant full helm_2112.0_1942
+Rune full helm_21120.0_22022
+Black full helm_633.6_965
+Leather cowl_14.399999999999999_7
+Coif_120.0_25
+Wooden shield_12.0_57
+Bronze sq shield_28.799999999999997_6
+Iron sq shield_100.8_0
+Steel sq shield_360.0_200
+Black sq shield_691.1999999999999_513
+Mithril sq shield_936.0_0
+Bronze bolts (unf)_0.6_39
+Rune sq shield_23040.0_25614
+Steel bolts (unf)_0.6_0
+Dragon sq shield_300000.0_358295
+Adamant bolts(unf)_0.6_0
+Bronze kiteshield_40.8_6
+Silver bolts (unf)_0.6_0
+Iron kiteshield_142.79999999999998_220
+Steel kiteshield_510.0_510
+Grimy guam leaf_0.6_10
+Mithril kiteshield_1326.0_1192
+Adamant kiteshield_3264.0_3261
+Rune kiteshield_32640.0_36005
+Iron dagger_21.0_0
+Bronze dagger_6.0_0
+Steel dagger_75.0_1
+Mithril dagger_195.0_0
+Adamant dagger_480.0_0
+Ancient bracers_2400.0_4099
+Dragon dagger_18000.0_20759
+Black dagger_144.0_0
+Iron dagger(p)_21.0_0
+Bronze dagger(p)_6.0_0
+Steel dagger(p)_75.0_0
+Mith grapple tip_18.0_0
+Ancient d'hide_7800.0_87134
+Mith grapple_28.799999999999997_0
+Mith grapple_0.6_1612
+Bronze limbs_12.0_0
+Rune dagger(p)_4800.0_0
+Dragon dagger(p)_14400.0_0
+Black dagger(p)_144.0_0
+Mithril limbs_390.0_0
+Ancient chaps_3600.0_35035
+Runite limbs_9600.0_9762
+Steel spear_195.0_680
+Bolt mould_15.0_0
+Mithril spear_507.0_350
+Sinew_1.2_0
+Adamant spear_1248.0_2388
+Crossbow string_0.6_292
+Rune spear_12480.0_13675
+Wooden stock_12.0_0
+Ancient coif_1200.0_24997
+Oak stock_16.2_0
+Bronze spear(p)_15.6_0
+Willow stock_31.799999999999997_0
+Iron spear(p)_54.6_0
+Teak stock_46.199999999999996_0
+Steel spear(p)_195.0_0
+Maple stock_60.0_0
+Mithril spear(p)_507.0_0
+Mahogany stock_79.8_0
+Adamant spear(p)_1248.0_0
+Yew stock_100.2_0
+Rune spear(p)_12480.0_0
+Bronze crossbow (u)_24.0_0
+Dragon spear(p)_37440.0_0
+Bronze pickaxe_0.6_34
+Iron pickaxe_84.0_1166
+Steel pickaxe_300.0_1244
+Adamant pickaxe_1920.0_4201
+Bandos d'hide_7800.0_75999
+Rune pickaxe_19200.0_19918
+Bronze sword_15.6_19
+Gnome scarf_600.0_798888
+Iron sword_54.6_0
+Gnome goggles_600.0_0
+Steel sword_195.0_61
+Black sword_374.4_116
+Ham boots_45.0_3388
+Adamant sword_1248.0_0
+Rune sword_12480.0_12325
+Bronze longsword_24.0_0
+Iron longsword_84.0_0
+Steel longsword_300.0_252
+Adamant arrowtips_24.0_83
+Mithril longsword_780.0_628
+Adamant longsword_1920.0_0
+Rune longsword_19200.0_20075
+Dragon longsword_60000.0_71833
+Bronze 2h sword_48.0_47
+Iron 2h sword_168.0_20
+Steel 2h sword_600.0_421
+Black 2h sword_1152.0_958
+Mithril 2h sword_1560.0_1373
+Adamant 2h sword_3840.0_3951
+Rune 2h sword_38400.0_41093
+Bronze scimitar_19.2_5
+Iron scimitar_67.2_63
+Steel scimitar_240.0_80
+Black scimitar_460.79999999999995_3482
+Mithril scimitar_624.0_716
+Adamant scimitar_1536.0_3932
+Rune scimitar_15360.0_17452
+Iron warhammer_103.8_30
+Bronze warhammer_28.2_0
+Steel warhammer_384.0_250
+Black warhammer_588.0_365
+Mithril warhammer_996.0_0
+Adamant warhammer_2472.0_0
+Rune warhammer_24900.0_27022
+Iron axe_33.6_50
+Limpwurt root_4.2_1865
+Steel axe_120.0_11
+Mithril axe_312.0_277
+Adamant axe_768.0_745
+Rune axe_7680.0_7445
+Black axe_230.39999999999998_1046
+Vial of water_1.2_4
+Steel battleaxe_390.0_0
+Black battleaxe_748.8_0
+Mithril battleaxe_1014.0_0
+Adamant battleaxe_2496.0_0
+Rune battleaxe_24960.0_26768
+Bagged oak tree_3000.0_0
+Dragon battleaxe_120000.0_139999
+Staff_9.0_206
+Staff of air_900.0_1752
+Staff of water_900.0_1648
+Staff of earth_900.0_1529
+Staff of fire_900.0_1064
+Magic staff_120.0_0
+Battlestaff_4200.0_8362
+Fire battlestaff_9300.0_9435
+Water battlestaff_9300.0_9641
+Air battlestaff_9300.0_9096
+Bagged maple tree_9000.0_15000
+Mystic fire staff_25500.0_27941
+Mystic water staff_25500.0_27200
+Mystic air staff_25500.0_27200
+Mystic earth staff_25500.0_0
+Bagged yew tree_12000.0_0
+Iron mace_37.8_0
+Bronze mace_10.799999999999999_0
+Bagged magic tree_30000.0_0
+Steel mace_135.0_99
+Black mace_259.2_0
+Ruby_600.0_957
+Mithril mace_351.0_0
+Adamant mace_864.0_0
+Rune mace_8640.0_0
+Dragon mace_30000.0_32502
+Bagged plant 1_600.0_0
+Rune essence_2.4_10
+Tyras helm_330.0_1596
+Air talisman_2.4_388
+Earth talisman_2.4_147
+Vyrewatch top_300.0_8000
+Vyrewatch legs_300.0_3000
+Dragon dart tip_150.0_3279
+Vyrewatch shoes_300.0_4000
+Bagged plant 2_3000.0_0
+Citizen top_3.0_0
+Citizen trousers_3.0_0
+Citizen shoes_3.0_0
+Cosmic talisman_2.4_0
+Death talisman_2.4_6001
+Bagged plant 3_6000.0_0
+Nature talisman_2.4_994
+Archery ticket_15.0_3
+Red bead_2.4_1648
+Thorny hedge_3000.0_0
+Yellow bead_2.4_1139
+Black bead_2.4_1856
+Initiate harness m_12000.0_24270
+Amulet of accuracy_60.0_5000
+Proselyte sallet_4800.0_4135
+Proselyte hauberk_7200.0_9554
+Nice hedge_6000.0_0
+Proselyte cuisse_6000.0_8891
+Proselyte tasset_6000.0_0
+Small box hedge_9000.0_0
+Marrentill_3.0_6
+Logs_2.4_34
+Magic logs_192.0_1104
+Yew logs_96.0_421
+Maple logs_48.0_39
+Willow logs_24.0_7
+Oak logs_12.0_26
+Lockpick_12.0_417
+Tall fancy hedge_30000.0_0
+Elemental helmet_12.0_1597
+Steel nails_1.7999999999999998_29
+Anti-dragon shield_12.0_108
+Mind helmet_1800.0_1501
+Tall box hedge_60000.0_0
+Goat horn dust_7.199999999999999_0
+Kyatt fur_96.0_0
+Combat potion(4)_129.0_790
+Combat potion(3)_96.0_528
+Garlic_1.7999999999999998_45
+Combat potion(2)_63.0_0
+Seasoned sardine_6.0_716
+Combat potion(1)_31.2_0
+Bagged flower_3000.0_0
+Bagged daffodils_6000.0_0
+Doogle leaves_1.2_33
+Kwuarm_32.4_2533
+Bagged sunflower_3000.0_0
+Ring mould_3.0_167
+Amulet mould_3.0_253
+Necklace mould_3.0_299
+Holy mould_3.0_245
+Diamond_1200.0_1967
+Bagged marigolds_6000.0_0
+Emerald_300.0_1198
+Sapphire_150.0_1057
+Opal_60.0_206
+Jade_90.0_778
+Red topaz_120.0_1163
+Dragonstone_6000.0_22036
+Uncut diamond_120.0_3591
+Uncut ruby_60.0_1931
+Uncut emerald_30.0_1604
+Uncut sapphire_15.0_1186
+Uncut opal_12.0_192
+Uncut jade_18.0_386
+Uncut red topaz_24.0_747
+Uncut dragonstone_600.0_0
+Gold ring_210.0_156
+Sapphire ring_540.0_1436
+Emerald ring_765.0_1543
+Ruby ring_1215.0_1045
+Diamond ring_2115.0_2140
+Dragonstone ring_10575.0_21800
+Oak cape rack_6.0_0
+Teak cape rack_6.0_0
+Mahogany cape rack_6.0_0
+Gold necklace_270.0_435
+Marble cape rack_6.0_0
+Sapphire necklace_630.0_1374
+Oak toy box_6.0_0
+Emerald necklace_855.0_0
+Mahogany toy box_6.0_0
+Ruby necklace_1305.0_1200
+Carved oak magic wardrobe_6.0_0
+Diamond necklace_2205.0_0
+Carved teak magic wardrobe_6.0_0
+Mahogany magic wardrobe_6.0_0
+Gilded magic wardrobe_6.0_0
+Marble magic wardrobe_6.0_0
+Oak armour case_6.0_0
+Teak armour case_6.0_0
+Mahogany armour case_6.0_0
+Oak treasure chest_6.0_0
+Teak treasure chest_6.0_0
+M. treasure chest_6.0_0
+Oak fancy dress box_6.0_0
+Teak fancy dress box_6.0_0
+Sapphire amulet (u)_540.0_0
+Emerald amulet (u)_765.0_2280
+Ruby amulet (u)_1215.0_0
+Diamond amulet (u)_2115.0_2655
+Dragonstone amulet (u)_10575.0_0
+Gold amulet_210.0_100
+Sapphire amulet_540.0_798
+Emerald amulet_765.0_730
+Ruby amulet_1215.0_1200
+Diamond amulet_2115.0_2444
+Dragonstone amulet_10575.0_0
+Amulet of glory_10575.0_25256
+Amulet of glory(4)_10575.0_26190
+Unstrung symbol_120.0_0
+Unblessed symbol_120.0_0
+Holy symbol_180.0_350
+Unstrung emblem_120.0_0
+Unpowered symbol_120.0_0
+Unholy symbol_120.0_363
+Amulet of strength_1215.0_1327
+Larupia fur_48.0_3714
+Amulet of magic_540.0_1015
+Amulet of defence_765.0_1232
+Amulet of power_2115.0_2932
+Gilded cape rack_6.0_0
+Thread_0.6_5
+Shears_0.6_178
+Wool_0.6_80
+Cowhide_0.6_120
+Leather_0.6_176
+Hard leather_0.6_192
+Green dragon leather_30.0_1635
+Black dragonhide_48.0_2951
+Red dragonhide_36.0_5000
+Blue dragonhide_24.0_1789
+Green dragonhide_12.0_1444
+Chisel_0.6_57
+Teak toy box_6.0_0
+Ball of wool_1.2_62
+Soft clay_1.2_173
+Red dye_3.0_814
+Yellow dye_3.0_445
+Blue dye_3.0_681
+Oak magic wardrobe_6.0_0
+Green dye_3.0_771
+Purple dye_3.0_511
+Molten glass_1.7999999999999998_160
+Bow string_6.0_100
+Flax_3.0_11
+Teak magic wardrobe_6.0_0
+Bucket of sand_1.2_51
+Glassblowing pipe_1.2_398
+Raw bird meat_10.2_0
+Unfired pot_0.6_0
+Roast bird meat_10.2_0
+Unfired pie dish_1.7999999999999998_0
+Unfired bowl_1.2_348
+Dragon necklace_11025.0_0
+Bronze wire_12.0_821
+Roast beast meat_15.0_0
+Spicy tomato_1.7999999999999998_0
+Spicy minced meat_4.8_0
+Hunter potion(4)_9.0_5749
+Hunter potion(3)_7.199999999999999_0
+Hunter potion(2)_5.3999999999999995_0
+Hunter potion(1)_3.5999999999999996_0
+Bird snare_3.0_20
+Box trap_19.2_54
+Butterfly net_12.0_75
+Butterfly jar_0.6_146
+Black warlock_42.0_0
+Waterskin(4)_18.0_73
+Snowy knight_30.0_0
+Sapphire glacialis_18.0_0
+Ruby harvest_10.799999999999999_0
+Waterskin(0)_9.0_10
+Desert shirt_24.0_223
+Desert robe_24.0_241
+Desert boots_12.0_60
+Rabbit snare_9.0_0
+Chinchompa_84.0_626
+Red chinchompa_96.0_1235
+Kyatt legs_120.0_0
+Kyatt top_120.0_0
+Gold amulet (u)_210.0_233
+Ornamental globe_6.0_0
+Larupia legs_60.0_4425
+Larupia top_60.0_3965
+Larupia hat_300.0_4740
+Shantay pass_3.0_21
+Graahk legs_90.0_0
+Graahk top_90.0_0
+Mahogany fancy dress box_6.0_0
+Ugthanki meat_3.0_0
+Wood camo legs_12.0_0
+Pitta bread_6.0_0
+Jungle camo legs_12.0_7840
+Chopped tomato_1.7999999999999998_0
+Chopped onion_1.7999999999999998_0
+Chopped ugthanki_3.0_0
+Onion & tomato_3.0_0
+Ugthanki & onion_4.2_0
+Team-48 cape_30.0_2800
+Kebab mix_5.3999999999999995_0
+Gloves of silence_360.0_1905
+Teak armchair_6.0_0
+Cake tin_6.0_180
+Blue spiky vambs_1800.0_9068
+Tyrannical ring_30000.0_2197000
+Black spiky vambs_2592.0_8759
+Stripy feather_12.0_1
+Red feather_6.0_0
+Chocolate cake_42.0_272
+Yellow feather_7.8_0
+Orange feather_9.0_0
+Tatty larupia fur_36.0_961
+Team-50 cape_30.0_495
+Tatty graahk fur_54.0_0
+Wizard's mind bomb_1.2_25
+Greenman's ale_1.2_902
+Dragon bitter_1.2_0
+Dwarven stout_1.2_0
+Long kebbit spike_90.0_0
+Beer_1.2_68
+Beer glass_1.2_100
+Kebbit claws_25.8_0
+Dark kebbit fur_126.0_0
+Bucket_1.2_31
+Bucket of milk_3.5999999999999996_27
+Bucket of water_3.5999999999999996_38
+Pot_0.6_14
+Pot of flour_6.0_86
+Dashing kebbit fur_162.0_0
+Jug of water_0.6_94
+Swamp tar_0.6_5
+Strung rabbit foot_18.0_2497
+Swamp paste_18.0_17
+Rabbit foot_18.0_0
+Egg_2.4_273
+Raw rainbow fish_72.0_0
+Grain_1.2_81
+Chef's hat_1.2_966
+Guam tar_1.7999999999999998_0
+Marrentill tar_0.6_0
+Tarromin tar_0.6_0
+Pastry dough_0.6_281
+Orange salamander_60.0_0
+Cooking apple_0.6_0
+Black salamander_120.0_199
+Swamp lizard_30.0_0
+Bandos page 1_240.0_1700
+Pumpkin_18.0_7390
+Easter egg_6.0_5997
+Bandos page 3_240.0_2049
+Hunters' crossbow_780.0_3417
+Cabbage_0.6_34
+Kebbit bolts_10.799999999999999_0
+Long kebbit bolts_18.599999999999998_0
+Spinach roll_0.6_0
+Kebab_1.7999999999999998_100
+Chocolate bar_6.0_92
+Chocolate dust_1.2_79
+Cup of tea_6.0_5
+Empty cup_1.2_34
+Tomato_2.4_36
+Cheese_2.4_46
+Grapes_0.6_87
+Half full wine jug_0.6_13165
+Jug of wine_0.6_22
+Stew_12.0_363
+Spice_138.0_657
+Curry_12.0_0
+Vodka_3.0_850
+Whisky_3.0_0
+Gin_3.0_0
+Brandy_3.0_0
+Cocktail guide_1.2_0
+Cocktail shaker_1.2_250
+Cocktail glass_0.6_998
+Premade blurb' sp._18.0_500
+Premade choc s'dy_18.0_0
+Premade dr' dragon_18.0_0
+Premade fr' blast_18.0_0
+Premade p' punch_18.0_0
+Premade sgg_18.0_0
+Premade wiz blz'd_18.0_0
+Gold elegant blouse_1200.0_0
+Pineapple punch_18.0_0
+Wizard blizzard_18.0_0
+Blurberry special_18.0_5500
+Choc saturday_18.0_0
+Short green guy_18.0_0
+Fruit blast_18.0_5000
+Willow comp bow_180.0_0
+Yew comp bow_1080.0_831
+Magic comp bow_1500.0_0
+Rune helm (h1)_21120.0_26205
+Rune helm (h2)_21120.0_0
+Rune helm (h3)_21120.0_0
+Rune helm (h4)_21120.0_0
+Lemon_1.2_400
+Lemon chunks_1.2_0
+Lemon slices_1.2_0
+Orange_1.2_40
+Orange chunks_1.2_0
+Orange slices_1.2_300
+Pineapple_1.2_76
+Pineapple chunks_0.6_135
+Pineapple ring_0.6_0
+Lime_1.2_971
+Black helm (h5)_633.6_0
+Bob's red shirt_1.7999999999999998_0
+Dwellberries_2.4_68
+Equa leaves_1.2_0
+Pot of cream_1.2_0
+Bob's purple shirt_1.7999999999999998_0
+Purple firelighter_9.0_0
+White firelighter_9.0_25
+Raw bear meat_0.6_40
+Raw chicken_0.6_48
+3rd age range legs_30360.0_33328178
+Cooked meat_2.4_89
+3rd age vambraces_30300.0_0
+3rd age robe top_30480.0_139530280
+3rd age robe_30360.0_0
+3rd age mage hat_30240.0_33750000
+3rd age amulet_30300.0_0
+3rd age platelegs_120000.0_135982617
+3rd age platebody_120000.0_114119822
+3rd age full helmet_54000.0_0
+3rd age kiteshield_108000.0_51595000
+Amulet of glory (t4)_10575.0_0
+Batta tin_6.0_0
+Crunchy tray_6.0_0
+Gnomebowl mould_6.0_0
+Gianne's cook book_1.2_0
+Gnome spice_1.2_0
+Amulet of glory (t)_10575.0_43574
+Gianne dough_1.2_0
+Strength amulet (t)_1215.0_73126
+Amulet of magic (t)_540.0_19666
+Zamorak bracers_2400.0_96452
+Zamorak d'hide_7800.0_451496
+Zamorak chaps_3600.0_115000
+Black dart(p)_10.799999999999999_0
+Zamorak coif_1200.0_31733
+Guthix bracers_3600.0_9000
+Chocolate bomb_1.2_0
+Guthix dragonhide_7800.0_92318
+Tangled toad's legs_1.2_0
+Guthix chaps_3600.0_13064
+Guthix coif_1200.0_24999
+Worm hole_1.2_0
+Saradomin bracers_2400.0_40795
+Saradomin d'hide_7800.0_222652
+Veg ball_1.2_0
+Saradomin chaps_3600.0_81921
+Saradomin coif_1200.0_20913
+A powdered wig_1200.0_0
+Flared trousers_1200.0_235515
+Rock-climbing boots_0.6_0
+Pantaloons_1200.0_0
+Worm crunchies_1.2_0
+Sleeping cap_1200.0_0
+Needle_0.6_118
+Black elegant shirt_1200.0_109000
+Chocchip crunchies_1.2_0
+Black elegant legs_1200.0_75000
+Red elegant shirt_1200.0_85000
+Spicy crunchies_1.2_0
+Red elegant legs_1200.0_85000
+Blue elegant shirt_1200.0_139556
+Toad crunchies_1.2_4052
+Blue elegant legs_1200.0_85000
+Premade w'm batta_72.0_0
+Green elegant shirt_1200.0_0
+Premade t'd batta_72.0_0
+Green elegant legs_1200.0_61273
+Premade c+t batta_72.0_0
+Purple elegant shirt_1200.0_0
+Premade fr't batta_72.0_0
+Purple elegant legs_1200.0_0
+Premade veg batta_72.0_0
+White elegant blouse_1200.0_0
+Premade choc bomb_96.0_0
+White elegant skirt_1200.0_0
+Premade ttl_96.0_500
+Red elegant blouse_1200.0_0
+Premade worm hole_90.0_0
+Red elegant skirt_1200.0_0
+Premade veg ball_90.0_0
+Blue elegant blouse_1200.0_0
+Premade w'm crun'_51.0_0
+Blue elegant skirt_1200.0_0
+Premade ch' crunch_51.0_0
+Green elegant blouse_1200.0_0
+Premade s'y crunch_51.0_0
+Green elegant skirt_1200.0_0
+Premade t'd crunch_51.0_0
+Purple elegant blouse_1200.0_0
+Purple elegant skirt_1200.0_0
+Saradomin crozier_3000.0_13996
+Guthix crozier_3000.0_16996
+Zamorak crozier_3000.0_12994
+Worm batta_0.6_0
+Saradomin cloak_1200.0_346312
+Toad batta_1.2_0
+Guthix cloak_1200.0_180403
+Zamorak cloak_1200.0_469999
+Cheese+tom batta_1.2_0
+Saradomin mitre_3000.0_74454
+Guthix mitre_3000.0_61304
+Zamorak mitre_3000.0_103801
+Saradomin robe top_4200.0_87290
+Zamorak robe top_4200.0_140000
+Guthix robe top_4200.0_59444
+Saradomin robe legs_4200.0_0
+Guthix robe legs_4200.0_0
+Zamorak robe legs_4200.0_199000
+Fruit batta_1.2_0
+Saradomin stole_1500.0_12952
+Guthix stole_1500.0_2250
+Vegetable batta_1.2_0
+Zamorak stole_1500.0_12499
+Pizza base_2.4_195
+Purple sweets_9.0_3470
+Snakeskin_30.0_17
+Plain pizza_24.0_644
+Meat pizza_30.0_917
+Phoenix necklace_2430.0_2634
+Anchovy pizza_36.0_1049
+Pineapple pizza_60.0_872
+Polished buttons_0.6_1376
+Bread dough_2.4_500
+Bread_7.199999999999999_398
+Pie dish_1.7999999999999998_90
+Pie shell_2.4_0
+Uncooked apple pie_9.6_0
+Uncooked meat pie_4.8_0
+Uncooked berry pie_3.5999999999999996_0
+Apple pie_18.0_0
+Redberry pie_7.199999999999999_3916
+Meat pie_9.0_0
+Raw oomlie_6.0_0
+Wrapped oomlie_9.6_0
+Cooked oomlie wrap_21.0_0
+Hammer_0.6_47
+Bronze bar_4.8_115
+Iron bar_16.8_217
+Steel bar_60.0_504
+Silver bar_90.0_48
+Gold bar_180.0_149
+Mithril bar_180.0_976
+Adamantite bar_384.0_2162
+Runite bar_3000.0_13900
+Shield left half_66000.0_72555
+Shield right half_300000.0_0
+Steel studs_90.0_0
+Granite body_48000.0_153217
+Granite helm_27600.0_36249
+Armadyl hilt_300000.0_0
+Orange dye_3.0_718
+Attack potion(4)_9.0_6
+Restore potion(4)_66.0_259
+Defence potion(4)_90.0_623
+Prayer potion(4)_114.0_8284
+Super attack(4)_135.0_910
+Fishing potion(4)_150.0_150
+Super strength(4)_165.0_6054
+Super defence(4)_198.0_3835
+Ranging potion(4)_216.0_3192
+Potato cactus_0.6_177
+Antipoison(4)_216.0_1144
+Superantipoison(4)_216.0_2344
+Zamorak brew(4)_120.0_5189
+Antifire potion(4)_198.0_609
+Antifire potion(3)_158.4_539
+Super combat potion(3)_102.0_17378
+Antifire potion(2)_118.8_690
+Dragon chainbody_150000.0_1886142
+Antifire potion(1)_79.2_0
+Assorted flowers_60.0_153
+Red flowers_60.0_0
+Blue flowers_60.0_100
+Yellow flowers_60.0_0
+Purple flowers_60.0_0
+Raw karambwan_120.0_823
+Orange flowers_60.0_0
+Mixed flowers_60.0_200
+White flowers_60.0_149999
+Black flowers_60.0_0
+Lantadyme_40.8_1142
+Lantadyme potion (unf)_40.8_1326
+Grimy lantadyme_0.6_1101
+Blue d'hide vamb_1800.0_1695
+Red d'hide vamb_2160.0_2531
+Black d'hide vamb_2592.0_3239
+Blue d'hide chaps_2592.0_2341
+Soda ash_1.2_58
+Black d'hide chaps_3732.0_6660
+Blue d'hide body_5616.0_5350
+Red d'hide body_6738.0_6499
+Black d'hide body_8088.0_7905
+Blue dragon leather_42.0_2032
+Red dragon leather_54.0_0
+Black dragon leather_66.0_3294
+Brown toy horsey_60.0_0
+White toy horsey_60.0_0
+Black toy horsey_60.0_4991
+Grey toy horsey_60.0_0
+Giant frog legs_60.0_0
+Ring of recoil_540.0_1896
+Ring of dueling(8)_765.0_1720
+Teak wardrobe_6.0_0
+Woad leaf_0.6_150
+Ring of forging_1215.0_1337
+Mahogany wardrobe_6.0_0
+Ring of life_2115.0_1978
+Ring of wealth_10575.0_22069
+Raw beast meat_15.0_0
+Ranger boots_120.0_19758241
+Wizard boots_120.0_543799
+Robin hood hat_270.0_2446621
+Black platebody (t)_2304.0_28998
+Black platelegs (t)_1152.0_0
+Black full helm (t)_633.6_0
+Black kiteshield (t)_979.1999999999999_0
+Black platebody (g)_2304.0_144647
+Black platelegs (g)_1152.0_50000
+Black full helm (g)_633.6_41414
+Black kiteshield (g)_979.1999999999999_114679
+Candle lantern_9.0_1479
+Adamant platelegs (t)_3840.0_9997
+Adamant kiteshield (t)_3264.0_7938
+Adamant full helm (t)_2112.0_3422
+Adamant platebody (g)_9984.0_38987
+Adamant platelegs (g)_3840.0_8951
+Adamant kiteshield (g)_3264.0_33111
+Adamant full helm (g)_2112.0_22222
+Rune platebody (g)_39000.0_48032
+Arctic pyre logs_120.0_0
+Crystal of power_6.0_0
+Arctic pine logs_21.0_719
+Rune full helm (g)_21120.0_49811
+Split log_54.0_900
+Rune kiteshield (g)_32640.0_60577
+Hair_1.2_0
+Rune platebody (t)_39000.0_47052
+Raw yak meat_1.2_0
+Rune platelegs (t)_38400.0_47270
+Yak-hide_30.0_0
+Rune full helm (t)_21120.0_24406
+Cured yak-hide_60.0_0
+Rune kiteshield (t)_32640.0_39582
+Yak-hide armour_300.0_420
+Highwayman mask_24.0_0
+Yak-hide armour_300.0_105
+Blue beret_48.0_18000
+Fremennik shield_300.0_3100
+Black beret_48.0_0
+Helm of neitiznot_30000.0_36979
+White beret_48.0_41149
+Tan cavalier_120.0_0
+Dark cavalier_120.0_0
+Black cavalier_120.0_113333
+Red headband_24.0_36377
+Black headband_24.0_45000
+Brown headband_24.0_0
+Pirate's hat_108.0_19494
+Lunar globe_6.0_0
+Zamorak platelegs_38400.0_88990
+Zamorak full helm_21120.0_62000
+Zamorak kiteshield_32640.0_117790
+Saradomin platebody_39000.0_124629
+Saradomin platelegs_38400.0_103658
+Celestial globe_6.0_0
+Saradomin kiteshield_32640.0_125500
+Guthix platebody_39000.0_69001
+Guthix platelegs_38400.0_40459
+Guthix full helm_21120.0_0
+Guthix kiteshield_32640.0_40115
+Wooden cat_0.6_0
+Monkey bones_0.6_800
+Sanfew serum(4)_180.0_15597
+Sanfew serum(3)_144.0_0
+Sanfew serum(2)_108.0_0
+Sanfew serum(1)_72.0_0
+Kebbit teeth dust_96.0_0
+Bronze halberd_48.0_0
+Slayer bell_90.0_0
+Frog-leather body_600.0_1905
+Frog-leather chaps_540.0_900
+Frog-leather boots_120.0_0
+Iron halberd_168.0_0
+Light orb_210.0_0
+Swamp weed_1.2_0
+Cave goblin wire_12.0_0
+Goblin book_0.6_0
+Teasing stick_30.0_50
+Dragon halberd_150000.0_173397
+Coconut milk_0.6_0
+Brine sabre_15600.0_233089
+Wolf bones_0.6_590
+Wolfbone arrowtips_1.7999999999999998_0
+Achey tree logs_2.4_423
+Ogre arrow shaft_0.6_0
+Flighted ogre arrow_0.6_500
+Ogre arrow_15.0_272
+Ancient mace_600.0_0
+Bracelet mould_3.0_209
+Raw chompy_51.0_8455
+Gold bracelet_330.0_240
+Cooked chompy_78.0_6
+Sapphire bracelet_690.0_0
+Bracelet of clay_759.0_0
+Mithril hasta(p+)_507.0_0
+Emerald bracelet_915.0_0
+Castle wars bracelet(3)_1005.0_1206
+Elemental shield_12.0_6737
+Kyatt hat_600.0_0
+Ruby bracelet_1395.0_0
+Grey boots_300.0_0
+Inoculation bracelet_1536.0_0
+Grey robe bottoms_300.0_0
+Diamond bracelet_2295.0_2489
+Grey gloves_300.0_1279
+Abyssal bracelet(5)_2520.0_2375
+Red boots_300.0_2116
+Red robe top_300.0_0
+Red robe bottoms_300.0_500
+Red hat_300.0_1994
+Red gloves_300.0_1464
+Skills necklace(4)_12120.0_0
+Yellow boots_300.0_2000
+Antidote+(2)_129.6_0
+Yellow robe top_300.0_0
+Yellow robe bottoms_300.0_0
+Yellow hat_300.0_20
+Skills necklace_12120.0_0
+Yellow gloves_300.0_1352
+Dragonstone bracelet_11475.0_0
+Teal boots_300.0_0
+Teal robe top_300.0_150
+Teal robe bottoms_300.0_2885
+Teal hat_300.0_0
+Teal gloves_300.0_1224
+Purple boots_300.0_4000
+Dareeyak teleport_0.6_3368
+Berserker necklace_121200.0_2965488
+Onyx bracelet_120600.0_0
+Purple hat_300.0_0
+Regen bracelet_121200.0_3096570
+Purple gloves_300.0_881
+Kharyrll teleport_0.6_3395
+Moonlight mead_3.0_0
+Silver sickle_105.0_30
+Graahk headdress_450.0_0
+Mort myre fungus_0.6_890
+Kharidian headpiece_0.6_400
+Mort myre stem_0.6_0
+Mort myre pear_0.6_0
+Wood camo top_12.0_0
+Sickle mould_6.0_377
+Pirate's hook_53.4_0
+Toadflax_28.799999999999997_1751
+Jungle camo top_12.0_7000
+Snapdragon_35.4_6224
+Toadflax potion (unf)_28.799999999999997_1956
+Snapdragon potion (unf)_35.4_6366
+Energy potion(4)_87.6_609
+Energy potion(3)_66.0_414
+Energy potion(2)_43.199999999999996_0
+Shrunk ogleroot_1.2_0
+Energy potion(1)_21.599999999999998_0
+Super energy(4)_180.0_3386
+Super energy(3)_138.0_2407
+Super energy(2)_96.0_0
+Super energy(1)_54.0_0
+Desert camo top_12.0_8049
+Super restore(4)_180.0_8193
+Super restore(3)_144.0_6022
+Super restore(2)_108.0_4750
+Super restore(1)_72.0_1868
+Agility potion(4)_120.0_1076
+Agility potion(3)_90.0_650
+Dragon arrow(p)_480.0_0
+Dragon arrow(p+)_480.0_0
+Dragon arrow(p++)_480.0_0
+Dragon dart_300.0_3097
+Dragon dart(p)_300.0_0
+Magic potion(4)_180.0_938
+Dragon dart(p+)_300.0_0
+Dragon dart(p++)_300.0_0
+Dark bow_72001.2_1325213
+Magic potion(2)_120.0_0
+Dragon arrowtips_300.0_2191
+Magic potion(1)_90.0_413
+Polar camo top_12.0_0
+Young impling jar_30.0_0
+Grimy toadflax_0.6_1821
+Gourmet impling jar_30.0_0
+Bark_0.6_0
+Earth impling jar_30.0_0
+Lava battlestaff_10200.0_9959
+Mystic lava staff_27000.0_0
+Eclectic impling jar_30.0_0
+Nature impling jar_30.0_0
+Polar camo legs_12.0_0
+Magpie impling jar_30.0_13230
+Ninja impling jar_30.0_22363
+Dragon impling jar_30.0_299999
+Impling jar_0.6_1597
+Spotted cape_240.0_1012
+Dragon pickaxe upgrade kit_960.0_115000
+Ugthanki & tomato_4.2_0
+Cavalier mask_120.0_163494
+Dragonfire shield_1200000.0_17816457
+Black dart_0.6_0
+Draconic visage_450000.0_0
+Bronze claws_9.0_0
+Iron claws_30.0_0
+Steel claws_105.0_0
+Black claws_216.0_0
+Mithril claws_285.0_0
+Adamant claws_720.0_0
+Rune claws_7200.0_0
+Climbing boots_7.199999999999999_222
+Spiked boots_18.0_0
+Ugthanki kebab_12.0_0
+Granite shield_33600.0_46000
+Shaikahan bones_0.6_0
+Jogre bones_0.6_1500
+Green spiky vambs_1500.0_0
+Roe_12.0_0
+Caviar_30.0_0
+Leaping trout_15.0_0
+Leaping salmon_30.0_27
+Leaping sturgeon_45.0_0
+Fish offcuts_0.6_0
+Dragon full helm_90000.0_0
+Cooked karambwan_150.0_1006
+Cake_30.0_158
+Karambwan vessel_3.0_0
+Karambwan vessel_24.0_5001
+Sliced banana_1.2_0
+Bronze hasta_15.6_0
+Iron hasta_54.6_6823
+Steel hasta_195.0_1000
+Mithril hasta_507.0_0
+Adamant hasta_1248.0_0
+Rune hasta_12480.0_0
+Bronze hasta(p)_15.6_0
+Cleaning cloth_36.0_1996
+Bronze hasta(p+)_15.6_0
+Blue feather_9.6_0
+Bronze hasta(p++)_15.6_0
+Iron hasta(p)_54.6_0
+Energy mix(1)_21.599999999999998_0
+Black halberd_1152.0_0
+Iron hasta(p+)_54.6_0
+Mithril halberd_1560.0_0
+Iron hasta(p++)_54.6_0
+Adamant halberd_3840.0_13280
+Steel hasta(p)_195.0_0
+Rune halberd_38400.0_40379
+Steel hasta(p+)_195.0_0
+Steel hasta(p++)_195.0_0
+Mithril hasta(p)_507.0_0
+Limestone_6.0_615
+Mithril hasta(p++)_507.0_0
+Adamant hasta(p)_1248.0_0
+Barrel_0.6_0
+Adamant hasta(p+)_1248.0_0
+Adamant hasta(p++)_1248.0_0
+Rune hasta(p)_12480.0_0
+Rune hasta(p+)_12480.0_0
+Raw rabbit_12.0_0
+Rune hasta(p++)_12480.0_0
+Cooked rabbit_2.4_900
+Attack mix(2)_5.3999999999999995_0
+Attack mix(1)_3.5999999999999996_0
+Antipoison mix(2)_129.6_0
+Antipoison mix(1)_86.39999999999999_0
+Relicym's mix(2)_90.0_0
+Relicym's mix(1)_45.0_0
+Strength mix(1)_6.6_0
+Strength mix(2)_7.8_0
+Combat mix(2)_63.0_0
+Combat mix(1)_31.2_0
+Restore mix(2)_39.6_0
+Restore mix(1)_26.4_0
+Energy mix(2)_43.199999999999996_0
+Tatty kyatt fur_72.0_0
+Defence mix(2)_54.0_0
+Defence mix(1)_36.0_0
+Agility mix(2)_60.0_0
+Agility mix(1)_30.0_0
+Prayer mix(2)_68.39999999999999_0
+Prayer mix(1)_45.6_0
+Superattack mix(2)_81.0_0
+Superattack mix(1)_54.0_0
+Anti-poison supermix(2)_129.6_0
+Anti-poison supermix(1)_86.39999999999999_0
+Fishing mix(2)_90.0_0
+Fishing mix(1)_60.0_0
+Super energy mix(2)_96.0_0
+Super energy mix(1)_54.0_0
+Super str. mix(2)_99.0_0
+Super str. mix(1)_66.0_0
+Magic essence mix(2)_108.0_0
+Grog_1.7999999999999998_0
+Super restore mix(2)_108.0_0
+Super restore mix(1)_72.0_0
+Super def. mix(2)_118.8_0
+Super def. mix(1)_79.2_0
+Antidote+ mix(2)_129.6_0
+Kebbit teeth_96.0_0
+Antifire mix(2)_118.8_0
+Antifire mix(1)_79.2_0
+Ranging mix(2)_129.6_0
+Ranging mix(1)_86.39999999999999_0
+Magic mix(2)_120.0_0
+Magic mix(1)_90.0_0
+Hunting mix(2)_5.3999999999999995_0
+Hunting mix(1)_3.5999999999999996_0
+Blood'n'tar snelm_180.0_0
+Zamorak mix(1)_75.0_0
+Bruise blue snelm_180.0_1800
+Bowl of water_2.4_39
+Myre snelm_180.0_0
+Blood'n'tar snelm_180.0_0
+Ochre snelm_180.0_0
+Bruise blue snelm_180.0_7323
+Blamish myre shell_90.0_480
+Bowl_2.4_60
+Blamish ochre shell_90.0_0
+Blamish blue shell_90.0_3000
+Blamish bark shell_90.0_1
+Blamish myre shell_90.0_0
+Blamish red shell_90.0_0
+Polar kebbit fur_6.0_0
+Blamish blue shell_90.0_8896
+Thin snail_3.0_1980
+Lean snail_6.0_0
+Granite clamp_3000.0_75000
+Thin snail meat_6.0_0
+Feldip weasel fur_8.4_0
+Fat snail meat_18.0_0
+Raw slimy eel_0.6_706
+Cooked slimy eel_0.6_0
+Common kebbit fur_7.199999999999999_0
+Splitbark helm_6000.0_0
+Splitbark body_27000.0_29965
+Splitbark legs_24000.0_25184
+Splitbark gauntlets_3000.0_4000
+Splitbark boots_3000.0_0
+Desert devil fur_10.2_0
+Loar remains_0.6_20
+Phrin remains_0.6_0
+Riyl remains_0.6_0
+Asyn remains_0.6_0
+Fiyr remains_0.6_0
+Unfinished potion_6.6_0
+Spotted kebbit fur_90.0_0
+Serum 207 (4)_8.4_0
+Serum 207 (3)_7.8_0
+Magic essence mix(1)_78.0_0
+Serum 207 (2)_7.8_0
+Serum 207 (1)_6.6_0
+Jug_0.6_57
+Limestone brick_12.0_185
+Olive oil(4)_13.2_31
+Olive oil(3)_12.0_0
+Olive oil(2)_10.2_0
+Olive oil(1)_8.4_0
+Sacred oil(4)_60.0_0
+Barb-tail harpoon_21.599999999999998_0
+Sacred oil(3)_54.0_0
+Sacred oil(2)_45.0_0
+Enchanted top_72000.0_88514
+Sacred oil(1)_36.0_0
+Pyre logs_4.8_0
+Oak pyre logs_24.0_0
+Willow pyre logs_48.0_0
+Maple pyre logs_96.0_0
+Yew pyre logs_192.0_0
+Magic pyre logs_384.0_6000
+Potato_0.6_44
+Fine cloth_300.0_0
+Black plateskirt (t)_1152.0_5777
+Rainbow fish_72.0_0
+Adamant plateskirt (t)_3840.0_0
+Blue dragonhide set_3000.0_11176
+Rune plateskirt (g)_38400.0_38687
+Rune plateskirt (t)_38400.0_0
+Zamorak plateskirt_38400.0_0
+Saradomin plateskirt_38400.0_48650
+Guthix plateskirt_38400.0_0
+Gilded platebody_39000.0_307444
+Gilded platelegs_38400.0_1665501
+Gilded plateskirt_38400.0_127044
+Gilded full helm_21120.0_184000
+Gilded kiteshield_32640.0_250200
+Redberries_1.7999999999999998_156
+Harralander tar_0.6_12
+Weapon poison_86.39999999999999_0
+Red salamander_90.0_0
+Mahogany plank_900.0_1339
+Torag's armour set_240000.0_825000
+Onion_1.7999999999999998_50
+Gold leaf_60000.0_0
+Manta ray_300.0_10000
+Noose wand_2.4_1000
+Ahrim's armour set_120000.0_872749
+Vampire dust_1.2_0
+Unlit torch_2.4_150
+Myre snelm_180.0_1
+Banana_1.2_61
+Zamorak mix(2)_90.0_0
+Armadyl crossbow_594000.0_26272552
+Steam battlestaff_10200.0_150125
+Mystic steam staff_27000.0_0
+Staff of the dead_600003.0_15409666
+Ochre snelm_180.0_0
+Godsword blade_450000.0_600000
+Armadyl godsword_750000.0_54328692
+Bandos godsword_750000.0_4498706
+Saradomin godsword_750000.0_48833871
+Zamorak godsword_750000.0_3904187
+Brown apron_1.2_175
+Bandos hilt_300000.0_0
+Saradomin hilt_300000.0_0
+Zamorak hilt_300000.0_0
+Godsword shard 1_150000.0_249898
+Broken bark snelm_180.0_0
+Godsword shard 2_150000.0_0
+Godsword shard 3_150000.0_0
+Zamorakian spear_60003.0_8537572
+Armadyl helmet_173400.0_724127
+Armadyl chestplate_174000.0_13580412
+Armadyl chainskirt_173940.0_15749946
+Bandos chestplate_174006.0_10944983
+Bandos tassets_173946.0_23189054
+Bandos boots_173406.0_360375
+Saradomin sword_78000.0_2032466
+Dragon boots_12000.0_136696
+Egg whisk_30.0_0
+Uncharged toxic trident_46800.0_945503
+Rune helm (h5)_21120.0_0
+Flamtaer hammer_6000.0_0
+Broad arrowheads_33.0_100
+Broad bolts_33.0_61
+Unfinished broad bolts_33.0_57
+Ahrim's staff_51000.0_57041
+Zamorakian hasta_180000.0_8817949
+Blamish red shell_90.0_0
+Leaf-bladed sword_40800.0_47740
+Trident of the seas (full)_41400.0_1509124
+Uncharged trident_40800.0_0
+Dragon pickaxe_58770.0_1504614
+Malediction ward_27000.0_2940168
+Odium ward_27000.0_4900146
+Odium shard 1_18600.0_0
+Odium shard 2_18600.0_0
+Odium shard 3_18600.0_0
+Malediction shard 1_18600.0_0
+Malediction shard 2_18600.0_0
+Malediction shard 3_18600.0_0
+Raw dark crab_195.0_0
+Dark crab_192.0_1865
+Dark fishing bait_1.7999999999999998_36
+Archer helm_36000.0_58053
+Berserker helm_36000.0_52990
+Warrior helm_36000.0_64000
+Farseer helm_36000.0_43960
+Fremennik cyan cloak_150.0_0
+Fremennik brown cloak_150.0_0
+Fremennik blue cloak_150.0_0
+Fremennik green cloak_150.0_998
+Fremennik brown shirt_150.0_0
+Extended antifire mix(2)_144.0_0
+Fremennik grey shirt_150.0_0
+Extended antifire mix(1)_96.0_0
+Blamish ochre shell_90.0_0
+Amulet of glory (t6)_10575.0_63151
+Fremennik red shirt_150.0_0
+Fremennik blue shirt_150.0_0
+Skills necklace(6)_12120.0_28888
+Fremennik red cloak_150.0_2994
+Fremennik grey cloak_150.0_0
+Combat bracelet(6)_12624.0_25678
+Fremennik yellow cloak_150.0_2499
+Fremennik teal cloak_150.0_0
+Fremennik purple cloak_150.0_0
+Amulet of glory(6)_10575.0_29253
+Fremennik pink cloak_150.0_0
+Ring of wealth (5)_10575.0_25228
+Fremennik black cloak_150.0_2851
+Fremennik boots_300.0_1634
+Fremennik robe_300.0_0
+Fremennik skirt_300.0_0
+Fremennik hat_300.0_0
+Fedora_180.0_0
+Fremennik gloves_300.0_0
+Lava scale_30.0_1822
+Keg of beer_150.0_1695
+Lava scale shard_12.0_500
+Beer tankard_12.0_0
+Tanzanite fang_66000.0_4000000
+Smoke battlestaff_9300.0_5982549
+Mystic smoke staff_25500.0_5968131
+Occult necklace_27000.0_968107
+Kraken tentacle_50004.0_387919
+Jar of dirt_0.6_0
+Toxic blowpipe (empty)_72000.0_4037065
+Fat snail_9.0_2604
+Saradomin page 1_120.0_7722
+Saradomin page 2_120.0_11998
+Saradomin page 3_120.0_8812
+Saradomin page 4_120.0_12250
+Zamorak page 1_120.0_1520000
+Zamorak page 2_120.0_1299500
+Zamorak page 3_120.0_1109696
+Zamorak page 4_120.0_1056366
+Guthix page 1_120.0_40000
+Guthix page 2_120.0_0
+Guthix page 3_120.0_0
+Guthix page 4_120.0_0
+Lean snail meat_12.0_0
+Games necklace(8)_630.0_1757
+Magic fang_61200.0_391092
+Ancient robe top_4200.0_68272
+Ancient robe legs_4200.0_99999
+Ancient cloak_1200.0_219708
+Ancient crozier_3000.0_9594
+Ancient stole_1500.0_0
+Ancient mitre_3000.0_57513
+Monkey nuts_1.7999999999999998_452
+Bronze platebody (g)_96.0_187894
+Monkey bar_30.0_0
+Bronze platelegs (g)_48.0_69894
+Banana stew_180.0_0
+Bronze plateskirt (g)_48.0_0
+Bronze full helm (g)_28.799999999999997_0
+Bronze kiteshield (g)_38.4_75894
+Bronze platebody (t)_96.0_15600
+Bronze platelegs (t)_48.0_0
+Shorts_216.0_0
+Bronze full helm (t)_28.799999999999997_16400
+Bronze kiteshield (t)_38.4_0
+Iron platebody (t)_336.0_0
+Iron platelegs (t)_168.0_0
+Iron plateskirt (t)_168.0_0
+Iron full helm (t)_96.0_0
+Iron kiteshield (t)_144.0_0
+Iron platebody (g)_336.0_680777
+Iron platelegs (g)_168.0_98342
+Iron plateskirt (g)_168.0_0
+Iron full helm (g)_96.0_157355
+Iron kiteshield (g)_144.0_0
+Beanie_360.0_0
+Red beret_48.0_0
+Imp mask_1200.0_120000
+Goblin mask_1200.0_0
+Armadyl robe top_4200.0_0
+Armadyl robe legs_4200.0_55499
+Armadyl stole_1500.0_16740
+Armadyl mitre_3000.0_59589
+Armadyl cloak_1200.0_189999
+Armadyl crozier_3000.0_0
+Bandos robe top_4200.0_0
+Bandos robe legs_4200.0_0
+Bandos stole_1500.0_18100
+Bandos mitre_3000.0_56154
+Bandos cloak_1200.0_193000
+Bandos crozier_3000.0_12130
+Mithril platebody (g)_3120.0_0
+Dragon platelegs_162000.0_185167
+Mystic hat_9000.0_13248
+Mystic robe top_72000.0_83450
+Bronze gold-trimmed set (sk)_120.0_0
+Mystic gloves_6000.0_6065
+Mystic boots_6000.0_7174
+Mystic hat (dark)_9000.0_9077
+Mystic robe top (dark)_72000.0_83403
+Mystic robe bottom (dark)_48000.0_66560
+Mystic gloves (dark)_6000.0_6400
+Mystic boots (dark)_6000.0_25000
+Mystic hat (light)_9000.0_9360
+Gold headband_24.0_24998
+Mystic robe bottom (light)_48000.0_71645
+Green headband_24.0_32068
+Mystic boots (light)_6000.0_10876
+Bronze boots_14.399999999999999_1923
+Iron boots_50.4_8950
+Steel boots_180.0_1
+Black boots_345.59999999999997_275
+Mithril boots_468.0_1500
+Adamant boots_1152.0_0
+Rune boots_7500.0_8641
+Navy cavalier_120.0_8293
+Red d'hide body (g)_6738.0_5906
+Red d'hide chaps (g)_3108.0_34968
+Red d'hide body (t)_6738.0_0
+Red d'hide chaps (t)_3108.0_4109
+Briefcase_399.59999999999997_499000
+Sagacious spectacles_840.0_0
+Pink elegant blouse_1200.0_0
+Pink elegant skirt_1200.0_0
+Abyssal whip_72000.59999999999_2441136
+Granite maul_30000.0_34766
+Gold elegant shirt_1200.0_17507
+Mirror shield_3000.0_5235
+Gold elegant legs_1200.0_10994
+Musketeer hat_2100.0_688212
+Monacle_720.0_0
+Rock hammer_300.0_0
+Big pirate hat_900.0_0
+Facemask_120.0_1000
+Katana_14400.0_715914
+Earmuffs_120.0_1447
+Leprechaun hat_600.0_34009
+Nose peg_120.0_784
+Cat mask_1440.0_39998
+Slayer's staff_12600.0_20414
+Bronze dragon mask_6000.0_0
+Iron dragon mask_6000.0_0
+Steel dragon mask_6000.0_0
+Mithril dragon mask_6000.0_0
+Lava dragon mask_6000.0_0
+Dragon cane_18000.0_107500
+Black cane_360.0_49999
+Adamant cane_864.0_0
+Rune cane_8640.0_12499
+Black d'hide body (g)_8088.0_30126
+Black d'hide chaps (g)_3732.0_1308319
+Black d'hide body (t)_8088.0_0
+Black d'hide chaps (t)_3732.0_172709
+Gilded scimitar_15360.0_0
+Gilded boots_7500.0_0
+Royal gown top_3000.0_125184
+Royal gown bottom_3000.0_0
+Royal crown_3600.0_186971
+Crystal seed_0.6_2993
+Nardah teleport_6.0_4851
+Digsite teleport_6.0_616
+New crystal bow_167400.0_899999
+Lunar isle teleport_6.0_10107
+Mort'ton teleport_6.0_20043
+Pest control teleport_6.0_711
+Piscatoris teleport_6.0_926
+Tai bwo wannai teleport_6.0_5500
+Elf camp teleport_6.0_2146
+Mos le'harmless teleport_6.0_703
+Pirate hat & patch_1800.0_0
+New crystal shield_480000.0_819142
+3rd age wand_90000.0_0
+Dragon arrow_480.0_2333
+3rd age bow_90000.0_0
+3rd age longsword_90000.0_0
+Penguin mask_720.0_27121
+Afro_410.4_0
+Top hat_1080.0_226086
+Top hat & monacle_2400.0_344000
+3rd age cloak_51000.0_0
+Royal sceptre_3000.0_128029
+Musketeer tabard_1128.0_0
+Musketeer pants_1122.0_0
+Black skirt (g)_1.2_36777
+Black skirt (t)_1.2_46193
+Black wizard robe (g)_9.0_0
+Black wizard robe (t)_9.0_310000
+Black wizard hat (g)_1.2_259562
+Black wizard hat (t)_1.2_0
+Ancient platebody_39000.0_0
+Ancient platelegs_38400.0_0
+Ancient plateskirt_38400.0_0
+Ancient full helm_21120.0_0
+Ancient kiteshield_32640.0_0
+Armadyl platebody_39000.0_42592
+Armadyl platelegs_38400.0_40864
+Armadyl plateskirt_38400.0_0
+Armadyl full helm_21120.0_40000
+Armadyl kiteshield_32640.0_37690
+Bandos platebody_39000.0_0
+Bandos platelegs_38400.0_50000
+Bandos plateskirt_38400.0_0
+Bandos full helm_21120.0_0
+Bandos kiteshield_32640.0_0
+Mithril trimmed set (lg)_3000.0_0
+Ham shirt_45.0_100
+Ham robe_45.0_135
+Ham hood_45.0_580
+Ham cloak_45.0_3500
+Ham logo_45.0_4749
+Ham gloves_45.0_1900
+Bandos chaps_3600.0_19075
+Bandos coif_1200.0_21000
+Armadyl bracers_2400.0_61301
+Team-1 cape_30.0_757
+Armadyl d'hide_7800.0_144000
+Team-2 cape_30.0_0
+Armadyl chaps_3600.0_81355
+Team-3 cape_30.0_0
+Armadyl coif_1200.0_39686
+Team-4 cape_30.0_0
+Explorer backpack_930.0_71400
+Team-5 cape_30.0_5999
+Pith helmet_516.0_0
+Team-6 cape_30.0_154
+Green dragon mask_6000.0_0
+Team-7 cape_30.0_0
+Blue dragon mask_6000.0_28000
+Team-8 cape_30.0_0
+Red dragon mask_6000.0_0
+Team-9 cape_30.0_0
+Black dragon mask_6000.0_16466
+Team-10 cape_30.0_600
+Fury ornament kit_3000.0_8920000
+Team-11 cape_30.0_0
+Dark infinity colour kit_3000.0_139282
+Team-12 cape_30.0_0
+Light infinity colour kit_3000.0_47253
+Team-13 cape_30.0_1434
+Dragon sq shield ornament kit_3000.0_0
+Team-14 cape_30.0_0
+Dragon chainbody ornament kit_3000.0_141381
+Team-15 cape_30.0_0
+Dragon plate/skirt ornament kit_3000.0_664199
+Team-16 cape_30.0_127
+Dragon full helm ornament kit_3000.0_14282
+Team-17 cape_30.0_0
+Deerstalker_1380.0_0
+Team-18 cape_30.0_0
+Team-19 cape_30.0_689
+Team-20 cape_30.0_581
+Team-21 cape_30.0_0
+Team-22 cape_30.0_0
+Team-23 cape_30.0_0
+Drunk dragon_18.0_0
+Team-25 cape_30.0_0
+Team-26 cape_30.0_151
+Team-27 cape_30.0_895
+Team-28 cape_30.0_1193
+Team-29 cape_30.0_0
+Team-30 cape_30.0_538
+Team-31 cape_30.0_0
+Team-32 cape_30.0_0
+Team-33 cape_30.0_0
+Team-34 cape_30.0_0
+Team-35 cape_30.0_4000
+Team-36 cape_30.0_100
+Bronze spear_15.6_1426
+Team-37 cape_30.0_0
+Team-38 cape_30.0_0
+Team-39 cape_30.0_763
+Team-40 cape_30.0_0
+Team-41 cape_30.0_0
+Team-42 cape_30.0_1499
+Team-43 cape_30.0_1000
+Team-44 cape_30.0_0
+Team-45 cape_30.0_0
+Rangers' tunic_7200.0_7898913
+Team-46 cape_30.0_89
+Holy sandals_1200.0_1201655
+Team-47 cape_30.0_0
+Ring of the gods_30000.0_0
+Team-49 cape_30.0_1
+Treasonous ring_30000.0_3212666
+Guthix rest(4)_30.0_4974
+Guthix rest(3)_30.0_3001
+Guthix rest(2)_30.0_0
+Bandos page 2_240.0_2588
+Guthix rest(1)_30.0_0
+Bandos page 4_240.0_2583
+Armadyl page 1_240.0_235601
+Armadyl page 2_240.0_422692
+Armadyl page 3_240.0_302403
+Armadyl page 4_240.0_337488
+Ancient page 1_240.0_65746
+Ancient page 2_240.0_59565
+Ancient page 3_240.0_64137
+Ancient page 4_240.0_57848
+Stamina potion(4)_240.0_6135
+Stamina potion(3)_180.0_4448
+Airtight pot_6.0_679
+Stamina potion(2)_120.0_2976
+Unfired pot lid_6.0_0
+Stamina potion(1)_60.0_2236
+Pot lid_9.0_792
+Stamina mix(2)_96.0_0
+Stamina mix(1)_54.0_0
+Adamant helm (h2)_2112.0_0
+Amylase crystal_12.0_775
+Lumberyard teleport_6.0_4707
+Black plateskirt (g)_1152.0_0
+Bowl of hot water_6.0_900
+Adamant helm (h3)_2112.0_0
+Cup of water_6.0_0
+Cup of hot water_6.0_0
+Adamant plateskirt (g)_3840.0_4384
+Adamant helm (h4)_2112.0_0
+Rune gold-trimmed set (sk)_48000.0_300000
+Adamant helm (h5)_2112.0_5214
+Gilded armour set (lg)_48000.0_2499000
+Black helm (h1)_633.6_3410
+Gilded armour set (sk)_48000.0_0
+Super combat potion(4)_150.0_19185
+Black helm (h2)_633.6_0
+Super combat potion(2)_54.0_9860
+Super combat potion(1)_24.0_4836
+Saradomin armour set (lg)_48000.0_444799
+Black helm (h3)_633.6_0
+Oil lamp_16.8_5000
+Empty oil lamp_15.0_0
+Empty candle lantern_6.0_100
+Black helm (h4)_633.6_0
+Candle lantern_9.0_0
+Empty oil lantern_72.0_0
+Oil lantern_75.0_2956
+Oil lantern frame_54.0_0
+Lime chunks_0.6_0
+Lantern lens_42.0_10
+Bullseye lantern (unf)_180.0_99
+Bullseye lantern (empty)_240.0_400
+Bullseye lantern_252.0_1850
+Spiny helmet_390.0_900
+Lime slices_1.2_0
+Blue dark bow paint_0.6_147000
+Green dark bow paint_0.6_179311
+Yellow dark bow paint_0.6_174214
+White dark bow paint_0.6_147000
+Frozen whip mix_0.6_154838
+Volcanic whip mix_0.6_221871
+Black spear_390.0_0
+Black spear(p)_450.0_0
+Annakarl teleport_0.6_2931
+Carrallangar teleport_0.6_3049
+Dragon plateskirt_162000.0_180936
+Ghorrock teleport_0.6_2967
+Dragon scimitar_60000.0_68846
+Lassar teleport_0.6_2160
+Paddewwa teleport_0.6_0
+Senntisten teleport_0.6_2884
+Ring of wealth scroll_3000.0_14999
+Fake beard_0.6_0
+Magic shortbow scroll_3000.0_26167
+Karidian disguise_0.6_0
+Clue box_6.0_0
+Willow blackjack_360.0_208
+Raw beef_0.6_43
+Steam staff upgrade kit_900.0_71882
+Super kebab_1.7999999999999998_0
+Ward upgrade kit_900.0_114984
+Saradomin's tear_24000.0_0
+Raw rat meat_0.6_27
+Bandos rune armour set (sk)_48000.0_0
+Elysian spirit shield_1200000.0_804666666
+Bandit's brew_300.0_1931
+Spectral spirit shield_1200000.0_28593551
+Spectral sigil_450000.0_0
+Arcane spirit shield_1200000.0_83796447
+Arcane sigil_450000.0_0
+Spirit shield_42000.0_88331
+Blessed spirit shield_720000.0_863259
+Holy elixir_450000.0_0
+Cooked chicken_2.4_97
+Bounty teleport scroll_18000.0_0
+Combat potion set_42.0_0
+Amulet of the damned (full)_34800.6_450000
+3rd age range coif_30240.0_0
+Garlic powder_6.0_0
+Dwarf cannon set_360000.0_768141
+Green dragonhide set_3000.0_8007
+Ancient staff_60000.0_76188
+Red dragonhide set_3000.0_15475
+Black dragonhide set_3000.0_20500
+Guthan's armour set_240000.0_13919312
+Verac's armour set_240000.0_2283849
+Linen_18.0_1145
+Dharok's armour set_240000.0_1646948
+Bucket of sap_18.0_1200
+Pile of salt_12.0_0
+Karil's armour set_120000.0_1561192
+Magic cape rack_6.0_0
+Jar of sand_0.6_0
+Steam rune_12.0_30
+Mist rune_12.0_15
+Dust rune_12.0_15
+Smoke rune_12.0_10
+Mud rune_12.0_132
+Lava rune_12.0_3
+Ahrim's hood_7800.0_42692
+Swamp toad_1.2_0
+Toxic staff (uncharged)_600003.6_15746999
+Ahrim's robetop_30000.0_367100
+Anti-venom(4)_264.0_3958
+Ahrim's robeskirt_28200.0_350081
+Anti-venom(3)_198.0_0
+Dharok's helm_61800.0_261524
+Anti-venom(2)_132.0_0
+Dharok's greataxe_124800.0_291255
+Anti-venom(1)_66.0_0
+Dharok's platebody_168000.0_643398
+Anti-venom+(4)_266.4_12371
+Dharok's platelegs_165000.0_462723
+Anti-venom+(3)_199.79999999999998_12000
+Guthan's helm_61800.0_4902520
+Anti-venom+(2)_133.2_0
+Guthan's warspear_60000.0_8365492
+Anti-venom+(1)_66.6_0
+Guthan's platebody_168000.0_293779
+Guthan's chainskirt_165000.0_277810
+Karil's coif_7800.0_22850
+Karil's crossbow_96000.0_180472
+Serpentine visage_63000.0_327278
+Karil's leathertop_30000.0_1184205
+Serpentine helm (uncharged)_66000.0_330459
+Karil's leatherskirt_28200.0_127864
+Bolt rack_30.0_84
+Elemental sphere_6.0_0
+Zulrah's scales_12.0_181
+Jar of swamp_0.6_0
+Torag's helm_61800.0_82377
+Zul-andra teleport_6.0_105
+Torag's hammers_96000.0_0
+Torag's platebody_168000.0_272057
+Torag's platelegs_165000.0_339284
+Verac's helm_61800.0_640408
+Verac's flail_96000.0_128996
+Verac's brassard_168000.0_220800
+Verac's plateskirt_165000.0_1226722
+Bronze set (lg)_120.0_301
+Bronze set (sk)_120.0_0
+Bronze trimmed set (lg)_120.0_64000
+Bronze brutal_3.0_0
+Bronze trimmed set (sk)_120.0_0
+Bronze gold-trimmed set (lg)_120.0_414827
+Iron brutal_6.0_400
+Iron set (lg)_540.0_1464
+King worm_1.2_50
+Iron set (sk)_540.0_1599
+Steel brutal_12.0_150
+Iron trimmed set (lg)_540.0_745000
+Iron trimmed set (sk)_540.0_0
+Iron gold-trimmed set (lg)_540.0_1249999
+Black brutal_21.0_0
+Iron gold-trimmed set (sk)_540.0_0
+Steel set (lg)_840.0_10000
+Mithril brutal_30.0_600
+Steel set (sk)_840.0_4407
+Black set (lg)_2700.0_13999
+Adamant brutal_57.0_0
+Black trimmed set (lg)_2700.0_0
+Black trimmed set (sk)_2700.0_0
+Rune brutal_270.0_0
+Black gold-trimmed set (lg)_2700.0_0
+Black gold-trimmed set (sk)_2700.0_0
+Mithril set (lg)_3000.0_6930
+Mithril set (sk)_3000.0_10000
+Zogre bones_0.6_0
+Mithril trimmed set (sk)_3000.0_0
+Mithril gold-trimmed set (lg)_3000.0_100000
+Mithril gold-trimmed set (sk)_3000.0_0
+Bronze nails_1.2_29
+Iron nails_2.4_23
+Black nails_7.199999999999999_0
+Mithril nails_10.799999999999999_0
+Adamantite nails_27.0_0
+Rune nails_132.0_0
+Unstrung comp bow_54.0_0
+Adamant trimmed set (sk)_4800.0_0
+Comp ogre bow_108.0_4195
+Adamant gold-trimmed set (lg)_4800.0_100000
+Fayrg bones_0.6_0
+Raurg bones_0.6_0
+Ourg bones_0.6_0
+Rune trimmed set (lg)_48000.0_0
+Rune trimmed set (sk)_48000.0_0
+Rune gold-trimmed set (lg)_48000.0_242195
+Relicym's balm(4)_135.0_1166
+Relicym's balm(3)_120.0_350
+Relicym's balm(2)_90.0_0
+Relicym's balm(1)_45.0_0
+Saradomin armour set (sk)_48000.0_0
+Zamorak armour set (lg)_48000.0_440665
+Zamorak armour set (sk)_48000.0_0
+Guthix armour set (lg)_48000.0_197800
+Guthix armour set (sk)_48000.0_0
+Ahrim's hood 0_7800.0_0
+Armadyl rune armour set (sk)_48000.0_0
+Bandos rune armour set (lg)_48000.0_0
+Ahrim's staff 0_51000.0_0
+Security book_1.2_0
+Ancient rune armour set (lg)_48000.0_200120
+Ancient rune armour set (sk)_48000.0_0
+Ahrim's robetop 0_30000.0_0
+Stronghold notes_1.2_0
+Super potion set_60.0_11586
+Ahrim's robeskirt 0_28200.0_0
+Dharok's helm 0_61800.0_188312
+Dharok's greataxe 0_124800.0_237007
+Dharok's platebody 0_168000.0_586007
+Dharok's platelegs 0_165000.0_387007
+Guthan's helm 0_61800.0_0
+Guthan's warspear 0_60000.0_0
+Guthan's platebody 0_168000.0_0
+Guthan's chainskirt 0_165000.0_0
+Karil's coif 0_7800.0_0
+Karil's crossbow 0_96000.0_0
+Karil's leathertop 0_30000.0_0
+Karil's leatherskirt 0_28200.0_0
+Torag's helm 0_61800.0_0
+Holy book page set_4200.0_0
+Unholy book page set_4200.0_5190000
+Book of balance page set_4200.0_0
+Torag's hammers 0_96000.0_0
+Book of war page set_4500.0_0
+Book of law page set_4500.0_1368495
+Book of darkness page set_4500.0_284300
+Torag's platebody 0_168000.0_0
+Zamorak dragonhide set_5400.0_687148
+Saradomin dragonhide set_5400.0_0
+Guthix dragonhide set_5400.0_129894
+Torag's platelegs 0_165000.0_189009
+Bandos dragonhide set_5700.0_177144
+Armadyl dragonhide set_5700.0_0
+Ancient dragonhide set_5700.0_0
+Verac's helm 0_61800.0_0
+Partyhat set_6.0_302830
+Halloween mask set_4.8_92603
+Verac's flail 0_96000.0_0
+Verac's brassard 0_168000.0_0
+Verac's plateskirt 0_165000.0_0
+Raw cave eel_9.0_949
+Cave eel_9.0_0
+Mining helmet_360.0_967
+Bone spear_360.0_850
+Rune javelin(p)_240.0_0
+Bone club_360.0_0
+Woven top_300.0_0
+Woven top_375.0_2
+Woven top_390.0_3078
+Shirt_270.0_0
+Shirt_360.0_0
+Shirt_375.0_0
+Trousers_330.0_0
+Trousers_420.0_0
+Trousers_450.0_0
+Shorts_168.0_0
+Circular hide_36.0_0
+Shorts_234.0_2200
+Skirt_210.0_0
+Skirt_330.0_0
+Skirt_375.0_0
+Grey robe top_300.0_0
+Black set (sk)_2700.0_0
+Marigold seed_1.2_4
+Rosemary seed_2.4_23
+Nasturtium seed_6.6_5
+Woad seed_6.6_0
+Limpwurt seed_7.199999999999999_384
+Redberry seed_2.4_0
+Cadavaberry seed_5.3999999999999995_0
+Dwellberry seed_15.0_0
+Jangerberry seed_36.0_0
+Whiteberry seed_79.8_0
+Poison ivy seed_99.6_1853
+Proboscis_3.0_400
+Grey hat_300.0_1249
+Globe_6.0_0
+Cactus seed_59.4_0
+Belladonna seed_106.2_0
+Mushroom spore_51.6_1
+Apple tree seed_7.8_0
+Banana tree seed_12.0_6
+Orange tree seed_18.599999999999998_0
+Curry tree seed_23.4_605
+Pineapple seed_44.4_4134
+Papaya tree seed_69.0_5500
+Palm tree seed_152.4_26906
+Calquat tree seed_204.0_281
+Guam seed_2.4_11
+Marrentill seed_3.0_97
+Tarromin seed_4.2_212
+Harralander seed_7.199999999999999_27
+Ranarr seed_11.4_17722
+Toadflax seed_20.4_119
+Earth battlestaff_9300.0_9139
+Avantoe seed_38.4_378
+Astral rune_30.0_138
+Snapdragon seed_38.4_21830
+Cadantine seed_38.4_457
+Lantadyme seed_38.4_0
+Dwarf weed seed_38.4_1050
+Torstol seed_38.4_35528
+Barley seed_1.2_0
+Jute seed_3.0_3
+Hammerstone seed_1.2_0
+Asgarnian seed_1.7999999999999998_0
+Yanillian seed_3.5999999999999996_500
+Krandorian seed_4.8_0
+Wildblood seed_8.4_10
+Acorn_3.5999999999999996_246
+Willow seed_9.6_8606
+Maple seed_28.799999999999997_49309
+Yew seed_85.8_66348
+Magic seed_253.2_72037
+Potato seed_1.2_1
+Onion seed_1.7999999999999998_1
+Sweetcorn seed_4.8_61
+Watermelon seed_33.6_836
+Tomato seed_2.4_2
+Strawberry seed_10.799999999999999_105
+Cabbage seed_1.7999999999999998_1
+Gardening trowel_7.199999999999999_499
+Secateurs_3.0_262
+Watering can_4.8_299
+Rake_3.5999999999999996_100
+Seed dibber_3.5999999999999996_268
+Gardening boots_15.0_0
+Empty plant pot_0.6_2
+Unfired plant pot_0.6_0
+Filled plant pot_0.6_72
+Oak sapling_0.6_904
+Willow sapling_0.6_10017
+Maple sapling_0.6_49494
+Yew sapling_0.6_71768
+Magic sapling_0.6_81808
+Basket_0.6_91
+Apples(5)_0.6_414
+Oranges(5)_0.6_350
+Strawberries(5)_0.6_0
+Membership bond_1200000.0_2110726
+Bananas(5)_0.6_756
+Empty sack_0.6_93
+Potatoes(10)_0.6_986
+Onions(10)_0.6_0
+Mithril pickaxe_780.0_1636
+Cabbages(10)_0.6_0
+Apple sapling_0.6_432
+Banana sapling_0.6_544
+Orange sapling_0.6_798
+Curry sapling_0.6_1000
+Pineapple sapling_0.6_5000
+Papaya sapling_0.6_6909
+Palm sapling_0.6_28171
+Calquat sapling_0.6_999
+Strawberry_10.2_15
+Elemental talisman_300.0_0
+Binding necklace_855.0_1824
+Tiara mould_60.0_88
+Tiara_60.0_46
+Air tiara_60.0_2
+Mind tiara_60.0_495
+Water tiara_60.0_400
+Body tiara_60.0_74
+Earth tiara_60.0_19
+Fire tiara_60.0_657
+Cosmic tiara_60.0_50
+Nature tiara_60.0_99
+Adamant dart(p++)_39.0_0
+Chaos tiara_60.0_300
+Death tiara_60.0_0
+Initiate sallet_3600.0_4331
+Initiate hauberk_6000.0_4869
+Initiate cuisse_4800.0_7434
+Bronze arrow(p+)_0.6_0
+Iron arrow(p+)_1.7999999999999998_0
+Steel arrow(p+)_7.199999999999999_0
+Mithril arrow(p+)_19.2_0
+Adamant arrow(p+)_48.0_0
+Rune arrow(p+)_240.0_0
+Bronze arrow(p++)_0.6_0
+Iron arrow(p++)_1.7999999999999998_0
+Steel arrow(p++)_7.199999999999999_0
+Mithril arrow(p++)_19.2_0
+Adamant arrow(p++)_48.0_72
+Rune arrow(p++)_240.0_0
+Bronze dart(p+)_0.6_0
+Iron dart(p+)_1.2_0
+Steel dart(p+)_6.0_0
+Black dart(p+)_10.799999999999999_0
+Mithril dart(p+)_15.0_0
+Adamant dart(p+)_39.0_0
+Rune dart(p+)_210.0_0
+Bronze dart(p++)_0.6_0
+Iron dart(p++)_1.2_0
+Steel dart(p++)_6.0_0
+Black dart(p++)_10.799999999999999_0
+Mithril dart(p++)_15.0_0
+Desert goat horn_7.199999999999999_0
+Rune dart(p++)_210.0_0
+Bronze javelin(p+)_2.4_0
+Iron javelin(p+)_3.5999999999999996_0
+Steel javelin(p+)_14.399999999999999_0
+Mithril javelin(p+)_38.4_0
+Adamant javelin(p+)_96.0_0
+Rune javelin(p+)_240.0_0
+Bronze javelin(p++)_2.4_0
+Iron javelin(p++)_3.5999999999999996_0
+Steel javelin(p++)_14.399999999999999_0
+Mithril javelin(p++)_38.4_0
+Adamant javelin(p++)_96.0_0
+Rune javelin(p++)_240.0_0
+Bronze knife(p+)_0.6_0
+Iron knife(p+)_1.7999999999999998_0
+Steel knife(p+)_6.0_0
+Mithril knife(p+)_16.2_0
+Black knife(p+)_10.799999999999999_0
+Adamant knife(p+)_39.6_0
+Rune knife(p+)_99.6_0
+Bronze knife(p++)_0.6_0
+Iron knife(p++)_1.7999999999999998_0
+Steel knife(p++)_6.0_0
+Mithril knife(p++)_16.2_0
+Black knife(p++)_10.799999999999999_0
+Adamant knife(p++)_39.6_0
+Rune knife(p++)_99.6_2082
+Iron dagger(p+)_21.0_0
+Bronze dagger(p+)_6.0_0
+Steel dagger(p+)_75.0_0
+Mithril dagger(p+)_195.0_0
+Adamant dagger(p+)_480.0_0
+Rune dagger(p+)_4800.0_0
+Dragon dagger(p+)_14400.0_25959
+Black dagger(p+)_144.0_0
+Iron dagger(p++)_21.0_5500
+Bronze dagger(p++)_6.0_0
+Iron bolts_1.2_39
+Steel dagger(p++)_75.0_0
+Mithril dagger(p++)_195.0_0
+Adamant dagger(p++)_480.0_0
+Rune dagger(p++)_4800.0_0
+Dragon dagger(p++)_14400.0_26857
+Black dagger(p++)_144.0_0
+Silk_18.0_19
+Bronze spear(p+)_15.6_0
+Iron spear(p+)_54.6_0
+Steel spear(p+)_195.0_0
+Mithril spear(p+)_507.0_0
+Adamant spear(p+)_1248.0_0
+Spade_1.7999999999999998_244
+Rune spear(p+)_12480.0_0
+Dragon spear(p+)_37440.0_0
+Bronze spear(p++)_15.6_0
+Iron spear(p++)_54.6_0
+Essence impling jar_30.0_0
+Steel spear(p++)_195.0_0
+Mithril spear(p++)_507.0_0
+Adamant spear(p++)_1248.0_0
+Rune spear(p++)_12480.0_24999
+Dragon spear(p++)_37440.0_95000
+Black spear(p+)_450.0_0
+Black spear(p++)_450.0_0
+Asgarnian ale(m)_1.2_0
+Mature wmb_1.2_0
+Greenman's ale(m)_1.2_0
+Dragon bitter(m)_1.2_0
+Dwarven stout(m)_1.2_15191
+Adamant set (lg)_4800.0_0
+Moonlight mead(m)_3.0_0
+Axeman's folly_1.2_0
+Axeman's folly(m)_1.2_0
+Chef's delight_1.2_0
+Chef's delight(m)_1.2_0
+Slayer's respite_1.2_0
+Slayer's respite(m)_1.2_0
+Cider_1.2_1993
+Mature cider_1.2_0
+Ale yeast_0.6_0
+Calquat keg_0.6_0
+Dwarven stout(4)_0.6_0
+Asgarnian ale(4)_0.6_0
+Greenmans ale(4)_0.6_0
+Mind bomb(4)_0.6_0
+Adamant set (sk)_4800.0_32086
+Dragon bitter(4)_0.6_0
+Steel halberd_600.0_0
+Moonlight mead(4)_0.6_0
+Axeman's folly(4)_0.6_0
+Chef's delight(4)_0.6_0
+Slayer's respite(4)_0.6_0
+Cider(4)_0.6_0
+Dwarven stout(m4)_0.6_0
+Asgarnian ale(m4)_0.6_0
+Adamant trimmed set (lg)_4800.0_0
+Greenmans ale(m4)_0.6_0
+Mind bomb(m4)_0.6_0
+Dragon bitter(m4)_0.6_0
+Moonlight mead(m4)_0.6_0
+Axeman's folly(m4)_0.6_0
+Iron crossbow_94.2_0
+Chef's delight(m4)_0.6_0
+Slayer respite(m4)_0.6_0
+Steel crossbow_216.0_0
+Jute fibre_3.5999999999999996_0
+Willow branch_1.2_1870
+Mith crossbow_469.79999999999995_1497
+Weapon poison(+)_172.79999999999998_1500
+Weapon poison(++)_259.2_6995
+Antidote+(4)_216.0_0
+Antidote+(3)_172.79999999999998_0
+Adamant crossbow_1060.2_2765
+Antidote+(1)_86.39999999999999_0
+Antidote++(4)_216.0_427
+Antidote++(3)_172.79999999999998_561
+Antidote++(2)_129.6_0
+Antidote++(1)_86.39999999999999_0
+Sinister key_48.0_23684
+Tomatoes(5)_0.6_0
+Curry leaf_11.4_419
+Papaya fruit_38.4_1376
+Coconut_52.199999999999996_799
+Calquat fruit_32.4_0
+Watermelon_28.799999999999997_14
+Watermelon slice_9.6_0
+Sweetcorn_5.3999999999999995_360
+Cooked sweetcorn_5.3999999999999995_0
+Apple mush_7.8_0
+Hammerstone hops_2.4_0
+Asgarnian hops_3.0_0
+Yanillian hops_4.2_0
+Krandorian hops_6.0_0
+Wildblood hops_9.0_0
+Mushroom_22.8_0
+Barley_2.4_368
+Barley malt_2.4_1000
+Marigolds_0.6_0
+Nasturtiums_2.4_0
+Rosemary_1.2_0
+Cactus spine_0.6_5181
+Poison ivy berries_39.0_1416
+Compost_12.0_500
+Supercompost_51.0_609
+Plant cure_24.0_262
+Magic string_0.6_5180
+Oak roots_0.6_0
+Willow roots_0.6_0
+Maple roots_0.6_6
+Adamant gold-trimmed set (sk)_4800.0_0
+Yew roots_0.6_0
+Magic roots_0.6_0
+Weeds_0.6_45
+Bronze bolts(p+)_0.0_0
+Bronze bolts(p++)_0.0_0
+Adamant helm (h1)_2112.0_2452
+Rune armour set (lg)_45000.0_144029
+Lava dragon bones_90.0_3912
+Rock-shell helm_21120.0_0
+Rock-shell plate_39000.0_46090
+Rock-shell legs_38400.0_44420
+Spined helm_36000.0_0
+Spined body_4680.0_9297
+Spined chaps_2340.0_5000
+Skeletal helm_6000.0_0
+Skeletal top_27000.0_23320
+Skeletal bottoms_24000.0_26500
+Spined boots_390.0_100000
+Rock-shell boots_390.0_0
+Skeletal boots_390.0_0
+Spined gloves_390.0_100000
+Rock-shell gloves_390.0_0
+Skeletal gloves_390.0_0
+Dagannoth hide_36.0_0
+Rock-shell chunk_36.0_0
+Rock-shell shard_36.0_0
+Rock-shell splinter_36.0_0
+Skull piece_36.0_0
+Ribcage piece_36.0_0
+Fibula piece_36.0_0
+Rune armour set (sk)_45000.0_149989
+Flattened hide_36.0_0
+Stretched hide_36.0_0
+Extended antifire (3)_198.0_5000
+Extended antifire (2)_132.0_0
+Extended antifire (1)_66.0_0
+Teak pyre logs_60.0_0
+Mahogany pyre log_120.0_0
+Broodoo shield (10)_1800.0_0
+Magic box_360.0_0
+Broodoo shield_1800.0_0
+Broodoo shield (10)_1800.0_0
+Fremennik beige shirt_150.0_0
+Magic potion(3)_150.0_846
+Broodoo shield_1800.0_0
+Broodoo shield (10)_1800.0_0
+Green partyhat_0.6_27456
+Pearl bolts (e)_9.0_0
+Broodoo shield_1800.0_0
+Thatch spar light_6.0_0
+Thatch spar med_9.0_0
+Thatch spar dense_12.0_0
+Snake hide_21.0_576
+White partyhat_0.6_56200
+Spider carcass_9.0_199
+Spider on stick_30.0_0
+Spider on shaft_24.0_0
+Ruby bolts (e)_82.8_352
+Skewer stick_6.0_3
+Trading sticks_0.6_11
+Diamond bolts (e)_126.6_436
+Gout tuber_120.0_0
+Opal machete_300.0_134
+Jade machete_600.0_0
+Red topaz machete_1200.0_28223
+Onyx bolts (e)_9000.0_8788
+Snakeskin body_750.0_4000
+Snakeskin chaps_705.0_450
+Snakeskin bandana_180.0_49
+Snakeskin boots_150.0_258
+Snakeskin vambraces_260.4_497
+Mahogany logs_30.0_90
+Teak logs_18.0_61
+Tribal mask_300.0_0
+Tribal mask_300.0_0
+Tribal mask_300.0_8060
+Tribal top_180.0_14048
+Grimy avantoe_0.6_1619
+Villager robe_150.0_0
+Villager hat_120.0_0
+Villager armband_90.0_19850
+Villager sandals_60.0_4998
+Tribal top_180.0_1112
+Villager robe_150.0_0
+Villager hat_120.0_0
+Villager sandals_60.0_0
+Villager armband_90.0_0
+Tribal top_180.0_0
+Villager robe_150.0_0
+Villager hat_120.0_0
+Villager sandals_60.0_28498
+Villager armband_90.0_0
+Tribal top_180.0_1112
+Villager robe_150.0_0
+Villager hat_120.0_0
+Villager sandals_60.0_9298
+Villager armband_90.0_0
+Fez_12.0_500
+Desert top_9.0_2500
+Desert robes_15.0_0
+Desert top_21.0_468
+Desert legs_15.0_2000
+Menaphite purple hat_21.0_1000
+Ogre coffin key_60.0_0
+Menaphite purple top_12.0_1000
+Menaphite purple robe_24.0_14983
+Menaphite purple kilt_12.0_1000
+Menaphite red hat_21.0_0
+Menaphite red top_12.0_1000
+Menaphite red robe_24.0_13994
+Menaphite red kilt_12.0_1000
+Oak blackjack(o)_240.0_0
+Oak blackjack(d)_240.0_0
+Willow blackjack(o)_480.0_0
+Willow blackjack(d)_480.0_0
+Maple blackjack_720.0_2414
+Maple blackjack(o)_960.0_3074
+Maple blackjack(d)_960.0_0
+Combat bracelet_12624.0_23996
+Compost potion(4)_72.0_300
+Compost potion(3)_54.0_0
+Compost potion(2)_36.0_0
+Compost potion(1)_18.0_0
+Combat bracelet(4)_12624.0_27488
+Toktz-xil-ul_150.0_1320
+Toktz-xil-ak_24000.0_0
+Toktz-ket-xil_27000.0_180428
+Toktz-xil-ek_15000.0_93954
+Toktz-mej-tal_21000.0_0
+Tzhaar-ket-em_18000.0_0
+Tzhaar-ket-om_30000.0_188066
+Mud battlestaff_10200.0_105518
+Mystic mud staff_27000.0_162642
+Obsidian cape_36000.0_379109
+Iron bolts (p)_1.2_0
+Onyx_120000.0_0
+Onyx ring_120600.0_0
+Onyx necklace_120600.0_0
+Onyx amulet (u)_120600.0_0
+Onyx amulet_120600.0_0
+Studded chaps_450.0_435
+Amulet of fury_121200.0_3010260
+White claws_216.0_0
+White battleaxe_748.8_0
+White dagger_144.0_0
+White dagger(p)_144.0_0
+Green d'hide chaps_2340.0_2141
+White dagger(p++)_144.0_0
+White halberd_1152.0_0
+White mace_259.2_0
+White magic staff_120.0_629
+White sword_374.4_0
+White longsword_576.0_0
+White 2h sword_1152.0_0
+White scimitar_460.79999999999995_0
+White warhammer_588.0_0
+White chainbody_864.0_0
+White platebody_2304.0_7999
+Steel bolts(p+)_4.8_0
+White med helm_345.59999999999997_0
+White full helm_633.6_10000
+White platelegs_1152.0_9370
+White plateskirt_1152.0_0
+White gloves_3.5999999999999996_483
+Adamant bolts(p+)_34.8_0
+White kiteshield_979.1999999999999_0
+Silver bolts(p+)_3.0_0
+Extended antifire (4)_264.0_1541
+Mithril chainbody_1170.0_14093
+Uncut onyx_120000.0_2972005
+Mithril bolts(p++)_12.0_0
+Runite bolts(p++)_180.0_0
+Ground guam_1.2_0
+Raw ugthanki meat_1.2_0
+Saradomin brew(4)_120.0_4298
+Saradomin brew(3)_105.0_3381
+Saradomin brew(2)_90.0_2243
+Saradomin brew(1)_75.0_987
+Crushed nest_0.6_3009
+Bandos bracers_2400.0_0
+Pat of butter_2.4_300
+Baked potato_2.4_0
+Potato with butter_4.8_0
+Potato with cheese_4.8_574
+Purple robe top_300.0_0
+Seercull_4800.0_69000
+Dagannoth bones_0.6_8360
+Ring of stone_121200.0_0
+Archers ring_6000.0_3084790
+Warrior ring_6000.0_309291
+Berserker ring_6000.0_3415740
+Dragon axe_33000.0_298160
+Black desert shirt_24.0_0
+Black desert robe_18.0_0
+Guthix mjolnir_375.0_30000
+Saradomin mjolnir_375.0_0
+Bob's blue shirt_1.7999999999999998_0
+Red d'hide chaps_3108.0_5395
+Choc-ice_18.0_1
+White dagger(p+)_144.0_0
+Granite legs_39600.0_44730
+Wyvern bones_0.6_2382
+Fur_6.0_0
+Bob's green shirt_1.7999999999999998_0
+Sapphire bolts_22.2_0
+Ruby bolts_75.0_0
+Bob's black shirt_1.7999999999999998_0
+Mage's book_300.0_5386666
+Arena book_0.6_0
+Black chinchompa_144.0_1715
+Dragon bolts_580.1999999999999_2113
+Beginner wand_720.0_0
+Apprentice wand_900.0_0
+Teacher wand_1200.0_0
+Master wand_60000.6_3886499
+Infinity top_84000.0_3162665
+Infinity hat_10200.0_3351870
+Infinity boots_7200.0_1785055
+Infinity gloves_7200.0_1155200
+Infinity bottoms_54000.0_4087733
+Snape grass_6.0_31
+White boots_345.59999999999997_2999
+Armadyl rune armour set (lg)_48000.0_0
+Pink cape_0.6_0
+Triangle sandwich_15.0_0
+Sandstone (1kg)_0.6_0
+Sandstone (2kg)_0.6_0
+Sandstone (5kg)_0.6_0
+Sandstone (10kg)_0.6_0
+Granite (500g)_0.6_0
+Granite (2kg)_0.6_393
+Granite (5kg)_0.6_490
+Purple robe bottoms_300.0_0
+White sq shield_691.1999999999999_0
+Unlit bug lantern_78.0_3
+Chilli potato_7.8_0
+Egg potato_7.199999999999999_0
+Mushroom potato_27.0_0
+Tuna potato_67.8_1879
+Chilli con carne_7.8_0
+Egg and tomato_7.199999999999999_0
+Mushroom & onion_27.0_0
+Tuna and corn_67.8_0
+Minced meat_4.8_0
+Spicy sauce_5.3999999999999995_0
+Chopped garlic_4.2_0
+Uncooked egg_4.8_0
+Scrambled egg_4.8_0
+Sliced mushrooms_25.2_0
+Fried mushrooms_25.2_0
+Fried onions_4.2_0
+Chopped tuna_62.4_0
+Sweetcorn_7.8_0
+Adamant sq shield_2304.0_2513
+Stripy pirate shirt_180.0_0
+Iron bolts (unf)_0.6_0
+Pirate bandana_60.0_0
+Pirate boots_210.0_461
+Pirate leggings_210.0_0
+Stripy pirate shirt_180.0_0
+Mithril bolts (unf)_0.6_97
+3rd age range top_30480.0_29292561
+Pirate leggings_210.0_0
+Stripy pirate shirt_180.0_0
+Pirate bandana_60.0_0
+Pirate leggings_210.0_0
+Stripy pirate shirt_180.0_0
+Runite bolts (unf)_0.6_0
+Pirate bandana_60.0_0
+Pirate leggings_210.0_4000
+Dragon 2h sword_132000.0_152858
+Insulated boots_120.0_434
+Pie recipe book_3.0_0
+Raw mud pie_16.2_0
+Mud pie_32.4_0
+Black kiteshield_979.1999999999999_0
+Raw garden pie_7.199999999999999_0
+Garden pie_14.399999999999999_390
+Raw fish pie_30.0_0
+Fish pie_60.0_400
+Raw admiral pie_93.0_0
+Admiral pie_186.0_1700
+Raw wild pie_54.6_0
+Irit seed_38.4_75
+Wild pie_109.2_7223
+Raw summer pie_42.0_2000
+Summer pie_84.0_1905
+Kwuarm seed_38.4_1391
+Roast rabbit_12.0_0
+Iron spit_38.4_111
+Cooked chompy_51.0_0
+Empty fishbowl_0.6_2
+Rune dagger_4800.0_4609
+Toad's legs_1.2_26
+Desert camo legs_12.0_12797
+Red boater_135.0_2650
+Orange boater_135.0_0
+Green boater_135.0_0
+Blue boater_135.0_14000
+Black boater_135.0_4999
+Red firelighter_9.0_25
+Green firelighter_9.0_25
+Blue firelighter_9.0_0
+Black shield (h1)_979.1999999999999_0
+Adamant shield (h1)_3264.0_0
+Rune shield (h1)_32640.0_32880
+Black shield (h2)_9795.0_0
+Adamant shield (h2)_3264.0_0
+Rune shield (h2)_32640.0_34288
+Black shield (h3)_979.1999999999999_0
+Adamant shield (h3)_3264.0_0
+Rune shield (h3)_32640.0_0
+Black shield (h4)_979.1999999999999_0
+Mithril dagger(p)_195.0_0
+Adamant shield (h4)_3264.0_0
+Rune shield (h4)_32640.0_0
+Black shield (h5)_979.1999999999999_0
+Adamant shield (h5)_3264.0_0
+Rune shield (h5)_32640.0_32948
+Studded body (g)_510.0_27999
+Adamant dagger(p)_480.0_0
+Studded body (t)_510.0_0
+Studded chaps (g)_450.0_0
+Studded chaps (t)_450.0_0
+Green d'hide body (g)_4680.0_16989
+Green d'hide body (t)_4680.0_5315
+Blue d'hide body (g)_5616.0_0
+Blue d'hide body (t)_5616.0_5765
+Green d'hide chaps (g)_2340.0_165908
+Green d'hide chaps (t)_2340.0_0
+Blue d'hide chaps (g)_2592.0_17499
+Blue d'hide chaps (t)_2592.0_5310
+Blue skirt (g)_1.2_0
+Iron limbs_42.0_0
+Blue skirt (t)_1.2_0
+Blue wizard robe (g)_9.0_0
+Blue wizard robe (t)_9.0_0
+Blue wizard hat (g)_1.2_189000
+Blue wizard hat (t)_1.2_86507
+Enchanted robe_48000.0_72124
+Steel limbs_150.0_0
+Enchanted hat_9000.0_30000
+Adamant platebody (t)_9984.0_0
+Mole claw_360.0_3884
+Mole skin_240.0_4500
+Adamantite limbs_960.0_0
+Wooden spoon_21.0_0
+Iron spear_54.6_150
+Spork_195.0_0
+Spatula_1152.0_0
+Frying pan_996.0_0
+Skewer_1920.0_0
+Rolling pin_8640.0_40078
+Kitchen knife_4800.0_0
+Meat tenderiser_24900.0_0
+Cleaver_15360.0_0
+Cornflour_0.6_0
+Pot of cornflour_6.0_0
+Dragon spear_37440.0_99000
+Rune platelegs (g)_38400.0_70569
+Cooked crab meat_30.0_0
+Mithril plateskirt (g)_1560.0_501
+Spottier cape_480.0_9988
+Raw jubbly_60.0_0
+Cooked jubbly_90.0_0
+Iron crossbow (u)_73.8_0
+Grimy snapdragon_0.6_6212
+Steel crossbow (u)_196.2_0
+Mithril crossbow (u)_450.0_0
+Seers ring_6000.0_215737
+Adamant crossbow (u)_1039.8_0
+Runite crossbow (u)_9700.199999999999_9968
+Silver dust_120.0_4749
+Guthix balance(4)_120.0_0
+Guthix balance(3)_120.0_0
+Grand seed pod_150.0_0
+Guthix balance(2)_120.0_0
+Guthix balance(1)_120.0_0
+Gadderhammer_1800.0_5852
+Mint cake_150.0_0
+Mithril sword_507.0_250
+Spiky vambraces_96.0_0
+Zamorak platebody_39000.0_132942
+Toy soldier_6.0_0
+Toy soldier (wound)_6.0_0
+Toy doll_6.0_0
+Toy doll (wound)_6.0_0
+Toy mouse_6.0_0
+Toy mouse (wound)_6.0_0
+Toy cat_6.0_16658
+Bronze plateskirt (t)_48.0_0
+Black longsword_576.0_344
+Saradomin full helm_21120.0_88888
+Snake hide_21.0_2458
+Zamorak mjolnir_375.0_0
+Fancy hedge_15000.0_0
+Red spiky vambs_2160.0_0
+Bottle of wine_300.0_0
+Pure essence_2.4_9
+Tortoise shell_600.0_0
+Raw monkfish_138.0_504
+Monkfish_138.0_579
+Varrock teleport_0.6_581
+Lumbridge teleport_0.6_596
+Falador teleport_0.6_648
+Camelot teleport_0.6_556
+Ardougne teleport_0.6_845
+Watchtower teleport_0.6_796
+Teleport to house_0.6_601
+Bones to bananas_0.6_0
+Bones to peaches_0.6_900
+Enchant sapphire_0.6_0
+Enchant emerald_0.6_0
+Enchant ruby_0.6_0
+Enchant diamond_0.6_0
+Enchant dragonstn._0.6_0
+Enchant onyx_0.6_225
+Asgarnian ale_1.2_343
+Torstol_45.0_7776
+Team-24 cape_30.0_0
+Bronze axe_9.6_107
+Baby impling jar_30.0_10000
+Mithril platelegs (g)_1560.0_0
+Elysian sigil_450000.0_0
+Mithril kiteshield (g)_1326.0_21349
+Mithril full helm (g)_858.0_19162
+Mystic robe bottom_48000.0_53267
+Iron battleaxe_109.2_0
+Mithril platebody (t)_3120.0_5555

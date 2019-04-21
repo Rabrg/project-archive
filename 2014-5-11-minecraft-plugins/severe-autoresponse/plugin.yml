@@ -1,0 +1,13 @@
+name: AutoResponse
+version: 0.0.1
+description: This plugin automaticly answers stupid questions
+load: STARTUP
+author: Rabrg
+authors: [Ryan Greene]
+website: http://forums.bukkit.org/members/rabrg.90565009/
+main: me.rabrg.autoresponse.Plugin
+database: false
+
+permisions:
+  rabrg.autoresponse.ignore:
+    description: Allows you to ignore the auto response on your messages

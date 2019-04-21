@@ -1,0 +1,8 @@
+sign:
+  enabled: true
+  label.kit.pre: '[Kit]'
+  label.kit.post: '§4[§1Kit§4]'
+  label.kit.creation: 'You succesfuly created a new kit sign.'
+  label.soup.pre: '[Soup]'
+  label.soup.post: '§4[§1Soup§4]'
+  label.soup.creation: 'You succesfuly created a new soup sign.'

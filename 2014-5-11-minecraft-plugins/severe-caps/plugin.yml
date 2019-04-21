@@ -1,0 +1,9 @@
+name: Caps
+version: 0.0.1
+description: This plugin mutes players for 5 minutes who talk in 80% or more caps
+load: STARTUP
+author: Rabrg
+authors: [Ryan Greene]
+website: http://forums.bukkit.org/members/rabrg.90565009/
+main: me.rabrg.caps.Plugin
+database: false

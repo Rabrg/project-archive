@@ -1,0 +1,248 @@
+/*
+ * AntiCheat for Bukkit.
+ * Copyright (C) 2012-2014 AntiCheat Team | http://gravitydevelopment.net
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+
+package net.gravitydevelopment.anticheat;
+
+import java.io.File;
+import java.util.ArrayList;
+import java.util.List;
+
+import net.gravitydevelopment.anticheat.command.CommandHandler;
+import net.gravitydevelopment.anticheat.config.Configuration;
+import net.gravitydevelopment.anticheat.event.BlockListener;
+import net.gravitydevelopment.anticheat.event.EntityListener;
+import net.gravitydevelopment.anticheat.event.InventoryListener;
+import net.gravitydevelopment.anticheat.event.PlayerListener;
+import net.gravitydevelopment.anticheat.event.VehicleListener;
+import net.gravitydevelopment.anticheat.manage.AntiCheatManager;
+import net.gravitydevelopment.anticheat.util.User;
+import net.gravitydevelopment.anticheat.util.Utilities;
+import net.gravitydevelopment.anticheat.xray.XRayListener;
+import net.gravitydevelopment.anticheat.xray.XRayTracker;
+
+import org.bukkit.Bukkit;
+import org.bukkit.ChatColor;
+import org.bukkit.entity.Player;
+import org.bukkit.event.Listener;
+import org.bukkit.plugin.Plugin;
+import org.bukkit.plugin.java.JavaPlugin;
+
+import com.comphenix.protocol.metrics.Updater;
+
+public class AntiCheat extends JavaPlugin {
+
+	private static AntiCheatManager manager;
+	private static AntiCheat plugin;
+	private static List<Listener> eventList = new ArrayList<Listener>();
+	private static boolean update = false;
+	private static String updateDetails = null;
+	private static Configuration config;
+	private static boolean verbose;
+	private static boolean developer;
+	private static final int PROJECT_ID = 38723;
+	private static Long loadTime;
+
+	@Override
+	public void onEnable() {
+		plugin = this;
+		loadTime = System.currentTimeMillis();
+		manager = new AntiCheatManager(this, getLogger());
+		eventList.add(new PlayerListener());
+		eventList.add(new BlockListener());
+		eventList.add(new EntityListener());
+		eventList.add(new VehicleListener());
+		eventList.add(new InventoryListener());
+		// Order is important in some cases, don't screw with these unless needed, especially config
+		setupConfig();
+		// Xray must come before events
+		setupXray();
+		setupEvents();
+		setupCommands();
+		setupUpdater();
+		// setupProtocol(); TODO
+		// Enterprise must come before levels
+		setupEnterprise();
+		restoreLevels();
+		// Check if NoCheatPlus is installed
+		Bukkit.getScheduler().runTaskLater(this, new Runnable() {
+			@Override
+			public void run() {
+				if (Bukkit.getPluginManager().getPlugin("NoCheatPlus") != null) {
+					getLogger().severe("You are also running NoCheatPlus!");
+					getLogger().severe("NoCheatPlus has been known to conflict with AntiCheat's results and create false cheat detections.");
+					getLogger().severe("Please remove or disable NoCheatPlus to silence this warning.");
+				}
+			}
+		}, 40L);
+		// End tests
+		verboseLog("Finished loading.");
+	}
+
+	@Override
+	public void onDisable() {
+		verboseLog("Saving user levels...");
+		config.getLevels().saveLevelsFromUsers(getManager().getUserManager().getUsers());
+
+		AntiCheatManager.close();
+		getServer().getScheduler().cancelTasks(this);
+		cleanup();
+	}
+
+	private void setupXray() {
+		final XRayTracker xtracker = manager.getXRayTracker();
+		final int time = config.getConfig().alertXRayInterval.getValue() * 20;
+		if (config.getConfig().checkXRay.getValue()) {
+			eventList.add(new XRayListener());
+			if (config.getConfig().alertXRay.getValue()) {
+				getServer().getScheduler().runTaskTimerAsynchronously(this, new Runnable() {
+					@Override
+					public void run() {
+						for (final Player player : getServer().getOnlinePlayers()) {
+							final String name = player.getName();
+							if (!xtracker.hasAlerted(name) && xtracker.sufficientData(name) && xtracker.hasAbnormal(name)) {
+								final List<String> alert = new ArrayList<String>();
+								alert.add(ChatColor.YELLOW + "[ALERT] " + ChatColor.WHITE + name + ChatColor.YELLOW + " might be using xray.");
+								alert.add(ChatColor.YELLOW + "[ALERT] Please check their xray stats using " + ChatColor.WHITE + "/anticheat xray " + name + ChatColor.YELLOW + ".");
+								Utilities.alert(alert);
+								xtracker.logAlert(name);
+							}
+						}
+					}
+				}, time, time);
+
+				verboseLog("Scheduled the XRay checker.");
+			}
+		}
+	}
+
+	private void setupEvents() {
+		for (final Listener listener : eventList) {
+			getServer().getPluginManager().registerEvents(listener, this);
+			verboseLog("Registered events for ".concat(listener.toString().split("@")[0].split(".anticheat.")[1]));
+		}
+	}
+
+	private void setupCommands() {
+		getCommand("anticheat").setExecutor(new CommandHandler());
+		verboseLog("Registered commands.");
+	}
+
+	private void setupUpdater() {
+		if (config.getConfig().autoUpdate.getValue()) {
+			final File file = this.getFile();
+			final Plugin plugin = this;
+			getServer().getScheduler().runTaskAsynchronously(this, new Runnable() {
+				@Override
+				public void run() {
+					verboseLog("Checking for a new update...");
+							final Updater updater = new Updater(plugin, PROJECT_ID, file, Updater.UpdateType.DEFAULT, false);
+							update = updater.getResult() == Updater.UpdateResult.SUCCESS;
+							verboseLog("Update available: " + update);
+							if (update) {
+								updateDetails = updater.getLatestName() + " for " + updater.getLatestGameVersion();
+							}
+				}
+			});
+		}
+	}
+
+	private void setupConfig() {
+		config = manager.getConfiguration();
+		verboseLog("Setup the config.");
+	}
+
+	private void setupEnterprise() {
+		if (config.getConfig().enterprise.getValue()) {
+			if (config.getEnterprise().loggingEnabled.getValue()) {
+				config.getEnterprise().database.cleanEvents();
+			}
+		}
+	}
+
+	private void restoreLevels() {
+		for (final Player player : getServer().getOnlinePlayers()) {
+			final String name = player.getName();
+
+			final User user = new User(name);
+			user.setIsWaitingOnLevelSync(true);
+			config.getLevels().loadLevelToUser(user);
+
+			manager.getUserManager().addUser(user);
+			verboseLog("Data for " + name + " loaded");
+		}
+	}
+
+	public static AntiCheat getPlugin() {
+		return plugin;
+	}
+
+	public static AntiCheatManager getManager() {
+		return manager;
+	}
+
+	public static boolean isUpdated() {
+		return !update;
+	}
+
+	public static String getUpdateDetails() {
+		return updateDetails;
+	}
+
+	public static String getVersion() {
+		return manager.getPlugin().getDescription().getVersion();
+	}
+
+	private void cleanup() {
+		eventList = null;
+		manager = null;
+		config = null;
+	}
+
+	public static boolean developerMode() {
+		return developer;
+	}
+
+	public static void setDeveloperMode(final boolean b) {
+		developer = b;
+	}
+
+	public static void debugLog(final String string) {
+		Bukkit.getScheduler().runTask(getPlugin(), new Runnable() {
+			@Override
+			public void run() {
+				if (developer) {
+					manager.debugLog("[DEBUG] " + string);
+				}
+			}
+		});
+	}
+
+	public void verboseLog(final String string) {
+		if (verbose) {
+			getLogger().info(string);
+		}
+	}
+
+	public void setVerbose(final boolean b) {
+		verbose = b;
+	}
+
+	public Long getLoadTime() {
+		return loadTime;
+	}
+}

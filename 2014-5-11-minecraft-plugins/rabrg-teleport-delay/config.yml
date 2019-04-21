@@ -1,0 +1,2 @@
+# The delay in seconds between a player executing a teleportation command and the command teleporting them
+teleport-delay: 10

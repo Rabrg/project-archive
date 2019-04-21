@@ -1,0 +1,7 @@
+# The name added behind the health number 
+# (so "Health" will result in "20 Health" below the names)
+display_name: Health
+# Should the plugin check for updates?
+check_updates: true
+# With what interval should the plugin check for updates (in minutes)
+check_updates_interval: 180 

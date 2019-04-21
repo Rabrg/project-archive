@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: 1.6.0_10 (Sun Microsystems Inc.)
+Built-By: java_re
+Build-Jdk: 1.6.0_10
+Extension-Name: javax.mail
+Main-Class: MCASFrame
+Implementation-Title: javax.mail
+Implementation-Vendor: Sun Microsystems, Inc.
+Implementation-Vendor-Id: com.sun
+Implementation-Version: 1.4.3
+Probe-Provider-XML-File-Names: META-INF/gfprobe-provider.xml
+Specification-Title: JavaMail(TM) API Design Specification
+Specification-Vendor: Sun Microsystems, Inc.
+Specification-Version: 1.4
+Export-Package: javax.mail.internet;uses:="com.sun.mail.util,javax.mai
+ l,javax.activation,javax.mail.util";version="1.4",javax.mail.util;use
+ s:="javax.activation,javax.mail.internet";version="1.4",javax.mail.se
+ arch;uses:="javax.mail.internet,javax.mail";version="1.4",javax.mail;
+ uses:="javax.mail.event,javax.mail.search,javax.activation,com.sun.ma
+ il.util";version="1.4",javax.mail.event;uses:="javax.mail";version="1
+ .4",com.sun.mail.imap;uses:="javax.mail,javax.activation,javax.mail.i
+ nternet,javax.mail.search,javax.mail.event,com.sun.mail.util";version
+ ="1.4.3",com.sun.mail.pop3;uses:="javax.mail,com.sun.mail.util,javax.
+ mail.internet,javax.mail.util";version="1.4.3",com.sun.mail.smtp;uses
+ :="com.sun.mail.util,javax.mail.internet,javax.mail";version="1.4.3",
+ com.sun.mail.util;uses:="javax.mail,javax.net.ssl,sun.security.util,j
+ avax.net,javax.security.auth.x500";version="1.4.3",com.sun.mail.util.
+ logging;uses:="javax.activation,javax.mail.internet,javax.mail.util,j
+ avax.mail";version="1.4.3",com.sun.mail.handlers;uses:="javax.activat
+ ion,javax.mail.internet,javax.mail";version="1.4.3"
+Tool: Bnd-0.0.357
+Bundle-Name: JavaMail API
+Bundle-Vendor: Sun Microsystems, Inc.
+Bundle-Version: 1.4.3
+Bnd-LastModified: 1258488827923
+Bundle-ManifestVersion: 2
+Bundle-Description: JavaMail API
+Bundle-License: http://www.sun.com/cddl, https://glassfish.dev.java.ne
+ t/public/CDDL+GPL.html
+Import-Package: com.sun.mail.handlers;version="1.4",com.sun.mail.imap;
+ version="1.4",com.sun.mail.pop3;version="1.4",com.sun.mail.smtp;versi
+ on="1.4",com.sun.mail.util;version="1.4",com.sun.mail.util.logging;ve
+ rsion="1.4",javax.activation,javax.mail;version="1.4",javax.mail.even
+ t;version="1.4",javax.mail.internet;version="1.4",javax.mail.search;v
+ ersion="1.4",javax.mail.util;version="1.4",javax.net,javax.net.ssl,ja
+ vax.security.auth.callback,javax.security.auth.x500,javax.security.sa
+ sl;resolution:=optional,jcifs.ntlmssp;resolution:=optional,sun.securi
+ ty.util;resolution:=optional
+Bundle-SymbolicName: javax.mail
+Bundle-DocURL: http://www.sun.com
+

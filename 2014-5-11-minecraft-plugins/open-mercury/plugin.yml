@@ -1,0 +1,16 @@
+name: Mercury
+version: 0.0.1
+description: This plugin allows players to send email messages in-game
+load: STARTUP
+author: Rabrg
+authors: [Ryan Greene]
+website: http://forums.bukkit.org/members/rabrg.90565009/
+main: me.rabrg.mercury.Plugin
+database: false
+
+commands:
+  email:
+    description: Send an email message
+    aliases: [em, mail]
+    permission: rabrg.mercury.email
+    usage: Syntax error! Simply type /email <address> <message>

@@ -1,0 +1,13 @@
+name: Agni
+version: 0.0.1
+description: This plugin allows players to directly ignite entities with flint and steel
+load: STARTUP
+author: Rabrg
+authors: [Ryan Greene]
+website: http://forums.bukkit.org/members/rabrg.90565009/
+main: me.rabrg.agni.Plugin
+database: false
+
+permisions:
+  rabrg.agni.ignite:
+    description: Allows you to directly ignite entities with flint and steel

@@ -1,0 +1,13 @@
+name: Forcefield
+version: 0.0.1
+description: This plugin allows players to check other players for forcefielding activities
+load: STARTUP
+author: Rabrg
+authors: [Ryan Greene]
+website: http://forums.bukkit.org/members/rabrg.90565009/
+main: me.rabrg.forcefield.Plugin
+database: false
+commands:
+  forcefield:
+    description: forcefield
+    aliases: ff

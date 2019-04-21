@@ -1,0 +1,18 @@
+name: Nickname
+version: 0.0.1
+description: This plugin allows players to get a nickname
+load: STARTUP
+author: Rabrg
+authors: [Ryan Greene]
+website: http://forums.bukkit.org/members/rabrg.90565009/
+main: me.rabrg.nickname.Plugin
+database: false
+
+commands:
+  displayname:
+    description: set your displayname
+    usage: Syntax error! Simply type /displayname <displayname> to choose your displayname.
+
+permisions:
+  rabrg.nickname:
+    description: Allows you to use a displayname

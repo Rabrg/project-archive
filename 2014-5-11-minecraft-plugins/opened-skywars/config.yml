@@ -1,0 +1,75 @@
+lobby:
+  # The world of the lobby spawn
+  world: world
+  # The spawn coordinates (X Y Z and additionally yaw and pitch)
+  spawn: 0 64 0
+score:
+  # Score per kill
+  per-kill: 3
+  # Score per win
+  per-win: 10
+  # Score on death
+  on-death: -1
+  # Score on leave
+  on-leave: -1
+  # Score modifier for groups
+  groups:
+    example:
+      per-kill: 3
+      per-win: 10
+      on-death: -1
+      on-leave: -1
+# Optional schematic specific configuration
+schematics:
+  schematic-name:
+    # The minimum amount of players for the timer to start
+    min-players: 2
+    # The count down timer before the game starts
+    timer: 11
+# Unused at the moment
+statistics:
+  # Statistics update interval
+  update-interval: 600
+  # Top X to be shown on the signs
+  top: 30
+# Whether to use SQL or flat file for storage (FILE or SQL)
+data-storage: FILE
+# Requires data-storage to be set to SQL
+database:
+  hostname: localhost
+  port: 3306
+  username: username
+  password: password
+  database: database
+# The amount of islands per row
+islands-per-row: 100
+# The distance between each island
+island-size: 250
+# Whether to build the schematic instead of pasting it straight in
+# This happens to freeze clients due to the chunk updates
+island-building:
+  enabled: false
+  # The interval in ticks (1 tick = aprox. 50ms)
+  interval: 1
+  # The amount of blocks per tick
+  blocks-per-tick: 20
+# Whether to have the plugin put in the glass cages, disable this if you
+# use your own cages in the schematics. This has to be enabled when using
+# the island-building feature.
+build-cages: true
+# Whether to ignore AIR in the schematics (could leave some gaps in some schematics when enabled,
+# does improve pasting speed though).
+ignore-air: false
+# Whether to use fill chests with the contents of chest.yml. Disable this if you want to use
+# schematics it preset chest contents.
+fill-chests: true
+# Whether to use the economy of the server to figure as score
+use-economy: false
+# Whether the chat formatting should be handled by a different plugin (e.g. EssentialsChat)
+chat-handled-by-other-plugin: false
+# Whether to clear inventory upon game join
+clear-inventory-on-join: true
+# Whether to save the inventory game join and to restore it on game leave
+save-inventory: false
+# Commands which should be allowed to be used in a Skywars game
+whitelisted-commands: [g, global]

@@ -1,0 +1,9 @@
+name: Dupe
+version: 0.0.1
+description: This plugin prevents the 1.7.4 dupe
+load: STARTUP
+author: Rabrg
+authors: [Ryan Greene]
+website: http://forums.bukkit.org/members/rabrg.90565009/
+main: me.rabrg.dupe.Plugin
+database: false

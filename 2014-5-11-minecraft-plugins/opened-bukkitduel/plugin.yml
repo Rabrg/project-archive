@@ -1,0 +1,14 @@
+name: BukkitDuel
+version: 1.0
+description: Alpha release of "you have offended my honor" style dueling plugin.
+author: PFacheris
+
+main: com.github.pfacheris.BukkitDuel.BukkitDuel
+database: false
+depend: [WorldEdit, Vault]
+softdepend: [Factions]
+
+commands:
+  duel:
+    description: Reference command for BukkitDuel
+    aliases: [bd]

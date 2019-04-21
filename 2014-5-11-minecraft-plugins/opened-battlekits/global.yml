@@ -1,0 +1,36 @@
+#Global BattleKits settings
+#Ignored if world-specific config exists
+brand: "BattleKits"
+server:
+  enabled: false
+  port: 8080
+  server-name: "BattleKits"
+  server-description: "A BattleKits server"
+settings:
+  once-per-life: true
+  auto-update: false #Ignored by world-specific config
+  enable-restrictions: false #Ignored by world-specific config
+  show-kit-info-on-respawn: true
+  override-disable-respawn-kits: false
+  instant-soup-drink: false
+  clear-default: false
+instant-soup-drink:
+  replenish-type: hunger #Could be health
+signs:
+  enabled: true
+  ignore-permissions: false
+  ignore-costs: false
+  ignore-world-restriction: false
+  ignore-lives-restriction: false
+  soupFillCost: 2.0
+indirect:
+  ignore-costs: false
+  ignore-permissions: true
+  ignore-world-restriction: false
+  ignore-lives-restriction: false
+killStreaks:
+  enabled: true
+  actionDefault: '!&c<player> has an amazing kill streak of &e<kills>&c!'
+rewards:
+  killCommands:
+  - 'xp 1L <player>'

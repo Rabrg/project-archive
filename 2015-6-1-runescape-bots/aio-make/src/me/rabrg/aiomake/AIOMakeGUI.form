@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="me.rabrg.aiomake.AIOMakeGUI">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="GridLayoutManager" row-count="13" column-count="4" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="511" height="558"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="d0e2d" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Fletching:"/>
+        </properties>
+      </component>
+      <hspacer id="4df47">
+        <constraints>
+          <grid row="0" column="2" row-span="1" col-span="2" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <component id="a8f50" class="javax.swing.JRadioButton" binding="stringBowsRadioButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="String bows"/>
+        </properties>
+      </component>
+      <component id="3d180" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="4" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Herblore:"/>
+        </properties>
+      </component>
+      <component id="85a40" class="javax.swing.JRadioButton" binding="cleanHerbsRadioButton" default-binding="true">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Clean herbs"/>
+        </properties>
+      </component>
+      <component id="72e39" class="javax.swing.JRadioButton" binding="unfinishedPotionsRadioButton" default-binding="true">
+        <constraints>
+          <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Unfinished potions"/>
+        </properties>
+      </component>
+      <component id="8e18b" class="javax.swing.JComboBox" binding="herbComboBox">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="3" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="Guam"/>
+            <item value="Marrentil"/>
+            <item value="Tarromin"/>
+            <item value="Harralander"/>
+            <item value="Ranarr weed"/>
+            <item value="Toadflax"/>
+            <item value="Irit leaf"/>
+            <item value="Avantoe"/>
+            <item value="Kwuarm"/>
+            <item value="Snapdragon"/>
+            <item value="Cadantine"/>
+            <item value="Lantadyme"/>
+            <item value="Dwarf weed"/>
+            <item value="Torstol"/>
+          </model>
+        </properties>
+      </component>
+      <component id="2014a" class="javax.swing.JRadioButton" binding="processRadioButton" default-binding="true">
+        <constraints>
+          <grid row="4" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Process"/>
+        </properties>
+      </component>
+      <component id="556ec" class="javax.swing.JComboBox" binding="processComboBox">
+        <constraints>
+          <grid row="5" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="Chocolate dust"/>
+            <item value="Unicorn horn dust"/>
+          </model>
+        </properties>
+      </component>
+      <component id="3c327" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Cooking:"/>
+        </properties>
+      </component>
+      <component id="a090" class="javax.swing.JRadioButton" binding="pizzasRadioButton" default-binding="true">
+        <constraints>
+          <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Pizzas"/>
+        </properties>
+      </component>
+      <component id="3b2bd" class="javax.swing.JRadioButton" binding="potatosRadioButton" default-binding="true">
+        <constraints>
+          <grid row="7" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Potatos"/>
+        </properties>
+      </component>
+      <component id="1e577" class="javax.swing.JComboBox" binding="potatosComboBox">
+        <constraints>
+          <grid row="8" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="Potato with cheese"/>
+            <item value="Chilli potato"/>
+            <item value="Egg potato"/>
+            <item value="Mushroom and onion potato"/>
+            <item value="Tuna potato"/>
+          </model>
+        </properties>
+      </component>
+      <component id="c1ecf" class="javax.swing.JComboBox" binding="pizzasComboBox">
+        <constraints>
+          <grid row="8" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="Meat pizza"/>
+            <item value="Anchovy pizza"/>
+            <item value="Pineapple pizza"/>
+          </model>
+        </properties>
+      </component>
+      <component id="19b96" class="javax.swing.JRadioButton" binding="cutLogsRadioButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Cut logs"/>
+        </properties>
+      </component>
+      <component id="b2569" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="9" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Buy amount:"/>
+        </properties>
+      </component>
+      <component id="8fa3" class="javax.swing.JTextField" binding="amountTextField">
+        <constraints>
+          <grid row="10" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="1b71" class="javax.swing.JRadioButton" binding="piesRadioButton" default-binding="true">
+        <constraints>
+          <grid row="7" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Pies"/>
+        </properties>
+      </component>
+      <component id="81ffd" class="javax.swing.JComboBox" binding="comboBox1" default-binding="true">
+        <constraints>
+          <grid row="8" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="Redberry pie"/>
+          </model>
+        </properties>
+      </component>
+      <component id="57e79" class="javax.swing.JComboBox" binding="logsComboBox">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="4" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="Longbow"/>
+            <item value="Oak longbow"/>
+            <item value="Willow longbow"/>
+            <item value="Maple longbow"/>
+            <item value="Yew longbow"/>
+            <item value="Magic longbow"/>
+          </model>
+        </properties>
+      </component>
+      <component id="d34aa" class="javax.swing.JTextField" binding="baseTimeTextField">
+        <constraints>
+          <grid row="12" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="5d7eb" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="11" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Base time between mule (hours):"/>
+        </properties>
+      </component>
+      <component id="3b55a" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="11" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Mule:"/>
+        </properties>
+      </component>
+      <component id="765c0" class="javax.swing.JRadioButton" binding="muleRadioButton" default-binding="true">
+        <constraints>
+          <grid row="12" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Mule"/>
+        </properties>
+      </component>
+      <component id="24d85" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="11" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Random time between mule:"/>
+        </properties>
+      </component>
+      <component id="bb5d4" class="javax.swing.JButton" binding="startButton" default-binding="true">
+        <constraints>
+          <grid row="10" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Start"/>
+        </properties>
+      </component>
+      <component id="4862c" class="javax.swing.JTextField" binding="randomTimeTextField">
+        <constraints>
+          <grid row="12" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="b0f8e" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="9" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Amount of GP to keep:"/>
+        </properties>
+      </component>
+      <component id="6a344" class="javax.swing.JTextField" binding="gpKeepTextField">
+        <constraints>
+          <grid row="10" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value=""/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+  <buttonGroups>
+    <group name="buttonGroup">
+      <member id="a8f50"/>
+      <member id="19b96"/>
+      <member id="19b96"/>
+      <member id="2c5bf"/>
+      <member id="a8f50"/>
+      <member id="85a40"/>
+      <member id="403da"/>
+      <member id="fdf61"/>
+      <member id="72e39"/>
+      <member id="1621d"/>
+      <member id="bf102"/>
+      <member id="4309"/>
+      <member id="a090"/>
+      <member id="2014a"/>
+      <member id="3b2bd"/>
+      <member id="765c0"/>
+      <member id="1600c"/>
+    </group>
+  </buttonGroups>
+</form>

@@ -1,0 +1,169 @@
+author: Gravity
+description: AntiCheat helps easily identify and block malicious users on your server.
+main: net.gravitydevelopment.anticheat.AntiCheat
+name: AntiCheat
+softdepend: [ProtocolLib]
+startup: postworld
+url: http://gravitydevelopment.net
+version: ${project.build.version}
+commands:
+  anticheat:
+    description: Control and view info about AntiCheat
+    usage: /anticheat help
+    aliases: anti
+permissions:
+  anticheat.system.notice:
+    description: See broadcasts when a player is kicked or banned for hacking
+  anticheat.system.alert:
+    description: See alerts when a player might be cheating
+  anticheat.system.help:
+    description: Access the help message
+  anticheat.system.report:
+    description: Access cheat reports
+  anticheat.system.spy:
+    description: Access the spy system
+  anticheat.system.xray:
+    description: Access info about xray usage
+  anticheat.mod:
+    description: Mod helper perm
+    children:
+      anticheat.system.notice: true
+      anticheat.system.alert: true
+      anticheat.system.help: true
+      anticheat.system.report: true
+      anticheat.system.spy: true
+      anticheat.system.xray: true
+  anticheat.system.log:
+    description: Access turning console logging on or off
+  anticheat.system.reload:
+    description: Access reloading the system
+  anticheat.system.reset:
+    description: Access resetting a player's cheat level
+  anticheat.system.update:
+    description: Access information about whether the system is updated
+  anticheat.system.calibrate:
+    description: Access the calibration system
+  anticheat.system.debug:
+    description: Access debug reports
+  anticheat.admin:
+    description: Admin helper perm
+    children:
+      anticheat.mod: true
+      anticheat.system.log: true
+      anticheat.system.reload: true
+      anticheat.system.reset: true
+      anticheat.system.update: true
+      anticheat.system.calibrate: true
+      anticheat.system.debug: true
+  anticheat.check.zombe.fly:
+    description: Allow players to use zombe flymod
+    default: false
+  anticheat.check.zombe.noclip:
+    description: Allow players to use zombe noclip hack
+    default: false
+  anticheat.check.zombe.cheat:
+    description: Allow players to use zombe cheat hack
+    default: false
+  anticheat.check.fly:
+    description: Allow players to fly
+    default: false
+  anticheat.check.waterwalk:
+    description: Allow players to walk on water
+    default: false
+  anticheat.check.noswing:
+    description: Allow players to not ever swing their arm
+    default: false
+  anticheat.check.fastbreak:
+    description: Allow players to quickly break blocks
+    default: false
+  anticheat.check.fastplace:
+    description: Allow players to use build hacks and fastplace
+    default: false
+  anticheat.check.spam:
+    description: Allow players to spam the server
+    default: false
+  anticheat.check.sprint:
+    description: Allow players to sprint when hungry
+    default: false
+  anticheat.check.sneak:
+    description: Allow players to use auto-sneak
+    default: false
+  anticheat.check.speed:
+    description: Allow players to speed
+    default: false
+  anticheat.check.spider:
+    description: Allow players to climb non-climbable surfaces
+    default: false
+  anticheat.check.nofall:
+    description: Allow players to avoid fall damage
+    default: false
+  anticheat.check.fastbow:
+    description: Allow players to quickly fire bows
+    default: false
+  anticheat.check.fasteat:
+    description: Allow players to eat food instantly
+    default: false
+  anticheat.check.fastheal:
+    description: Allow players to heal up instantly
+    default: false
+  anticheat.check.forcefield:
+    description: Allow players to use a forcefield
+    default: false
+  anticheat.check.xray:
+    description: Allow players to bypass xray stats
+    default: false
+  anticheat.check.longreach:
+    description: Allow players to use longreaching hacks
+    default: false
+  anticheat.check.projectile:
+    description: Allow players to quickly launch projectiles
+    default: false
+  anticheat.check.itemspam:
+    description: Allow players to use inventory drop spam hacks
+    default: false
+  anticheat.check.visual:
+    description: Allow players to interact with objects out of their view
+    default: false
+  anticheat.check.vclip:
+    description: Allow players to become slimeballs and clip down through blocks
+    default: false
+  anticheat.check.fastinventory:
+    description: Allow players to use fastloot and similar inventory hacks
+    default: false
+  anticheat.check.autotool:
+    description: Allow players to use autotool to switch tools quickly
+    default: false
+  anticheat.check.fastanimation:
+    description: Allow players to attack or interact very quickly
+    default: false
+  anticheat.check.exempt:
+    description: Total exemption from checks
+    default: false
+    children:
+      anticheat.check.zombe.fly: true
+      anticheat.check.zombe.noclip: true
+      anticheat.check.zombe.cheat: true
+      anticheat.check.fly: true
+      anticheat.check.waterwalk: true
+      anticheat.check.noswing: true
+      anticheat.check.fastbreak: true
+      anticheat.check.fastplace: true
+      anticheat.check.spam: true
+      anticheat.check.sprint: true
+      anticheat.check.sneak: true
+      anticheat.check.speed: true
+      anticheat.check.spider: true
+      anticheat.check.nofall: true
+      anticheat.check.fastbow: true
+      anticheat.check.fasteat: true
+      anticheat.check.fastheal: true
+      anticheat.check.forcefield: true
+      anticheat.check.xray: true
+      anticheat.check.longreach: true
+      anticheat.check.projectile: true
+      anticheat.check.itemspam: true
+      anticheat.check.visual: true
+      anticheat.check.vclip: true
+      anticheat.check.fastinventory: true
+      anticheat.check.autotool: true
+      anticheat.check.fastanimation: true

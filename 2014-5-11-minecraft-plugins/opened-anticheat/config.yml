@@ -1,0 +1,50 @@
+# AntiCheat configuration file
+# Please report any bugs: https://github.com/gravitylow/AntiCheat/issues
+xray:
+  # Should AntiCheat use calculations to try and find xrayers?
+  check-xray: true
+  # Should a warning be sent to admins when a person is found that could be xraying?
+  alert: false
+  # How often (in seconds) should AntiCheat check for xrayers if alert is true?
+  alert-interval: 60
+  # Should players in creative mode be tracked for possible xray usage?
+  check-creative: true
+spam:
+  chat:
+    # Should AntiCheat block players spamming messages in chat?
+    block-speed: true
+    block-repetition: true
+    # Valid actions = NONE,KICK,BAN,COMMAND[command]
+    action-one: KICK
+    action-two: BAN
+  # Should AntiCheat block players spamming commands in chat?
+  command:
+    block-speed: true
+    block-repetition: true
+    # Valid actions = NONE,KICK,BAN,COMMAND[command]
+    action-one: KICK
+    action-two: BAN
+system:
+  # Turning auto-update off is a _BAD_ idea. You will no longer be protected by the latest hacks/cheats if you do so, and will have to update manually.
+  auto-update: true
+  # Should AntiCheat log ALL failed checks to console?
+  log-to-console: false
+  # Should AntiCheat log to file?
+  log-to-file: true
+  # Should AntiCheat display extra debug information when starting?
+  verbose-startup: false
+  # If silent mode is on, players will not be stopped when they try to hack, and AntiCheat will do everything possible to keep them unaware of their rising hack level.
+  # However, alerts will still be sent to console and to admins online, and events will still take place.
+  silent-mode: false
+  # Should ops be exempt from all checks?
+  exempt-op: false
+  # Should AntiCheat track plugins in its own registered events?
+  event-chains: true
+  # Should Enterprise options be enabled? Only set this to true if you're an advanced user.
+  enterprise: false
+# Use /anticheat check for a list of valid checks
+disabled-checks:
+- EXAMPLE_CHECK
+disable-in:
+- example-world
+- example-world-2

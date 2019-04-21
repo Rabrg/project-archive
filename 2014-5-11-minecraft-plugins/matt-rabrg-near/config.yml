@@ -1,0 +1,27 @@
+near.support:
+  range: 400
+  cooldown: 14400000
+near.vip:
+  range: 410
+  cooldown: 13400000
+near.hero:
+  range: 420
+  cooldown: 12400000
+near.elite:
+  range: 430
+  cooldown: 11400000
+near.platinum:
+  range: 440
+  cooldown: 10400000
+near.legendary:
+  range: 450
+  cooldown: 9400000
+near.titan:
+  range: 465
+  cooldown: 8400000
+near.god:
+  range: 480
+  cooldown: 7400000
+near.mythical:
+  range: 500
+  cooldown: 6400000

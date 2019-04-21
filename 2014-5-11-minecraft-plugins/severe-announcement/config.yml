@@ -1,0 +1,18 @@
+announcement:
+  enabled: true
+  random: true
+  prefix: '&f[&bSevere &3PVP&f] '
+  interval: 45
+  messages:
+  - '&cVisit the website for important information updates! www.severepvp.net '
+  - '&bVote for the server every day! /vote or www.severepvp.net '
+  - '&aDonate now @ www.severepvp.net '
+  - '&2New to the server? Use your kits! &c/kits '
+  - '&cDonator? Access your vault with &b/chest 1&c or &b/chest 2 '
+  - '&2Try &a/list &2for online staff! '
+  - '&6Join the lotto! /lotto buy {#} '
+  - '&cDonate @ http://severepvp.buycraft.net '
+  - '&9Got teamspeak? Join our server @ ts.severepvp.net '
+  - '&a30% off your entire purchase until December 31st! '
+  motdEnabled: false
+  motd: ''

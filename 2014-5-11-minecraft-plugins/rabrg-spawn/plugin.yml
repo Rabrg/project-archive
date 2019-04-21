@@ -1,0 +1,25 @@
+name: RabrgSpawn
+version: 0.0.1
+description: This plugin allows for a customizable spawn point and a delayed teleport command to return to spawn
+author: Rabrg
+website: http://bukkit.org/members/rabrg.90565009/
+main: me.rabrg.spawn.RabrgSpawnPlugin
+
+commands:
+  setspawn:
+    description: Set the server's spawn location.
+    aliases: [setspawnpos, setspawnloc, setspawnposition, setspawnlocation]
+    permission: rabrg.spawn.setspawn
+    usage: Syntax error! Simply type /setspawn <world> <x> <y> <z> <yaw> <pitch> to set the server's spawn location.
+  spawn:
+    description: Teleports to the server's spawn location.
+    aliases: [telespawn, teleporttospawn, teleportspawn, gotospawn, gospawn]
+    permission: rabrg.spawn.spawn
+    usage: Syntax error! Simply type /spawn to teleport to the server's spawn location.
+
+permissions:
+  rabrg.spawn.setspawn-:
+    description: Allows you to set the server's spawn location.
+  rabrg.spawn.spawn:
+    description: Allows you to set teleport to the server's spawn location.
+    default: true

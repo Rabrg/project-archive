@@ -1,0 +1,14 @@
+name: Unknown
+version: 1.0.0
+description: description
+author: Rabrg
+main: me.rabrg.unknown.Unknown
+
+commands: 
+  listkits:
+    description: List all available kits.
+    usage:  /<command>
+    aliases: [kits]
+  kit:
+    description: Choose a kit to use.
+    usage: /<command> <name>

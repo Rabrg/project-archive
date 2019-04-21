@@ -1,0 +1,15 @@
+name: Unname
+version: 0.0.1
+description: This plugin allows players to unname items
+load: STARTUP
+author: Rabrg
+authors: [Ryan Greene]
+website: http://forums.bukkit.org/members/rabrg.90565009/
+main: me.rabrg.unname.Plugin
+database: false
+
+commands:
+  unname:
+    aliases: [removename]
+    description: Removes the name of the item in your hand.
+    usage: /<command>

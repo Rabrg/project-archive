@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="me.rabrg.bankstander.BankStanderForm">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="GridLayoutManager" row-count="2" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <tabbedpane id="6f270" binding="tabbedPane1" default-binding="true">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false">
+            <preferred-size width="200" height="200"/>
+          </grid>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <grid id="dabd8" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints>
+              <tabbedpane title="General"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children/>
+          </grid>
+          <grid id="af3f6" layout-manager="GridLayoutManager" row-count="2" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints>
+              <tabbedpane title="Herblore"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <vspacer id="5686a">
+                <constraints>
+                  <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <component id="eb2c4" class="javax.swing.JRadioButton" binding="cleanRadioButton" default-binding="true">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Clean"/>
+                </properties>
+              </component>
+              <component id="f640d" class="javax.swing.JComboBox" binding="comboBox1" default-binding="true">
+                <constraints>
+                  <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <model>
+                    <item value="Avantoe"/>
+                    <item value="Cadantine"/>
+                    <item value="Dwarf weed"/>
+                    <item value="Guam"/>
+                    <item value="Harralander"/>
+                    <item value="Irit"/>
+                    <item value="Kwuarm"/>
+                    <item value="Lantadyme"/>
+                    <item value="Marrentill"/>
+                    <item value="Ranarr"/>
+                    <item value="Snapdragon"/>
+                    <item value="Tarromin"/>
+                    <item value="Toadflax"/>
+                    <item value="Torstol"/>
+                  </model>
+                </properties>
+              </component>
+              <component id="c6e09" class="javax.swing.JRadioButton" binding="unfPotRadioButton" default-binding="true">
+                <constraints>
+                  <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Unf pot"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="40d7c" layout-manager="GridLayoutManager" row-count="3" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints>
+              <tabbedpane title="Fletching"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="97ea9" class="javax.swing.JRadioButton" binding="boltsRadioButton" default-binding="true">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Bolts"/>
+                </properties>
+              </component>
+              <vspacer id="82e53">
+                <constraints>
+                  <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <component id="791e7" class="javax.swing.JRadioButton" binding="boltTipsRadioButton" default-binding="true">
+                <constraints>
+                  <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Bolt tips"/>
+                </properties>
+              </component>
+              <component id="421b2" class="javax.swing.JComboBox" binding="comboBox2" default-binding="true">
+                <constraints>
+                  <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <model>
+                    <item value="Opal"/>
+                    <item value="Jade"/>
+                    <item value="Pearl"/>
+                    <item value="Red topaz"/>
+                    <item value="Sapphire"/>
+                    <item value="Emerald"/>
+                    <item value="Ruby"/>
+                    <item value="Diamond"/>
+                    <item value="Dragon"/>
+                    <item value="Onyx"/>
+                  </model>
+                </properties>
+              </component>
+              <component id="e5239" class="javax.swing.JRadioButton" binding="cutRadioButton" default-binding="true">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Cut"/>
+                </properties>
+              </component>
+              <component id="f19c2" class="javax.swing.JRadioButton" binding="stringRadioButton" default-binding="true">
+                <constraints>
+                  <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="String"/>
+                </properties>
+              </component>
+              <component id="66b9d" class="javax.swing.JComboBox" binding="comboBox3" default-binding="true">
+                <constraints>
+                  <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <model>
+                    <item value="Shortbow"/>
+                    <item value="Longbow"/>
+                    <item value="Oak shortbow"/>
+                    <item value="Oak longbow"/>
+                    <item value="Willow shortbow"/>
+                    <item value="Willow longbow"/>
+                    <item value="Maple shortbow"/>
+                    <item value="Maple longbow"/>
+                    <item value="Yew shortbow"/>
+                    <item value="Yew longbow"/>
+                    <item value="Magic shortbow"/>
+                    <item value="Magic longbow"/>
+                  </model>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="b829c" layout-manager="GridLayoutManager" row-count="2" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints>
+              <tabbedpane title="Processing"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="1935f" class="javax.swing.JRadioButton" binding="chocolateDustRadioButton" default-binding="true">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Chocolate dust"/>
+                </properties>
+              </component>
+              <vspacer id="7b266">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="2" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+                </constraints>
+              </vspacer>
+              <component id="9253" class="javax.swing.JRadioButton" binding="unicornHornDustRadioButton" default-binding="true">
+                <constraints>
+                  <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <text value="Unicorn horn dust"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+        </children>
+      </tabbedpane>
+      <component id="6109f" class="javax.swing.JButton" binding="startButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Start"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

@@ -1,0 +1,14 @@
+name: Rewards
+version: 0.0.1
+description: This plugin displays the available voting rewards
+load: STARTUP
+author: Rabrg
+authors: [Ryan Greene]
+website: http://forums.bukkit.org/members/rabrg.90565009/
+main: me.rabrg.rewards.Rewards
+database: false
+
+commands:
+  rewards:
+    description: Displays the available voting rewards
+    aliases: [voterewards, vrewards]

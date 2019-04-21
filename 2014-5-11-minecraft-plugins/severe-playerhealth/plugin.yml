@@ -1,0 +1,30 @@
+name: PlayerHealth
+main: denniss17.playerHealth.PlayerHealth
+version: 1.1.0
+author: Denniss17
+website: 'http://dev.bukkit.org/server-mods/playerhealth/'
+softdepend: [TagAPI]
+description: Show the health of players below their name
+commands:
+   playerhealth:
+      description: Show information about this plugin
+      usage: /<command>
+      aliases: [ph]
+      permission: playerhealth.playerhealth
+permissions:
+   playerhealth.show:
+      description: Shows the health of other players to you
+      default: op
+   playerhealth.playerhealth:
+      description: Gives access to /playerhealth
+      default: true
+   playerhealth.reload:
+      description: Gives access to /playerhealth reload
+      default: op
+   playerhealth.*:
+      description: All permissions for this plugin
+      default: op
+      children:
+         playerhealth.show: true
+         playerhealth.playerhealth: true
+         playerhealth.reload: true

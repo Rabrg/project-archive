@@ -1,0 +1,6 @@
+name: RabrgProtection
+version: 0.0.1
+description: This plugin handles the protection of players.
+author: Rabrg
+website: http://bukkit.org/members/rabrg.90565009/
+main: me.rabrg.protection.RabrgProtectionPlugin

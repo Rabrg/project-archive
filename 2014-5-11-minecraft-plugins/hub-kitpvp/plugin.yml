@@ -1,0 +1,38 @@
+name: KitPvP
+version: 0.0.2
+description: This plugin implements the KitPvP gamemode
+load: STARTUP
+author: Rabrg
+authors: [Ryan Greene]
+website: http://forums.bukkit.org/members/rabrg.90565009/
+main: me.rabrg.kitpvp.KitPvP
+database: false
+
+commands:
+  kills:
+    description: Get the kill count of a player
+    permission: rabrg.kitpvp.commands.kills
+    usage: Syntax error! Simply type /kills <player> to get that player's kill count.
+  setkills:
+    description: Sets the kill count of a player
+    permission: rabrg.kitpvp.commands.setkills
+    usage: Syntax error! Simply type /setkills <player> <kills> to set that player's kill count.
+  killstreak:
+    description: Get the killstreak of a player
+    permission: rabrg.kitpvp.commands.killstreak
+    usage: Syntax error! Simply type /killstreak <player> to get that player's killstreak.
+  setkillstreak:
+    description: Sets the killstreak of a player
+    permission: rabrg.kitpvp.commands.setkillstreak
+    usage: Syntax error! Simply type /setkillstreak <player> <killstreak> to set that player's killstreak.
+  deaths:
+    description: Get the death count of a player
+    permission: rabrg.kitpvp.commands.deaths
+    usage: Syntax error! Simply type /deaths <player> to get that player's death count.
+  setdeaths:
+    description: Sets the death count of a player
+    permission: rabrg.kitpvp.commands.setdeaths
+    usage: Syntax error! Simply type /setdeaths <player> <deaths> to set that player's death count.
+  kits:
+    description: Gets a list of all available kits
+    permission: rabrg.kitpvp.commands.kits
